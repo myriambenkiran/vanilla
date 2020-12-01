@@ -1,11 +1,15 @@
 .App {
   text-align: center;
+  position: relative;
+  min-height: 100%;
+  border:1px solid black;
 }
 
-html, body, #root, .App {
- height: 100%;
- position: relative;
+html, body, #root{
+      height:100%;
+      width:100%;
 }
+
 
 .App-logo {
   height: 40vmin;
