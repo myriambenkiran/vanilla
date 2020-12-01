@@ -15,8 +15,6 @@ class Footer extends React.Component {
         		<div className="FooterMenu">
                 		<Link exact to="/about"> About Vanilla </Link>
                     	<Link exact to="/contact"> Contact us </Link>
-                    	<Link exact to="/privacy"> Privacy Policy </Link>
-                    	<Link exact to="/terms"> Terms of use </Link>
         		</div>
         	</div>
 
