@@ -1,0 +1,30 @@
+.Footer{
+	background-color: rgba(243,229,171,0.5);
+	height: 115px;
+	display: flex;
+	align-items: center;
+}
+
+
+.Footer p{
+	text-align:left;
+	margin:0;
+	margin-left:15%;
+	font-size: 12.5px;
+	font-weight: 500;
+	font-size:17px;
+}
+
+.FooterMenu{
+	position: relative;
+	margin:0 40px;
+	vertical-align: center;
+}
+
+.FooterMenu a{
+	color: black;
+	text-decoration: none;
+	margin:0 20px;
+	font-weight: medium;
+	font-size:14px;
+}

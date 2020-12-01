@@ -1,0 +1,114 @@
+
+.Home{
+	margin-top:200px;
+}
+
+.Images img{
+	max-height:650px;
+	max-width: 450px;
+	object-fit: fill;
+	transform: translateX(-150px);
+}
+
+.Images{
+	display: flex;
+}
+
+.Text{
+	margin-top: 150px;
+	margin-left:-300px;
+	z-index:1;
+}
+
+.Text h1{
+	text-align: left;
+	color:#FFFEEB;
+	font-size: 75px;
+	margin:10px 0;
+	padding:3px;
+	border-radius: 4px;
+	background-color: #F3E5AB;
+	width: fit-content;
+	font-weight: bold;
+}
+
+.Text p{
+	text-align: left;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.Main{
+	display: flex;
+	margin:30px 0;
+}
+
+.HowItWorks{
+	margin: 100px 0;
+}
+
+.HowItWorks h1{
+	font-size: 35px;
+	font-weight: semi-bold;
+}
+
+.Steps{
+	margin:100px;
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.Step{
+	width: 300px;
+}
+
+
+.title{
+	display: flex;
+	justify-content: center;
+	margin:10px 0;
+	align-items: center;
+}
+
+.instructions{
+	text-align: center;
+	margin:auto;
+}
+
+.instructions p{
+	font-size:18px;
+}
+
+.title h3{
+	position: relative;
+	top:50%;
+	margin:0;
+	font-size:20px;
+	font-weight: medium;
+}
+
+.number{
+	margin:5px 10px;
+	background-color: #F3E5AB;
+	padding: 5px;
+	border-radius: 4px;
+	font-size:20px;
+}
+
+
+.Brand img{
+	width: 150px;
+}
+
+.PickBrand{
+	padding:100px;
+}
+
+
+.Brands{
+	width: 70%;
+	margin: 100px auto;
+	display: flex;
+	justify-content: space-around;
+}

@@ -1,0 +1,38 @@
+.Contact{
+	text-align: left;
+	margin:50px 100px;
+	margin-top:200px;
+}
+.title h1{
+	font-size:35px;
+	font-weight: semi-bold;
+	text-align: left;
+	margin:50px 0 ;
+}
+
+.title{
+	text-align: left;
+	display: flex;
+	justify-content: left;
+}
+
+.title img{
+	width: 50px;
+	margin:15px;
+}
+
+.Contact h4{
+	font-size: 20px;
+	font-weight: semi-bold;
+	margin:10px 0;
+}
+
+.Contact p{
+	font-size: 18px;
+	font-weight: medium;
+	margin:10px 0;
+}
+
+.phone{
+	margin: 50px 0;
+}

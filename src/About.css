@@ -1,0 +1,109 @@
+.About{
+	text-align: justify;
+	margin:100px;
+	margin-top:200px;
+}
+
+.mission{
+	width: 90%;
+	margin: auto;
+}
+
+.About h1{
+	font-size:35px;
+	font-weight: semi-bold;
+	text-align: left;
+	margin:0;
+}
+
+.About h4{
+	font-size:18px;
+	font-weight: 500;
+	text-align: left;
+	margin:20px 0 ;
+	color:#F3E5AB;
+}
+
+.About p{
+	font-size: 18px;
+	font-weight: medium;
+	margin:40px 0;
+	line-height: 32.02px;
+
+}
+
+.Value{
+	width: 90%;
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+
+.Things{
+	margin: 100px 0;
+	width: 50%;
+}
+
+
+.slides {
+  position: relative;
+  display: block!important;
+}
+
+.slides .slick-prev,
+.slides .slick-next {
+  position: absolute;
+  top: 100%;
+  z-index:1;
+
+}
+
+
+.slick-prev:before,
+.slick-next:before {
+	color: black!important;
+	background-image: url('./images/next.png');
+	width: 120px!important;
+	height: 120px;
+	border:1px solid blue;
+}
+
+.slick-next:before{
+	content: ""!important;
+	font-size:50px!important;
+	right:100!important;
+}
+
+.slick-prev:before{
+	content: "<"!important;
+	left:0!important;
+}
+
+.SliderArrowNext{
+	position: absolute;
+  	top: 100%;
+  	margin-left:60px;
+  	z-index:1;
+  	background-image: url('./images/next.png');
+  	background-repeat: no-repeat;
+	vertical-align: middle;
+	background-size: 100%;
+  	height: 60px;
+  	width: 60px;
+  	border:1px solid blue;
+}
+
+.SliderArrowPrev{
+	position: absolute;
+  	top: 100%;
+  	z-index:1;
+  	height: 60px;
+  	width: 60px;
+  	background-image: url('./images/next.png');
+
+  	border:1px solid blue;
+}
+
+
+
+
