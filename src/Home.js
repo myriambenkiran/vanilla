@@ -11,7 +11,7 @@ const steps = [
     {
         "id": "1",
         "title": "Decide what you want",
-        "src": "./images/step1.png",
+        "src": ".step1",
         "instructions": "Browse our catalogues and choose from our range of brands.",
     },
     {
@@ -90,7 +90,7 @@ class Step extends React.Component {
 		let step = this.props;
 		return (
 		    <div className="Step">
-        		<img src={require(`${step.src}`)} />
+        		<img src={require('./images/home1.jpg')} alt="" className="img-responsive" />
         		<div className="title">
         			<div className="number">
         				<p>{step.id}</p>
