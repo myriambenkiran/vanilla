@@ -90,7 +90,7 @@ class Step extends React.Component {
 		let step = this.props;
 		return (
 		    <div className="Step">
-        		<img src={require(./images/home1.jpg)} />
+        		<img src={require(`${step.src}`)} />
         		<div className="title">
         			<div className="number">
         				<p>{step.id}</p>
