@@ -2,7 +2,7 @@
   text-align: center;
   position: relative;
   min-height: 100%;
-  border:1px solid black;
+  border:1px solid white;
 }
 
 html, body, #root{
