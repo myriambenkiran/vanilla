@@ -123,10 +123,10 @@
 
 
 .Images img{
-	width: 33.3%;
+	width: 40%;
 	height: auto;
 	max-height: 270px;
-	transform: none;
+	transform: translateX(-50px);
 }
 
 .Text{
