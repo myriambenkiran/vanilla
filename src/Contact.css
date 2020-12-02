@@ -41,7 +41,7 @@
 @media only screen and (max-width: 600px) {
 
 .Contact .title h1{
-	font-size:28px;
+	font-size:23px;
 }
 
 .Contact h4{
@@ -50,6 +50,10 @@
 
 .Contact p{
 	font-size: 15px;
+}
+
+.Contact{
+		margin-bottom: 150px;
 }
 
 }
