@@ -131,8 +131,8 @@
 }
 
 .Text{
-	margin-top: 150px;
-	margin: auto;
+	margin:auto;
+	margin-top: -150px;
 	z-index:1;
 }
 .Text h1{

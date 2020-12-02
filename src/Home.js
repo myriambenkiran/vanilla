@@ -11,13 +11,13 @@ const steps = [
     {
         "id": "1",
         "title": "Decide what you want",
-        "src": ".step1",
+        "src": "./images/home1.jpg",
         "instructions": "Browse our catalogues and choose from our range of brands.",
     },
     {
         "id": "2",
         "title": "Decide what you want",
-        "src": "/images/step2.png",
+        "src": "./images/step2.png",
         "instructions": "Browse our catalogues and choose from our range of brands."
     },
     {
@@ -91,7 +91,7 @@ class Step extends React.Component {
 		let step = this.props;
 		return (
 		    <div className="Step">
-        		<img src={require(`${step.src}`)} alt="" className="img-responsive" />
+        		<img src={require(`${this.props.src}`)} alt="" className="img-responsive" />
         		<div className="title">
         			<div className="number">
         				<p>{step.id}</p>
@@ -130,7 +130,7 @@ class Brand extends React.Component {
     	let brand = this.props;
         return (
         	<div className="Brand">
-        		<img src={require(`${brand.src}`)}/>
+        		<img src={require(`${this.props.src}`)}/>
         		<h3>{brand.name}</h3>
         	</div>
 
