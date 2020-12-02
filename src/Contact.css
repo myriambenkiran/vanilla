@@ -37,3 +37,19 @@
 .phone{
 	margin: 50px 0;
 }
+
+@media only screen and (max-width: 600px) {
+
+.Contact .title h1{
+	font-size:28px;
+}
+
+.Contact h4{
+	font-size: 15px;
+}
+
+.Contact p{
+	font-size: 15px;
+}
+
+}

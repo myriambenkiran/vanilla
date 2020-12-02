@@ -111,6 +111,18 @@
 	width: 90%;
 	margin: auto;
 }
+.About h1{
+	font-size:23px;
+}
+
+.About h4{
+
+}
+
+.About p{
+	font-size: 15px;
+	line-height: 20px;
+}
 
 }
 
