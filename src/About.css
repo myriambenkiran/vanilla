@@ -1,6 +1,6 @@
 .About{
 	text-align: justify;
-	margin:200px 100px;
+	margin:200px 10%;
 }
 
 .mission{
@@ -39,7 +39,7 @@
 }
 
 .Things{
-	margin: 100px 0;
+	margin: 10% 0;
 	width: 50%;
 }
 
@@ -97,6 +97,22 @@
   	border:1px solid blue;
 }
 
+@media only screen and (max-width: 600px) {
+	.Value img{
+		display: none;
+	}
+
+	.Value{
+	width: 90%;
+	margin: auto;		
+	}
+
+	.Things{
+	width: 90%;
+	margin: auto;
+}
+
+}
 
 
 

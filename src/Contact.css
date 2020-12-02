@@ -1,24 +1,25 @@
 .Contact{
 	text-align: left;
-	margin:50px 100px;
-	margin-top:200px;
+	margin:200px 10%;
 }
-.title h1{
+.Contact .title h1{
 	font-size:35px;
 	font-weight: semi-bold;
 	text-align: left;
 	margin:50px 0 ;
 }
 
-.title{
+.Contact .title{
 	text-align: left;
 	display: flex;
 	justify-content: left;
+	align-items: center;
 }
 
-.title img{
-	width: 50px;
+.Contact .title img{
 	margin:15px;
+	width: auto;
+  	height: 60px;
 }
 
 .Contact h4{

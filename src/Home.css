@@ -44,7 +44,6 @@
 }
 
 .HowItWorks{
-	border:1px solid blue;
 	margin: 100px 0;
 }
 
@@ -103,13 +102,11 @@
 }
 
 .PickBrand{
-	border:1px solid blue;
 	padding:10%;
 }
 
 
 .Brands{
-	border:1px solid blue;
 	width: 70%;
 	margin: 10% auto;
 	display: flex;
@@ -124,12 +121,10 @@
 	flex-direction: column;
 }
 
-.Images{
-	width: 100%;
-  }
 
 .Images img{
 	width: 33.3%;
+	height: auto;
 	transform: none;
 }
 
