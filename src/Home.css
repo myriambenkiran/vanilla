@@ -125,6 +125,7 @@
 .Images img{
 	width: 33.3%;
 	height: auto;
+	max-height: 300px;
 	transform: none;
 }
 
