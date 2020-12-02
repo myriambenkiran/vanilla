@@ -31,3 +31,25 @@
 	font-weight: medium;
 	font-size:14px;
 }
+
+@media only screen and (max-width: 600px) {
+	.Footer p{
+	text-align: center;
+	margin:auto;
+}
+
+	.Footer a{
+	text-align: center;
+	margin:auto 20px;
+}
+.Footer{
+	flex-direction: column-reverse;
+	justify-content: space-around;
+	margin:0 auto;
+}
+
+.FooterMenu{
+	margin-top: 5%;
+}
+
+}

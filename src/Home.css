@@ -112,3 +112,52 @@
 	display: flex;
 	justify-content: space-around;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+.Main{
+	flex-direction: column;
+}
+
+.Images{
+	width: 100%;
+  }
+
+.Images img{
+	width: 33.3%;
+	transform: none;
+}
+
+.Text{
+	margin-top: 150px;
+	margin: auto;
+	z-index:1;
+}
+.Text h1{
+	text-align: center;
+}
+
+.Text p{
+	text-align: center;
+}
+
+.Steps{
+	flex-direction: column;
+
+}
+
+.Step{
+	width: 100%;
+	margin:5% auto;
+}
+
+.Brands{
+	flex-direction: column;
+}
+
+.Brand{
+	width: 100%;
+	margin:5% auto;
+}
+}
