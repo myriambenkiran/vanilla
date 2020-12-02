@@ -1,6 +1,6 @@
 
 .Home{
-	margin-top:200px;
+	margin:200px auto;
 }
 
 .Images img{
@@ -44,6 +44,7 @@
 }
 
 .HowItWorks{
+	border:1px solid blue;
 	margin: 100px 0;
 }
 
@@ -102,14 +103,17 @@
 }
 
 .PickBrand{
-	padding:100px;
+	border:1px solid blue;
+	padding:10%;
 }
 
 
 .Brands{
+	border:1px solid blue;
 	width: 70%;
 	margin: 10% auto;
 	display: flex;
+	text-align:center;
 	justify-content: space-around;
 }
 
