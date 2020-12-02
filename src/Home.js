@@ -87,10 +87,11 @@ class HowItWorks extends React.Component {
 
 class Step extends React.Component {
 	render() {
+        const src = require('./images/home1.jpg');
 		let step = this.props;
 		return (
 		    <div className="Step">
-        		<img src={require('./images/home1.jpg')} alt="" className="img-responsive" />
+        		<img src={require(`${step.src}`)} alt="" className="img-responsive" />
         		<div className="title">
         			<div className="number">
         				<p>{step.id}</p>
