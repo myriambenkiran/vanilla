@@ -1,6 +1,7 @@
 
 .Home{
 	margin:200px auto;
+	overflow-x: hidden;
 }
 
 .Images img{
@@ -137,10 +138,12 @@
 .Text h1{
 	text-align: center;
 	margin:10px auto;
+	font-size:50px;
 }
 
 .Text p{
 	text-align: center;
+	font-size: 15px;
 }
 
 .Steps{
@@ -160,5 +163,33 @@
 .Brand{
 	width: 100%;
 	margin:10% auto;
+}
+
+.instructions p{
+	font-size: 15px;
+}
+
+.title h3{
+	font-size: 15px;
+}
+
+.HowItWorks h1{
+	font-size: 23px;
+}
+
+.HowItWorks h3{
+	font-size: 15px;
+}
+
+.Brand h3{
+	font-size: 15px;
+}
+
+.PickBrand h1{
+	font-size: 23px;
+}
+
+.Home{
+	margin-bottom: 150px;
 }
 }
