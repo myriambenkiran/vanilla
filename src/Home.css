@@ -126,6 +126,7 @@
 
 .Images img{
 	width: 33.3%;
+	height: auto;
 	transform: none;
 }
 
