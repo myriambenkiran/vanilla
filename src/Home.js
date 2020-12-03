@@ -133,6 +133,7 @@ class Brand extends React.Component {
         	<div className="Brand">
         		<img src={brand.src}/>
         		<h3>{brand.name}</h3>
+
         	</div>
 
        	);

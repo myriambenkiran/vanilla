@@ -48,7 +48,12 @@ const values = [
         src: "/.images/values/value4.png"
     },
     {
-        "title": "09. Have Fun!",
+        "title": "09. Curiosity is what leads us to achievement",
+        description: "We’re driven by curiosity, a thirst of knowledge and the belief that any problem has at least one solution.",
+        src: "/.images/values/value4.png"
+    },
+    {
+        "title": "10. Have Fun!",
         description: "Work is challenging but we believe that the challenge should be fun. We believe that great, creative things are more likely to happen when people are happy and serene.",
         src: "/.images/values/value4.png"
     }
@@ -103,8 +108,8 @@ class About extends React.Component {
                     <p>This mission is our guardrails to ensure everything that is done by us and our community is true to our purpose, differentiates us from others and helps us meet all our challenges.</p>
                 </div>
                 <div className="Things">
-                    <h4>9 things we believe in</h4>
-                    <p>We wrote this list of '9 things we believe in' to share our life philosophy and hopefully inspire incredible people to join us. We hope it does – and you can hold us that this list stays true.</p>
+                    <h4>10 things we believe in</h4>
+                    <p>We wrote this list of '10 things we believe in' to share our life philosophy and hopefully inspire incredible people to join us. We hope it does – and you can hold us that this list stays true.</p>
                 </div>
                 <Slider {...settings}>
                     {values.map(v => <Value key={v.id} {...v} />)}
@@ -147,7 +152,7 @@ class Value extends React.Component {
                     <h1>{value.title}</h1>
                     <p>{value.description}</p>
                 </div>
-                <img src="./images/values/step1.png"/>
+                <img src="./images/value1.png"/>
             </div>
 
         );
