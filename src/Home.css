@@ -17,7 +17,7 @@
 
 .Text{
 	margin-top: 150px;
-	margin-left:-300px;
+	margin-left:-350px;
 	z-index:1;
 }
 
@@ -99,7 +99,7 @@
 
 
 .Brand img{
-	width: 150px;
+	width: 100px;
 }
 
 .PickBrand{

@@ -11,7 +11,7 @@ class Header extends React.Component {
         return (
         	<div className="Header">
         		<div className="Top_Banner">
-        			<p>No minimum order size | Just £5 delivery fee | Send a text to order: (+44) 773 783 29 09 </p>
+        			<p>No minimum order size | Just £3 delivery fee | Send a text to order: (+44) 773 783 29 09 </p>
         		</div>
         		<h1>Vanilla</h1>
         		<div className="Menu">

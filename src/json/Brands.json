@@ -1,27 +1,22 @@
 [
     {
         "id": "1",
+        "name": "AESOP",
+        "src": "./images/brands/AESOP.png"
+    },
+    {
+        "id": "2",
         "name": "Dermologica",
         "src": "./images/brands/dermalogica.png"
     },
     {
-        "id": "2",
-        "name": "Face Gym",
-        "src": "./images/brands/facegym.png"
-    },
-    {
         "id": "3",
-        "name": "Glossier",
-        "src": "./images/brands/glossier.png"
+        "name": "L'Occitane",
+        "src": "./images/brands/loccitane.png"
     },
     {
         "id": "3",
         "name": "Origins",
         "src": "./images/brands/origins.png"
-    },
-    {
-        "id": "5",
-        "name": "L'Occitane",
-        "src": "./images/brands/loccitane.png"
     }
 ]

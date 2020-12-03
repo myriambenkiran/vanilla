@@ -103,7 +103,7 @@ class About extends React.Component {
                     <p>This mission is our guardrails to ensure everything that is done by us and our community is true to our purpose, differentiates us from others and helps us meet all our challenges.</p>
                 </div>
                 <div className="Things">
-                    <h4>10 things we believe in</h4>
+                    <h4>9 things we believe in</h4>
                     <p>We wrote this list of '9 things we believe in' to share our life philosophy and hopefully inspire incredible people to join us. We hope it does – and you can hold us that this list stays true.</p>
                 </div>
                 <Slider {...settings}>
@@ -147,7 +147,7 @@ class Value extends React.Component {
                     <h1>{value.title}</h1>
                     <p>{value.description}</p>
                 </div>
-                <img src={value.src}/>
+                <img src="./images/values/step1.png"/>
             </div>
 
         );

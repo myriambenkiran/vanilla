@@ -11,20 +11,20 @@ const steps = [
     {
         "id": "1",
         "title": "Decide what you want",
-        "src": "./images/home1.jpg",
-        "instructions": "Browse our catalogues and choose from our range of brands.",
+        "src": "./images/step1.png",
+        "instructions": "Access range of products from our brands catalogues",
     },
     {
         "id": "2",
-        "title": "Decide what you want",
+        "title": "Text us to order",
         "src": "./images/step2.png",
-        "instructions": "Browse our catalogues and choose from our range of brands."
+        "instructions": "Text us the ID of each product you want to place an order"
     },
     {
         "id": "3",
-        "title": "Decide what you want",
+        "title": "We’re here! (in minutes)",
         "src": "./images/step3.png",
-        "instructions": "Browse our catalogues and choose from our range of brands."
+        "instructions": "Pay by debit cards upon delivery"
     }
 ];
 
@@ -59,7 +59,7 @@ class Main extends React.Component {
         			<h1> Simplify </h1>
         			<h1> your </h1>
         			<h1> Life </h1>
-        			<p> Get beauty to your door under an hour </p>
+        			<p> Get your skincare favourites in minutes </p>
         		</div>
         	</div>
 
@@ -79,6 +79,7 @@ class HowItWorks extends React.Component {
         			{steps.map(s => <Step key={s.id} {...s} />)}
         		</div>
         		<h3>Text to order: (+44) 773 783 2909</h3>
+                <p>We currently deliver the amazing SW1, SW3, SW6, SW7 and SW10 districts.</p>
         	</div>
 
        	);
@@ -91,7 +92,7 @@ class Step extends React.Component {
 		let step = this.props;
 		return (
 		    <div className="Step">
-        		<img src={require(`${this.props.src}`)} alt="" className="img-responsive" />
+        		<img src={step.src} alt="" className="img-responsive" />
         		<div className="title">
         			<div className="number">
         				<p>{step.id}</p>
@@ -130,7 +131,7 @@ class Brand extends React.Component {
     	let brand = this.props;
         return (
         	<div className="Brand">
-        		<img src={require(`${this.props.src}`)}/>
+        		<img src={brand.src}/>
         		<h3>{brand.name}</h3>
         	</div>
 

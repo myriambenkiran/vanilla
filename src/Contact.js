@@ -12,7 +12,7 @@ class Contact extends React.Component {
         return (
         	<div className="Contact">
                 <div className="title">
-                    <h1>Welcome to the Vanilla Support Center</h1>
+                    <h1>Welcome to the Vanilla Help Center</h1>
                     <img src={help}/>
                 </div>
                 <h4>Send us a text or Call us to get personalised support</h4>
