@@ -115,7 +115,13 @@
 	justify-content: space-around;
 }
 
+.Brand a h3{
+	color:black;
+}
 
+.Brand a{
+	text-decoration: none;
+}
 
 @media only screen and (max-width: 600px) {
 .Main{
@@ -183,13 +189,8 @@
 
 .Brand a h3{
 	font-size: 15px;
-	text-decoration: none;
-	color:black;
 }
 
-.Brand a{
-	text-decoration: none;
-}
 
 .PickBrand h1{
 	font-size: 23px;
