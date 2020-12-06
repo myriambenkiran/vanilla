@@ -2,21 +2,25 @@
     {
         "id": "1",
         "name": "AESOP",
-        "src": "./images/brands/aesop.png"
+        "src": "./images/brands/aesop.png",
+        "pdf":"./pdf/Aesop.pdf"
     },
     {
         "id": "2",
-        "name": "Dermologica",
-        "src": "./images/brands/dermalogica.png"
+        "name": "Dermalogica",
+        "src": "./images/brands/dermalogica.png",
+        "pdf":"./pdf/Dermalogica.pdf"
     },
     {
         "id": "3",
         "name": "L'Occitane",
-        "src": "./images/brands/loccitane.png"
+        "src": "./images/brands/loccitane.png",
+        "pdf":"./pdf/Loccitane.pdf"
     },
     {
         "id": "3",
         "name": "Origins",
-        "src": "./images/brands/origins.png"
+        "src": "./images/brands/origins.png",
+        "pdf":"./pdf/Origins.pdf"
     }
 ]

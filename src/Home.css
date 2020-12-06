@@ -185,6 +185,11 @@
 	font-size: 15px;
 }
 
+a{
+	color:black;
+	text-decoration: none;
+}
+
 .PickBrand h1{
 	font-size: 23px;
 }

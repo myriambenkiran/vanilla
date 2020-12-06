@@ -6,6 +6,7 @@ import About from './About.js';
 import Footer from './Footer.js'
 import {Switch, Route} from 'react-router-dom';
 import { BrowserRouter as Router } from 'react-router-dom'; 
+import Pdf from './Pdf.js';
 
 function App() {
   return (

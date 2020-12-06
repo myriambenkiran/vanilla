@@ -1,11 +1,18 @@
 import React from 'react';
 import './Home.css';
 import {Img} from 'react-image'
-import home1 from './images/home1.jpg';
+import home12 from './images/home1.jpg';
 import home2 from './images/home2.jpg';
 import home3 from './images/home3.jpg';
 import brands from './json/Brands.json';
+import { Link } from 'react-router-dom';
+import {withRouter} from 'react-router';
+import pdf from './pdf/Aesop.pdf';
+import { load } from 'react-require';
 
+
+const pdf2 = require('./pdf/Aesop.pdf').default;
+const home1 = require('./images/home1.jpg').default;
 
 const steps = [
     {
@@ -126,14 +133,15 @@ class Brands extends React.Component {
 
 class Brand extends React.Component {
 
-
     render() {
+        
     	let brand = this.props;
         return (
         	<div className="Brand">
-        		<img src={brand.src}/>
+                <a href={require(`${brand.pdf}`).default} target="_blank">
+        		<img src={require(`${brand.src}`).default}/>
         		<h3>{brand.name}</h3>
-
+                </a>
         	</div>
 
        	);
@@ -141,6 +149,4 @@ class Brand extends React.Component {
 }
 
 
-
-
-export default Home;
+export default withRouter(Home);

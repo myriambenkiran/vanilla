@@ -30,32 +30,32 @@ const values = [
     {
         "title": "05. Work hard until you’re lucky enough to succeed",
         description: "We believe success is the result of tremendous efforts and tireless determination.",
-        src: "./images/values/value4.png"
+        src: "./images/values/value5.png"
     },
     {
         "title": "06. Serenity and calm are your best allies",
         description: "We believe that we are more likely to make right decisions when we stay calm. Especially during tough times.",
-        src: "./images/values/value4.png"
+        src: "./images/values/value6.png"
     },
     {
         "title": "07. You can reach ambitious targets without doing evil",
         description: "We set aggressive targets and we’re driven to reach them while holding true to our beliefs.",
-        src: "/.images/values/value4.png"
+        src: "./images/values/value7.png"
     },
     {
         "title": "08. Loyalty and Reliability build meaningful relationships",
         description: "We’re loyal and reliable and you can hold us on that.",
-        src: "/.images/values/value4.png"
+        src: "./images/values/value8.png"
     },
     {
         "title": "09. Curiosity is what leads us to achievement",
         description: "We’re driven by curiosity, a thirst of knowledge and the belief that any problem has at least one solution.",
-        src: "/.images/values/value4.png"
+        src: "./images/values/value9.png"
     },
     {
         "title": "10. Have Fun!",
         description: "Work is challenging but we believe that the challenge should be fun. We believe that great, creative things are more likely to happen when people are happy and serene.",
-        src: "/.images/values/value4.png"
+        src: "./images/values/value10.png"
     }
 ]
 
@@ -148,11 +148,11 @@ class Value extends React.Component {
 
         return (
             <div className="Value">
-                <div>
+                <div className="value_text">
                     <h1>{value.title}</h1>
                     <p>{value.description}</p>
                 </div>
-                <img src="./images/value1.png"/>
+                <img src={require(`${value.src}`).default}/>
             </div>
 
         );
