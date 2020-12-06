@@ -5,8 +5,9 @@
 }
 
 .Images img{
-	height: auto;
 	max-width: 450px;
+	height: auto;
+	max-height: 700px;
 	object-fit: fill;
 	transform: translateX(-150px);
 }
