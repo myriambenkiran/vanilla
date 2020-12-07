@@ -19,7 +19,7 @@
 
 .Text{
 	margin-top: 150px;
-	margin-left:-350px;
+	margin-left:-25%;
 	z-index:1;
 }
 
@@ -47,7 +47,7 @@
 }
 
 .HowItWorks{
-	margin: 100px 0;
+	margin: 5% 0;
 }
 
 .HowItWorks h1{
@@ -56,7 +56,7 @@
 }
 
 .Steps{
-	margin:10%;
+	margin:5% 10%;
 	display: flex;
 	justify-content: space-around;
 }
@@ -105,7 +105,8 @@
 }
 
 .PickBrand{
-	padding:10%;
+	padding:5% 10%;
+	padding-bottom: 0;
 }
 
 
