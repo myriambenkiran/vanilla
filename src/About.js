@@ -19,7 +19,7 @@ const values = [
     },
     {
         "title": "03. Simpler is Happier",
-        description: "We believe that simplicity makes lives happier, not complexity.",
+        description: "We believe the simplier the happier your life is and we like making our life simple by seeking efficiency in everything we do.  We know that your time is valuable, so when you’re looking for beauty you should get it right away and we aim to please.",
         src: "./images/values/value3.png"
     },
     {
@@ -88,6 +88,8 @@ class About extends React.Component {
     render() {
         const settings = {
             dots: true,
+            dotsClass: "slick-dots slick-thumb",
+            dotWidth:1,
             fade: true,
             infinite: true,
             speed:500,
@@ -152,7 +154,7 @@ class Value extends React.Component {
                     <h1>{value.title}</h1>
                     <p>{value.description}</p>
                 </div>
-                <img src={require(`${value.src}`).default}/>
+                <img className="value_img" src={require(`${value.src}`).default}/>
             </div>
 
         );

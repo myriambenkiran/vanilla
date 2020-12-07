@@ -105,17 +105,17 @@
 }
 
 @media only screen and (max-width: 600px) {
-	.Value img{
+	.value_img{
 		display: none;
 	}
 
 	.Value{
-	width: 90%;
+	width: 100%;
 	margin: auto;		
 	}
 
 	.Things{
-	width: 90%;
+	width: 100%;
 	margin: auto;
 }
 .About h1{
@@ -133,6 +133,16 @@
 .About{
 	margin-bottom: 150px;
 }
+
+    .slick-dots li button:before
+    {
+    	width: 15px!important;
+    }
+
+
+    .slick-dots li{
+    	width: 15px!important;   	
+    }
 
 }
 

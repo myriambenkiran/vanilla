@@ -20,7 +20,7 @@ const steps = [
         "id": "1",
         "title": "Decide what you want",
         "src": "./images/step1.png",
-        "instructions": "Access range of products from our brands catalogues",
+        "instructions": "Access a range of products from our brands selection",
     },
     {
         "id": "2",
