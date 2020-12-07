@@ -20,7 +20,9 @@
 .Text{
 	margin-top: 150px;
 	margin-left:-25%;
+	position: relative;
 	z-index:1;
+	min-width: 500px;
 }
 
 .Text h1{
@@ -109,6 +111,10 @@
 	padding-bottom: 0;
 }
 
+.produits{
+	width: 60%;
+}
+
 
 .Brands{
 	width: 70%;
@@ -143,6 +149,7 @@
 	margin:auto;
 	margin-top: -150px;
 	z-index:1;
+	min-width: 0px;
 }
 .Text h1{
 	text-align: center;
@@ -202,4 +209,14 @@
 .Home{
 	margin: 140px 0;
 }
+
+.produits{
+	width: 100%;
+}
+.PickBrand h3{
+	font-size: 15px;
+}
+
+
+
 }

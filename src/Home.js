@@ -4,6 +4,7 @@ import {Img} from 'react-image'
 import home12 from './images/home1.jpg';
 import home2 from './images/home2.jpg';
 import home3 from './images/home3.jpg';
+import home4 from './images/home4.png';
 import brands from './json/Brands.json';
 import { Link } from 'react-router-dom';
 import {withRouter} from 'react-router';
@@ -124,6 +125,9 @@ class Brands extends React.Component {
         		<div className="Brands">
         		{brands.map(b => <Brand key={b.id} {...b} />)}
         		</div>
+                <img className="produits" src={home4}/>
+                <h3>Love this product? Get them in minutes</h3>
+                <p>Text to order: (+44) 773 783 2909</p>
         	</div>
 
        	);
