@@ -1,0 +1,22 @@
+Color code
+black: #232323;
+vanilla: #F3E5AB;
+creme: #9A9684;
+chocolate: #381A14;
+
+
+Font size laptop
+Title: 75px;
+header:(35px)/17px/13px
+sub title: 35px;
+important: 18px;
+paragraph: 18px;
+footer: 15px/14px;
+
+Font size mobile
+Title: 50px;
+header:(35px)/17px/13px
+sub title: 23px;
+important: 15px;
+paragraph: 15px;
+footer: 12px/11px;
