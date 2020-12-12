@@ -178,7 +178,7 @@
 
 .Steps{
 	flex-direction: column;
-	margin:10%;
+	margin:5%;
 }
 
 .Step{
@@ -203,11 +203,19 @@
 	font-size: 15px;
 }
 
+.HowItWorks{
+	margin:20% 10%;
+}
+
 .HowItWorks h1{
 	font-size: 23px;
 }
 
 .HowItWorks h3{
+	font-size: 15px;
+}
+
+.HowItWorks p{
 	font-size: 15px;
 }
 
@@ -231,6 +239,9 @@
 	font-size: 15px;
 }
 
+.PickBrand p{
+	font-size: 15px;
+}
 
 
 }
