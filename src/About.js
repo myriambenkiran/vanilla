@@ -1,5 +1,5 @@
 import React from 'react';
-import './About.css';
+import './style/About.css';
 import help from './images/help.png';
 import test from './images/home1.jpg';
 import Slider from 'react-slick';
