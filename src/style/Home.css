@@ -62,7 +62,7 @@
 }
 
 .Steps{
-	margin:5% 10%;
+	margin:5% 0;
 	display: flex;
 	justify-content: space-around;
 }
@@ -103,6 +103,15 @@
 	padding: 5px;
 	border-radius: 4px;
 	font-size:18px;
+}
+.TextUs{
+	background-color: rgba(243,229,171,0.5);
+	padding:1%;
+}
+
+.TextUs h3{
+	margin:0;
+	margin-bottom:1%;
 }
 
 
@@ -182,7 +191,7 @@
 }
 
 .Step{
-	width: 100%;
+	width: 80%;
 	margin:10% auto;
 }
 
@@ -204,7 +213,7 @@
 }
 
 .HowItWorks{
-	margin:20% 10%;
+	margin:20% 0;
 }
 
 .HowItWorks h1{
@@ -223,6 +232,9 @@
 	font-size: 15px;
 }
 
+.TextUs{
+	padding:5%;
+}
 
 .PickBrand h1{
 	font-size: 30px;

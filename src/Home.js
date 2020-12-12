@@ -86,8 +86,10 @@ class HowItWorks extends React.Component {
         		<div className="Steps">
         			{steps.map(s => <Step key={s.id} {...s} />)}
         		</div>
+                <div className="TextUs">
         		<h3>Text to order: (+44) 773 783 2909</h3>
                 <p>We currently deliver the amazing SW3, SW7 and SW10 districts.</p>
+                </div>
         	</div>
 
        	);
