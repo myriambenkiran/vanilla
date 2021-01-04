@@ -143,11 +143,12 @@ class Brand extends React.Component {
         
     	let brand = this.props;
         return (
-        	<div className="Brand">
+        	<div className="Brand" >
                 <a href={require(`${brand.pdf}`).default} target="_blank">
-        		<img src={require(`${brand.src}`).default}/>
-        		<h3>{brand.name}</h3>
+        		<img className={brand.open == 0 ? 'closedStores' : null } src={require(`${brand.src}`).default}/>
+        		<p className={brand.open == 0 ? 'closedStoresText' : 'openStoresText' } >CLOSED</p>
                 </a>
+                <h3>{brand.name}</h3>
         	</div>
 
        	);

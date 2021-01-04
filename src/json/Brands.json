@@ -3,24 +3,49 @@
         "id": "1",
         "name": "AESOP",
         "src": "./images/brands/aesop.png",
-        "pdf":"./pdf/Aesop.pdf"
+        "pdf":"./pdf/Aesop.pdf",
+        "open":"0"
     },
     {
         "id": "2",
         "name": "Dermalogica",
         "src": "./images/brands/dermalogica.png",
-        "pdf":"./pdf/Dermalogica.pdf"
+        "pdf":"./pdf/Dermalogica.pdf",
+        "open":"0"
     },
     {
         "id": "3",
         "name": "L'Occitane",
         "src": "./images/brands/loccitane.png",
-        "pdf":"./pdf/L'Occitane.pdf"
+        "pdf":"./pdf/L'Occitane.pdf",
+        "open":"0"
     },
     {
-        "id": "3",
+        "id": "4",
         "name": "Origins",
         "src": "./images/brands/origins.png",
-        "pdf":"./pdf/Origins.pdf"
+        "pdf":"./pdf/Origins.pdf",
+        "open":"0"
+    },
+    {
+        "id": "5",
+        "name": "Boots",
+        "src": "./images/brands/boots.png",
+        "pdf":"./pdf/Origins.pdf",
+        "open":"1"
+    },
+    {
+        "id": "6",
+        "name": "The Organic pharmarcy",
+        "src": "./images/brands/TheOrganicPharmarcy.png",
+        "pdf":"./pdf/Origins.pdf",
+        "open":"1"
+    },
+    {
+        "id": "7",
+        "name": "Anatome",
+        "src": "./images/brands/anatome.png",
+        "pdf":"./pdf/Origins.pdf",
+        "open":"1"
     }
 ]

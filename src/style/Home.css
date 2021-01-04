@@ -135,15 +135,21 @@
 
 .produits{
 	width: 60%;
+	margin-top: 10%;
 }
 
 
 .Brands{
-	width: 70%;
+	width: 100%;
 	margin: 10% auto;
 	display: flex;
 	text-align:center;
 	justify-content: space-around;
+}
+
+.Brand{
+	  position: relative;
+  text-align: center;
 }
 
 .Brand a h3{
@@ -153,6 +159,28 @@
 
 .Brand a{
 	text-decoration: none;
+}
+
+.Brand img{
+
+}
+
+.closedStores{
+	filter:grayscale(1);
+	-webkit-filter: grayscale(1);
+}
+
+.closedStoresText{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: red;
+      transform:rotate(-50deg);
+}
+
+.openStoresText{
+	display: none;
 }
 
 @media only screen and (max-width: 600px) {
