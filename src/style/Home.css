@@ -176,7 +176,8 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: red;
-      transform:rotate(-50deg);
+  font-weight: bold;
+  transform:rotate(-50deg);
 }
 
 .openStoresText{
