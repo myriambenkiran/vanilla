@@ -32,7 +32,7 @@ const steps = [
         "id": "3",
         "title": "We’re here! (in minutes)",
         "src": "./images/step3.png",
-        "instructions": "Pay by debit cards upon delivery"
+        "instructions": "Pay by debit cards upon our pollution free delivery"
     }
 ];
 
