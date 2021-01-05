@@ -41,13 +41,13 @@ const actionsCovid = [
         "id": "1",
         "title": "Contact-free deliveries",
         "src": "./images/action1.png",
-        "instructions": "You can opt for a contact-free delivery when you order with us",
+        "instructions": "You can opt for a contact-free delivery when ordering with us",
     },
     {
         "id": "2",
         "title": "Face covering and sanitized hands",
         "src": "./images/action2.png",
-        "instructions": "Our riders will be wearing face coverings and sanitised their hands before and after each delivery"
+        "instructions": "Our riders wear face coverings at all time and sanitised their hands before and after each delivery"
     },
     {
         "id": "3",
@@ -140,7 +140,7 @@ class Step extends React.Component {
 		let step = this.props;
 		return (
 		    <div className="Step">
-        		<img src={step.src} alt="" className="img-responsive" />
+        		<img src={require(`${step.src}`).default} alt="" className="img-responsive" />
         		<div className="title">
         			<div className="number">
         				<p>{step.id}</p>

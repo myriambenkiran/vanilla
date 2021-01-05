@@ -53,12 +53,12 @@
 }
 
 .HowItWorks h1{
-	font-size: 35px;
+	font-size: 30px;
 	font-weight: semi-bold;
 }
 
 .HowItWorks p{
-	font-size: 18px;
+	font-size: 15px;
 }
 
 .Steps{
@@ -85,14 +85,14 @@
 }
 
 .instructions p{
-	font-size:18px;
+	font-size:15px;
 }
 
 .title h3{
 	position: relative;
 	top:50%;
 	margin:0;
-	font-size:18px;
+	font-size:15px;
 	font-weight: medium;
 	width: fit-content;
 }
