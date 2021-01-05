@@ -166,8 +166,7 @@
 }
 
 .closedStores{
-	filter:grayscale(1);
-	-webkit-filter: grayscale(1);
+	filter: grayscale(0.5);
 }
 
 .closedStoresText{
@@ -175,9 +174,7 @@
   top:50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: red;
-  font-weight: bold;
-  transform:rotate(-50deg);
+  color: white;
 }
 
 .openStoresText{
