@@ -147,10 +147,11 @@
 	justify-content: space-around;
 }
 
-.Brand{
-	  position: relative;
+.BrandImg{
+		position: relative;
   text-align: center;
 }
+
 
 .Brand a h3{
 	color:#232323;
@@ -166,7 +167,7 @@
 }
 
 .closedStores{
-	filter: grayscale(0.5);
+	filter:brightness(0.25);
 }
 
 .closedStoresText{
@@ -175,6 +176,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+  font-weight: 300;
 }
 
 .openStoresText{
