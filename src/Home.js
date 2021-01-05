@@ -36,6 +36,27 @@ const steps = [
     }
 ];
 
+const actionsCovid = [
+    {
+        "id": "1",
+        "title": "Contact-free deliveries",
+        "src": "./images/action1.png",
+        "instructions": "You can opt for a contact-free delivery when you order with us",
+    },
+    {
+        "id": "2",
+        "title": "Face covering and sanitized hands",
+        "src": "./images/action2.png",
+        "instructions": "Our riders will be wearing face coverings and sanitised their hands before and after each delivery"
+    },
+    {
+        "id": "3",
+        "title": "No physical contact",
+        "src": "./images/action3.png",
+        "instructions": "Our riders will avoid all kinds of contact during orders, both with the shops and with you"
+    }
+];
+
 
 class Home extends React.Component {
 
@@ -45,6 +66,7 @@ class Home extends React.Component {
         	<div className="Home">
         		<Main/>
         		<HowItWorks/>
+                <HowWeProtectYou/>
         		<Brands/>
         	</div>
 
@@ -93,6 +115,22 @@ class HowItWorks extends React.Component {
         	</div>
 
        	);
+    }
+}
+
+class HowWeProtectYou extends React.Component {
+
+
+    render() {
+        return (
+            <div className="HowItWorks">
+                <h1>How we protect you</h1>
+                <div className="Steps">
+                    {actionsCovid.map(s => <Step key={s.id} {...s} />)}
+                </div>
+            </div>
+
+        );
     }
 }
 
