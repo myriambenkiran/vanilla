@@ -147,6 +147,10 @@
 	justify-content: space-around;
 }
 
+.Brand{
+	flex-basis: 100%;
+}
+
 .BrandImg{
 		position: relative;
   text-align: center;
