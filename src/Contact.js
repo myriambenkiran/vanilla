@@ -19,7 +19,7 @@ class Contact extends React.Component {
                 <p>Get help with anything. Available 24/7. </p>
                 <div className="phone">
                     <p>Phone: (+44) 773 783 29 09</p>
-                    <p>Email: suppot@vanilladelivery.com</p>
+                    <p>Email: support@vanilladelivery.com</p>
                 </div>
         	</div>
        	);
