@@ -38,14 +38,14 @@
         "id": "6",
         "name": "The Organic pharmarcy",
         "src": "./images/brands/TheOrganicPharmarcy.png",
-        "pdf":"./pdf/Origins.pdf",
+        "pdf":"./pdf/TheOrganicPharmarcy.pdf",
         "open":"1"
     },
     {
         "id": "7",
         "name": "Anatome",
         "src": "./images/brands/anatome.png",
-        "pdf":"./pdf/Origins.pdf",
+        "pdf":"./pdf/Anatome.pdf",
         "open":"1"
     }
 ]
