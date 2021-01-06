@@ -47,13 +47,13 @@ const actionsCovid = [
         "id": "2",
         "title": "Face covering and sanitized hands",
         "src": "./images/action2.png",
-        "instructions": "Our riders wear face coverings at all time and sanitised their hands before and after each delivery"
+        "instructions": "Our riders wear face coverings at all time and sanitise their hands before and after each delivery"
     },
     {
         "id": "3",
         "title": "No physical contact",
         "src": "./images/action3.png",
-        "instructions": "Our riders will avoid all kinds of contact during orders, both with the shops and with you"
+        "instructions": "Our riders avoid all kinds of contact during orders, both with the shops and with you"
     }
 ];
 
