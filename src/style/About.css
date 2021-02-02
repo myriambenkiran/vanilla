@@ -60,6 +60,7 @@
 	margin: 10% 0;
 }
 
+
 .JoinCom h1{
 	font-size: 30px;
 	font-weight: semi-bold;
@@ -72,15 +73,23 @@
 }
 
 .Coms{
-	margin:5% 0;
+	margin:5% auto;
 	display: flex;
 	justify-content: space-around;
+
 }
 
 .Com{
-	width: 300px;
+	width: fit-content;
+	margin: auto;
+	text-align: center;
 }
 
+.Com img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .Com .title{
 	display: flex;
@@ -98,6 +107,8 @@
 
 .Com .instructions p{
 	font-size:15px;
+		margin: 0;
+	padding: 0;
 }
 
 .Com .title h3{
