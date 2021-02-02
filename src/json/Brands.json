@@ -36,13 +36,6 @@
     },
     {
         "id": "6",
-        "name": "The Organic Pharmarcy",
-        "src": "./images/brands/TheOrganicPharmarcy.png",
-        "pdf":"./pdf/TheOrganicPharmarcy.pdf",
-        "open":"1"
-    },
-    {
-        "id": "7",
         "name": "Anatome",
         "src": "./images/brands/anatome.png",
         "pdf":"./pdf/Anatome.pdf",
