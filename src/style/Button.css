@@ -1,0 +1,24 @@
+.Button{
+	background-color: #FFFEEB;
+	margin: 1rem auto;
+	padding:1.5rem 3rem;
+	width: fit-content;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+a .Button{
+	margin:auto;
+	color:black;
+	font-weight: bold;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+a{
+	text-decoration:none;
+}
+
+.Button:hover {
+  background-color: black;
+  color: white;
+}
