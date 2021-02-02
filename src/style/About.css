@@ -56,6 +56,72 @@
   display: block!important;
 }
 
+.JoinCom{
+	margin: 10% 0;
+}
+
+.JoinCom h1{
+	font-size: 30px;
+	font-weight: semi-bold;
+	text-align: center;
+}
+
+.JoinCom p{
+	font-size: 15px;
+	line-height: normal;
+}
+
+.Coms{
+	margin:5% 0;
+	display: flex;
+	justify-content: space-around;
+}
+
+.Com{
+	width: 300px;
+}
+
+
+.Com .title{
+	display: flex;
+	margin:10px 0;
+	align-items: center;
+	justify-content: center;
+}
+
+.Com .instructions{
+	text-align: center;
+	margin:auto;
+	width: 250px;
+	padding: 0;
+}
+
+.Com .instructions p{
+	font-size:15px;
+}
+
+.Com .title h3{
+	position: relative;
+	top:50%;
+	margin:0;
+	font-size:15px;
+	font-weight: medium;
+	width: fit-content;
+}
+
+.Com .number{
+	margin:5px 10px;
+	background-color: #F3E5AB;
+	padding: 5px;
+	border-radius: 4px;
+	font-size:18px;
+}
+
+.Com .number p{
+	margin: 0;
+	padding: 0;
+}
+
 
 @media only screen and (max-width: 600px) {
 	.value_img{

@@ -59,6 +59,27 @@ const values = [
     }
 ]
 
+const coms = [
+    {
+        "id": "1",
+        "title": "Live more",
+        "src": "./images/step1.png",
+        "instructions": "Making your life easier and happier is our unique purpose. Order in seconds. Get delivered in minutes. When you need it.",
+    },
+    {
+        "id": "2",
+        "title": "Support your locals",
+        "src": "./images/step2.png",
+        "instructions": "People and their shops around are amazing and they should be our first shopping reflex. Let’s make them stronger all together."
+    },
+    {
+        "id": "3",
+        "title": "Support your planet",
+        "src": "./images/step3.png",
+        "instructions": "The products we propose are just around and we deliver them by bike. We don’t believe in unnecessary shipping pollution."
+    }
+];
+
 function SampleNextArrow(props) {
   const { className, style, onClick } = props;
   return (
@@ -109,6 +130,15 @@ class About extends React.Component {
                     <p>Our purpose is to make our user’s lives easier, empowering them to discover all about what’s next doors and connect them to their local places. We aim to deliver happiness by offering people time and taking the burden of shopping out of them while ensuring that their desire of convenience won’t hurt any life at any level.</p>
                     <p>This mission is our guardrails to ensure everything that is done by us and our community is true to our purpose, differentiates us from others and helps us meet all our challenges.</p>
                 </div>
+                <JoinCom/>
+                <div className="mission">
+                    <h4>Our Vision</h4>
+                    <h1>Any thing we need is around us</h1>
+                    <p>We are your new online skincare shop that lets you discover, order and receive in minutes products from your local shops.</p>
+                    <p>We believe that our locals should be our first reflex when it’s about shopping because everyting we need is just around. We believe in a new way to shop, a more simple and sensible way.</p>
+                    <p>We believe in the power of local communities to make your lives easier and happier. And more importantly we believe that with the right technology it can be done without hurting the environment we all live in.</p>
+                </div>
+
                 <div className="Things">
                     <h4>10 things we believe in</h4>
                     <p>We wrote this list of '10 things we believe in' to share our life philosophy and hopefully inspire incredible people to join us. We hope it does – and you can hold us that this list stays true.</p>
@@ -118,6 +148,43 @@ class About extends React.Component {
                 </Slider>
         	</div>
        	);
+    }
+}
+
+class JoinCom extends React.Component {
+
+
+    render() {
+        return (
+            <div className="JoinCom">
+                <h1>Join our community</h1>
+                <div className="Coms">
+                    {coms.map(s => <Com key={s.id} {...s} />)}
+                </div>
+            </div>
+
+        );
+    }
+}
+
+class Com extends React.Component {
+    render() {
+        const src = require('./images/home1.jpg');
+        let com = this.props;
+        return (
+            <div className="Com">
+                <img src={require(`${com.src}`).default} alt="" className="img-responsive" />
+                <div className="title">
+                    <div className="number">
+                        <p>{com.id}</p>
+                    </div>
+                    <h3>{com.title}</h3>
+                </div>
+                <div className="instructions">
+                    <p>{com.instructions}</p>
+                </div>
+            </div>
+        );
     }
 }
 

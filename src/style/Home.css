@@ -79,16 +79,17 @@
 	justify-content: center;
 }
 
-.instructions{
+.Step .instructions{
 	text-align: center;
 	margin:auto;
+	width: 250px;
 }
 
-.instructions p{
+.Step .instructions p{
 	font-size:15px;
 }
 
-.title h3{
+.Step .title h3{
 	position: relative;
 	top:50%;
 	margin:0;
