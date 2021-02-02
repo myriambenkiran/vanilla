@@ -18,21 +18,21 @@ const home1 = require('./images/home1.jpg').default;
 const steps = [
     {
         "id": "1",
-        "title": "Decide what you want",
+        "title": "Pick a shop",
         "src": "./images/step1.png",
-        "instructions": "Access a range of products from our brands selection",
+        "instructions": "Select which local shops you want to order from.",
     },
     {
         "id": "2",
         "title": "Text us to order",
         "src": "./images/step2.png",
-        "instructions": "Text us the ID of each product you want to place an order"
+        "instructions": "Text us what you want. There’s no minimum and you can place an order 24/7."
     },
     {
         "id": "3",
         "title": "We’re here! (in minutes)",
         "src": "./images/step3.png",
-        "instructions": "Pay by debit cards upon our pollution free delivery"
+        "instructions": "Receive your order few minutes later and pay upon our eco-delivery. The delivery fee is £3."
     }
 ];
 
