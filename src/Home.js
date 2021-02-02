@@ -66,7 +66,6 @@ class Home extends React.Component {
         	<div className="Home">
         		<Main/>
         		<HowItWorks/>
-                <HowWeProtectYou/>
         		<Brands/>
         	</div>
 
@@ -118,21 +117,6 @@ class HowItWorks extends React.Component {
     }
 }
 
-class HowWeProtectYou extends React.Component {
-
-
-    render() {
-        return (
-            <div className="HowItWorks">
-                <h1>How we protect you</h1>
-                <div className="Steps">
-                    {actionsCovid.map(s => <Step key={s.id} {...s} />)}
-                </div>
-            </div>
-
-        );
-    }
-}
 
 class Step extends React.Component {
 	render() {
