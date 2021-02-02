@@ -161,7 +161,7 @@ class Brands extends React.Component {
     render() {
         return (
         	<div className="PickBrand">
-        		<h1>Pick a brand</h1>
+        		<h1>Pick a shop</h1>
         		<div className="Brands">
         		{brands.map(b => <Brand key={b.id} {...b} />)}
         		</div>
