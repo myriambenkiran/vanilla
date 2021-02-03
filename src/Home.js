@@ -18,7 +18,7 @@ const home1 = require('./images/home1.jpg').default;
 const steps = [
     {
         "id": "1",
-        "title": "Pick a shop",
+        "title": "Pick a local shop",
         "src": "./images/step1.png",
         "instructions": "Select which local shops you want to order from.",
     },
@@ -145,7 +145,7 @@ class Brands extends React.Component {
     render() {
         return (
         	<div className="PickBrand">
-        		<h1>Pick a shop</h1>
+        		<h1>Pick a local shop</h1>
         		<div className="Brands">
         		{brands.map(b => <Brand key={b.id} {...b} />)}
         		</div>
