@@ -63,19 +63,19 @@ const coms = [
     {
         "id": "1",
         "title": "Live more",
-        "src": "./images/step1.png",
+        "src": "./images/com1.jpg",
         "instructions": "Making your life easier and happier is our unique purpose. Order in seconds. Get delivered in minutes. When you need it.",
     },
     {
         "id": "2",
         "title": "Support your locals",
-        "src": "./images/step2.png",
+        "src": "./images/com2.jpg",
         "instructions": "People and their shops around are amazing and they should be our first shopping reflex. Let’s make them stronger all together."
     },
     {
         "id": "3",
         "title": "Support your planet",
-        "src": "./images/step3.png",
+        "src": "./images/com3.jpg",
         "instructions": "The products we propose are just around and we deliver them by bike. We don’t believe in unnecessary shipping pollution."
     }
 ];
