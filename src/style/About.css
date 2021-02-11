@@ -156,6 +156,33 @@
 
 }
 
+.JoinCom{
+	margin:20% 0;
+}
+
+.JoinCom h1{
+	font-size: 30px;
+}
+
+.JoinCom h3{
+	font-size: 15px;
+}
+
+.JoinCom p{
+	font-size: 15px;
+}
+
+.Coms{
+	flex-direction: column;
+	margin:5%;
+}
+
+.Com{
+	width: 80%;
+	margin:10% auto;
+}
+
+
 .About p{
 	font-size: 15px;
 	line-height: 20px;
