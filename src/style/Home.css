@@ -195,7 +195,7 @@
 	transform: translateX(-50px);
 }
 .Images{
-	margin-bottom:20%;
+	margin-bottom:35%;
 }
 
 .Text{
@@ -212,6 +212,7 @@
 .Text p{
 	text-align: center;
 	font-size: 15px;
+	width: 60%;
 }
 
 .Steps{
