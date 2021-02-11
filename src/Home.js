@@ -88,7 +88,7 @@ class Main extends React.Component {
         			<h1> Simplify </h1>
         			<h1> your </h1>
         			<h1> Life </h1>
-        			<p> Discover. Order. Receive in minutes skincare from your local shops. </p>
+        			<p> You can now discover, order and get skincare products in minutes. </p>
         		</div>
         	</div>
 
