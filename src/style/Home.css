@@ -105,15 +105,6 @@
 	border-radius: 4px;
 	font-size:18px;
 }
-.TextUs{
-	background-color: rgba(243,229,171,0.5);
-	padding:1%;
-}
-
-.TextUs h3{
-	margin:0;
-	margin-bottom:1%;
-}
 
 
 .Brand img{
@@ -134,22 +125,17 @@
 	font-size:18px;
 }
 
-.produits{
-	width: 60%;
-	margin-top: 10%;
-}
-
-
 .Brands{
 	width: 100%;
 	margin: 10% auto;
 	display: flex;
+	flex-wrap: wrap;
 	text-align:center;
 	justify-content: space-around;
 }
 
 .Brand{
-	flex-basis: 100%;
+	flex: 1 0 auto;
 }
 
 .BrandImg{
@@ -157,35 +143,15 @@
   text-align: center;
 }
 
+a{
+	text-decoration: underline;
+	text-decoration-color: #232323;
+	color:#232323;
+}
 
-.Brand a h3{
+.Brand h3{
 	color:#232323;
 	font-size:18px;
-}
-
-.Brand a{
-	text-decoration: none;
-}
-
-.Brand img{
-
-}
-
-.closedStores{
-	filter:brightness(0.25);
-}
-
-.closedStoresText{
-  position: absolute;
-  top:50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  font-weight: 300;
-}
-
-.openStoresText{
-	display: none;
 }
 
 @media only screen and (max-width: 600px) {
@@ -223,15 +189,12 @@
 .Step{
 	width: 80%;
 	margin:10% auto;
-}
 
-.Brands{
-	flex-direction: column;
 }
 
 .Brand{
-	width: 100%;
 	margin:10% auto;
+	flex: 1 0 50%;
 }
 
 .instructions p{
@@ -262,9 +225,6 @@
 	font-size: 15px;
 }
 
-.TextUs{
-	padding:5%;
-}
 
 .PickBrand h1{
 	font-size: 30px;
@@ -274,9 +234,6 @@
 	margin: 140px 0;
 }
 
-.produits{
-	width: 100%;
-}
 .PickBrand h3{
 	font-size: 15px;
 }

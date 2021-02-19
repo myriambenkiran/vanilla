@@ -33,6 +33,10 @@ h1{
 	font-weight: medium;
 }
 
+.Header a{
+	text-decoration: none;
+}
+
 .Menu{
 	position: relative;
 	bottom:10px;
