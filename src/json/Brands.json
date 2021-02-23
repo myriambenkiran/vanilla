@@ -1,14 +1,44 @@
 [
     {
         "id": "1",
-        "name": "Boots",
-        "src": "./images/brands/boots.png",
-        "pdf":"./pdf/Boots.pdf"
+        "name": "The Bestsellers",
+        "src": "./images/brands/Best.jpg",
+        "pdf":"./pdf/Best.pdf"
     },
     {
         "id": "2",
-        "name": "Anatome",
-        "src": "./images/brands/anatome.png",
-        "pdf":"./pdf/Anatome.pdf"
+        "name": "Vegan",
+        "src": "./images/brands/Vegan.jpg",
+        "pdf":"./pdf/Vegan.pdf"
+    },
+    {
+        "id": "3",
+        "name": "Nuxe",
+        "src": "./images/brands/Nuxe.jpg",
+        "pdf":"./pdf/Nuxe.pdf"
+    },
+    {
+        "id": "4",
+        "name": "Ole",
+        "src": "./images/brands/Ole.jpg",
+        "pdf":"./pdf/Ole.pdf"
+    },
+    {
+        "id": "5",
+        "name": "Fenty Skin",
+        "src": "./images/brands/Fenty.jpg",
+        "pdf":"./pdf/Fenty.pdf"
+    },
+    {
+        "id": "6",
+        "name": "REN",
+        "src": "./images/brands/REN.jpg",
+        "pdf":"./pdf/Ren.pdf"
+    },
+    {
+        "id": "7",
+        "name": "Alpha-H",
+        "src": "./images/brands/Alpha_H.jpg",
+        "pdf":"./pdf/Alpha.pdf"
     }
 ]

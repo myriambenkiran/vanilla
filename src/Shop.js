@@ -48,8 +48,8 @@ class Brand extends React.Component {
                 <a href={require(`${brand.pdf}`).default} target="_blank">
         		<img src={require(`${brand.src}`).default}/>
                 </a>
-                </div>
-                <h3>Shop <a href={require(`${brand.pdf}`).default} target="_blank" >{brand.name}</a></h3>
+            </div>
+            <h3>Shop <a href={require(`${brand.pdf}`).default} target="_blank" >{brand.name}</a></h3>
         	</div>
 
        	);
