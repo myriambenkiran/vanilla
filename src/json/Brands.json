@@ -13,30 +13,36 @@
     },
     {
         "id": "3",
+        "name": "Cleanser",
+        "src": "./images/brands/Cleanser.png",
+        "pdf":"./pdf/Cleanser.pdf"
+    },
+    {
+        "id": "4",
         "name": "Nuxe",
         "src": "./images/brands/Nuxe.jpg",
         "pdf":"./pdf/Nuxe.pdf"
     },
     {
-        "id": "4",
+        "id": "5",
         "name": "Ole",
         "src": "./images/brands/Ole.jpg",
         "pdf":"./pdf/Ole.pdf"
     },
     {
-        "id": "5",
+        "id": "6",
         "name": "Fenty Skin",
         "src": "./images/brands/Fenty.jpg",
         "pdf":"./pdf/Fenty.pdf"
     },
     {
-        "id": "6",
+        "id": "7",
         "name": "REN",
         "src": "./images/brands/REN.jpg",
         "pdf":"./pdf/Ren.pdf"
     },
     {
-        "id": "7",
+        "id": "8",
         "name": "Alpha-H",
         "src": "./images/brands/Alpha_H.jpg",
         "pdf":"./pdf/Alpha.pdf"
