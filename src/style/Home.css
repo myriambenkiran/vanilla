@@ -47,6 +47,24 @@
 	margin:5% auto;
 }
 
+.Text a{
+	text-decoration: none;
+}
+
+.HowItWorks a{
+	text-decoration: none;
+}
+.buttonShop{
+	background-color: black;
+	color:white;
+	width: fit-content;
+	margin:auto;
+	padding: 15px 30px;
+	border-radius: 10px;
+	font-size: 17px;
+	font-weight: meddium;
+}
+
 
 .HowItWorks{
 	margin: 5% 0;
@@ -139,8 +157,8 @@
 }
 
 .BrandImg{
-		position: relative;
-  text-align: center;
+	position: relative;
+  	text-align: center;
 }
 
 a{
@@ -156,6 +174,10 @@ a{
 
 @media only screen and (max-width: 600px) {
 
+.Main{
+	padding-bottom: 50%;
+}
+
 .Images img{
 	max-height: 300px;
 	transform: translateX(-50px);
@@ -165,8 +187,7 @@ a{
 }
 
 .Text{
-	top:80%;
-
+	transform: translate(-50%, -50%);
 }
 
 .Text h1{

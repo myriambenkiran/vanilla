@@ -62,6 +62,7 @@ class Main extends React.Component {
         			<h1> your </h1>
         			<h1> Life </h1>
         			<p> You can now discover, order and get skincare products in minutes. </p>
+                    <a href="/shop"><div className="buttonShop">Shop now</div></a>
         		</div>
         	</div>
 
@@ -80,6 +81,7 @@ class HowItWorks extends React.Component {
         		<div className="Steps">
         			{steps.map(s => <Step key={s.id} {...s} />)}
         		</div>
+                <a href="/shop"><div className="buttonShop">Shop now</div></a>
         	</div>
 
        	);
