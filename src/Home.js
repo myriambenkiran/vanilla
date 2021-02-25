@@ -13,21 +13,21 @@ import { load } from 'react-require';
 const steps = [
     {
         "id": "1",
-        "title": "Pick a local shop",
+        "title": "Discover",
         "src": "./images/step1.png",
-        "instructions": "Select which local shops you want to order from.",
+        "instructions": "Access the best skincare products available around you.",
     },
     {
         "id": "2",
-        "title": "Text us to order",
+        "title": "Order",
         "src": "./images/step2.png",
-        "instructions": "Text us what you want. There’s no minimum and you can place an order 24/7."
+        "instructions": "Text us what you want. There’s no minimum order and you can place an order 24/7."
     },
     {
         "id": "3",
-        "title": "We’re here! (in minutes)",
+        "title": "Receive! (in minutes)",
         "src": "./images/step3.png",
-        "instructions": "Receive your order few minutes later and pay upon our eco-delivery. The delivery fee is £3."
+        "instructions": "Get your order in minutes and pay upon our eco-delivery. The delivery fee is £2."
     }
 ];
 
