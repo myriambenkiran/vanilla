@@ -26,7 +26,8 @@ class Brands extends React.Component {
     render() {
         return (
         	<div className="PickBrand">
-        		<h1>Shop all skincare</h1>
+        		<h1>Shop in seconds. Get in minutes.</h1>
+                <p>(No minimum order. Multiple products in one delivery.)</p>
         		<div className="Brands">
         		{brands.map(b => <Brand key={b.id} {...b} />)}
         		</div>
@@ -49,7 +50,7 @@ class Brand extends React.Component {
         		<img src={require(`${brand.src}`).default}/>
                 </a>
             </div>
-            <h3>Shop <a href={require(`${brand.pdf}`).default} target="_blank" >{brand.name}</a></h3>
+            <h3><a href={require(`${brand.pdf}`).default} target="_blank" >{brand.name}</a></h3>
         	</div>
 
        	);

@@ -11,7 +11,7 @@ class Header extends React.Component {
         return (
         	<div className="Header">
         		<div className="Top_Banner">
-        			<p>We need your feedback. Try us today and enjoy a free delivery. You will love it!</p>
+        			<p>Don't wait! Our instant delivery is free this month - go shop now.</p>
         		</div>
         		<a href="/"><h1>Vanilla</h1></a>
         		<div className="Menu">

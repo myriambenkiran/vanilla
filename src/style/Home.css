@@ -7,12 +7,13 @@
 .Main{
 	flex-direction: column;
 	position: relative;
+
 }
 
 .Images img{
-	width: 40%;
+	width: 35%;
 	height: auto;
-	max-height: 700px;
+	max-height: 640px;
 }
 
 .Images{
@@ -26,25 +27,27 @@
 	transform: translate(-50%, -50%);
 	z-index:1;
 	min-width: 500px;
+	{/*background-color: white;
+	padding: 3rem;
+	border:0.5rem solid #1b1b1b;*/}
 }
 
 .Text h1{
 	text-align: center;
-	color:#FFFEEB;
-	font-size: 70px;
+	color:#1B1B1B;
+	font-size: 60px;
 	margin:10px auto;
 	padding:3px;
 	border-radius: 4px;
-	background-color: #F3E5AB;
-	width: fit-content;
-	font-weight: bold;
+	font-weight: 700;
+	{/*text-shadow: 1.5px 1.5px grey;*/}
 }
 
 .Text p{
 	text-align: center;
-	font-size: 18px;
+	font-size: 25px;
 	font-weight: 600;
-	margin:5% auto;
+	margin-bottom: 5%;
 }
 
 .Text a{
@@ -54,15 +57,16 @@
 .HowItWorks a{
 	text-decoration: none;
 }
+
 .buttonShop{
-	background-color: black;
-	color:white;
+	background-color: #1b1b1b;
+	color: white;
 	width: fit-content;
 	margin:auto;
 	padding: 15px 30px;
 	border-radius: 10px;
-	font-size: 17px;
-	font-weight: meddium;
+	font-size: 18px;
+	font-weight: bold;
 }
 
 
@@ -72,11 +76,12 @@
 
 .HowItWorks h1{
 	font-size: 30px;
-	font-weight: semi-bold;
+	font-weight: bold;
 }
 
 .HowItWorks p{
 	font-size: 15px;
+	font-weight: bold;
 }
 
 .Steps{
@@ -100,28 +105,50 @@
 .Step .instructions{
 	text-align: center;
 	margin:auto;
-	width: 250px;
+	width: 280px;
 }
 
 .Step .instructions p{
-	font-size:15px;
+	font-size:14px;
+	color: #1b1b1b;
+	font-weight: 450;
 }
 
 .Step .title h3{
 	position: relative;
 	top:50%;
 	margin:0;
-	font-size:15px;
-	font-weight: medium;
+	font-size:17px;
+	font-weight: bold;
 	width: fit-content;
 }
 
-.number{
-	margin:5px 10px;
-	background-color: #F3E5AB;
-	padding: 5px;
-	border-radius: 4px;
-	font-size:18px;
+
+.aboutVanilla{
+	background-color: #1B1B1B;
+	padding: 15px;
+	margin:5rem auto;
+	padding:2%;
+	text-align: left;
+
+}
+
+.aboutVanilla h3{
+
+	font-size: 25px;
+	font-weight: 400;
+	margin:0;
+	margin-bottom: 2rem;
+	color: #F5F5F5;
+}
+
+.aboutVanilla p{
+	font-size: 20px;
+	padding: 0;
+	font-weight: 400;
+	color: #F5F5F5;
+	text-align: justify;
+	margin-right:12rem;
 }
 
 
@@ -137,69 +164,76 @@
 
 .PickBrand h1{
 	font-size:35px;
+	font-weight: bold;
 }
 
 .PickBrand p{
-	font-size:18px;
+	font-size:20px;
+	font-weight: 600;
 }
 
 .Brands{
 	width: 100%;
-	margin: 10% auto;
+	margin: 5% auto;
 	display: flex;
 	flex-wrap: wrap;
 	text-align:center;
-	justify-content: space-around;
+	justify-content: center;
 }
 
 .Brand{
-	flex: 1 0 auto;
+	flex: 1 0 content;
+	padding:2rem;
+	margin:1rem;
 }
 
 .BrandImg{
 	position: relative;
   	text-align: center;
+  	height: auto;
 }
 
 a{
 	text-decoration: underline;
-	text-decoration-color: #232323;
-	color:#232323;
+	text-decoration-color: #1b1b1b;
+	color:#1b1b1b;
 }
 
 .Brand h3{
-	color:#232323;
+	color:#1b1b1b;
 	font-size:18px;
 }
 
 @media only screen and (max-width: 600px) {
 
-.Main{
-	padding-bottom: 50%;
-}
 
 .Images img{
-	max-height: 300px;
-	transform: translateX(-50px);
-}
-.Images{
-	margin-bottom:35%;
+	width: 100%;
 }
 
 .Text{
-	transform: translate(-50%, -50%);
+	width: 80%;
+	min-width: 250px;
+	text-align: center;
+	margin:auto;
+	padding:1rem;
 }
 
 .Text h1{
-	text-align: center;
-	margin:10px auto;
-	font-size:50px;
+	margin: 10px auto;
+	font-size:30px;
+
 }
 
 .Text p{
 	text-align: center;
 	font-size: 15px;
+	margin:auto;
 	width: 60%;
+}
+
+.buttonShop{
+	margin:2rem auto;
 }
 
 .Steps{
@@ -248,7 +282,7 @@ a{
 
 
 .PickBrand h1{
-	font-size: 30px;
+	font-size: 21px;
 }
 
 .Home{
@@ -262,6 +296,26 @@ a{
 .PickBrand p{
 	font-size: 15px;
 }
+
+.PickBrand{
+	margin-top:6%;
+}
+
+.aboutVanilla{
+	padding: 30px;
+
+}
+
+.aboutVanilla h3{
+	font-size: 25px;
+}
+
+.aboutVanilla p{
+	font-size: 15px;
+	margin:0;
+
+}
+
 
 
 }

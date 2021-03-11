@@ -4,7 +4,7 @@
 }
 .Contact .title h1{
 	font-size:35px;
-	font-weight: semi-bold;
+	font-weight: bold;
 	text-align: left;
 	margin:50px 0 ;
 }
@@ -19,18 +19,18 @@
 .Contact .title img{
 	margin:15px;
 	width: auto;
-  	height: 60px;
+  	height: 35px;
 }
 
 .Contact h4{
 	font-size: 18px;
-	font-weight: semi-bold;
+	font-weight: 450;
 	margin:10px 0;
 }
 
 .Contact p{
 	font-size: 18px;
-	font-weight: medium;
+	font-weight: 450;
 	margin:10px 0;
 }
 
@@ -42,7 +42,7 @@
 @media only screen and (max-width: 600px) {
 
 .Contact .title h1{
-	font-size:30px;
+	font-size:21px;
 }
 
 .Contact h4{

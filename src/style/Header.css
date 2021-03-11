@@ -1,5 +1,4 @@
 .Header{
-	border-bottom: 0.5px solid rgba(243,229,171,0.5);
 	position: fixed;
 	top: 0;
 	width: 100%;
@@ -8,29 +7,34 @@
 }
 
 .Top_Banner{
-	background-color: rgba(243,229,171,0.5);
+	background-color: #1B1B1B;
 	padding: 15px;
 	margin:0;
 }
 
 p{
 	margin:0;
-	font-size: 13px;
-	font-weight: 500;
+	font-size: 14px;
+	font-weight: 450;
+}
+
+.Top_Banner p{
+	
+	color: #F5F5F5;
 }
 
 h1{
-	font-weight: 500;
-	font-size:27px;
+	font-weight: 600;
+	font-size:34px;
 	margin:20px;
 }
 
 .Menu a{
 	text-decoration: none;
-	color:rgba(243,229,171);
+	color:#1B1B1B;
 	padding: 10px;
-	font-size: 17px;
-	font-weight: medium;
+	font-size: 15px;
+	font-weight: 450;
 }
 
 .Header a{
@@ -51,8 +55,8 @@ h1{
 }
 
 .Menu  a.current{
-	border-bottom:2px solid #381A14;
-	color: #381A14;
+	border-bottom:2px solid #1B1B1B;
+	color: ##1B1B1B;
 	font-weight: bold;
 }
 

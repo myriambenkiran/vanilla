@@ -19,7 +19,7 @@ const values = [
     },
     {
         "title": "03. Simpler is Happier",
-        description: "We believe the simplier the happier your life is and we like making our life simple by seeking efficiency in everything we do.  We know that your time is valuable, so when you’re looking for skincare you should get it right away and we aim to please.",
+        description: "We believe the simplier the happier your life is and we like making our life simple by seeking efficiency in everything we do.  We know that your time is valuable, so when you’re looking for beauty you should get it right away and we aim to please.",
         src: "./images/values/value3.png"
     },
     {
@@ -127,17 +127,17 @@ class About extends React.Component {
                     <h4>Our Mission</h4>
                     <h1>Simplify anyone’s life and deliver happiness and serenity to all lives</h1>
                     <p>It’s an enormously ambitious and incredibly rewarding mission that we are obsessed with achieving.</p>
-                    <p>Our purpose is to make our user’s lives easier, empowering them to discover all about what’s next doors and connect them to their local places. We aim to deliver happiness by offering people time and taking the burden of shopping out of them while ensuring that their desire of convenience won’t hurt any life at any level.</p>
+                    <p>Our purpose is to make our user’s lives easier. We aim to deliver happiness by offering people time while ensuring their desire of convenience won’t hurt any life at any level.</p>
                     <p>This mission is our guardrails to ensure everything that is done by us and our community is true to our purpose, differentiates us from others and helps us meet all our challenges.</p>
                 </div>
-                <JoinCom/>
+                {/*<JoinCom/>
                 <div className="mission">
                     <h4>Our Vision</h4>
                     <h1>Any thing we need is around us</h1>
                     <p>We are your new online skincare shop that lets you discover, order and receive in minutes products from your local shops.</p>
                     <p>We believe that our locals should be our first reflex when it’s about shopping because everyting we need is just around. We believe in a new way to shop, a more simple and sensible way.</p>
                     <p>We believe in the power of local communities to make your lives easier and happier. And more importantly we believe that with the right technology it can be done without hurting the environment we all live in.</p>
-                </div>
+                </div>*/}
 
                 <div className="Things">
                     <h4>10 things we believe in</h4>

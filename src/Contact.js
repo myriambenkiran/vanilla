@@ -13,7 +13,6 @@ class Contact extends React.Component {
         	<div className="Contact">
                 <div className="title">
                     <h1>Welcome to the Vanilla Help Center</h1>
-                    <img src={help}/>
                 </div>
                 <h4>Send us a text or Call us to get personalised support</h4>
                 <p>Get help with anything. Available 24/7. </p>

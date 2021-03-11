@@ -25,24 +25,36 @@
     },
     {
         "id": "5",
+        "name": "Avene",
+        "src": "./images/brands/Avene.jpg",
+        "pdf":"./pdf/Avene.pdf"
+    },
+    {
+        "id": "6",
+        "name": "La Roche-Posay",
+        "src": "./images/brands/Roche.jpg",
+        "pdf":"./pdf/Roche.pdf"
+    },
+    {
+        "id": "8",
         "name": "Ole",
         "src": "./images/brands/Ole.jpg",
         "pdf":"./pdf/Ole.pdf"
     },
     {
-        "id": "6",
+        "id": "9",
         "name": "Fenty Skin",
         "src": "./images/brands/Fenty.jpg",
         "pdf":"./pdf/Fenty.pdf"
     },
     {
-        "id": "7",
+        "id": "10",
         "name": "REN",
         "src": "./images/brands/REN.jpg",
         "pdf":"./pdf/Ren.pdf"
     },
     {
-        "id": "8",
+        "id": "11",
         "name": "Alpha-H",
         "src": "./images/brands/Alpha_H.jpg",
         "pdf":"./pdf/Alpha.pdf"
