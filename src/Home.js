@@ -58,7 +58,7 @@ class Main extends React.Component {
         			<img src={home3} />
         		</div>
         		<div className="Text">
-        			<h1> Redefining online shopping for beauty</h1>
+        			<h1> Redefining online shopping for skincare</h1>
         			<p>Greener. Faster. Happier.</p>
                     <a href="/shop"><div className="buttonShop">Join the movement!</div></a>
         		</div>
@@ -76,8 +76,8 @@ class HowItWorks extends React.Component {
         return (
         	<div className="HowItWorks">
                 <div className="aboutVanilla">
-                    <h3>The first on-demand beauty platform</h3>
-                    <p>We have selected for you the best of the beauty products available around. And to make your life even simpler we offer an eco-delivery for you to get them in minutes, without much efforts, wherever you are and whenever you feel like it!</p>
+                    <h3>The first on-demand skincare platform</h3>
+                    <p>We have selected for you the best of the skincare products available around. And to make your life even simpler we offer an eco-delivery for you to get them in minutes, without much efforts, wherever you are and whenever you feel like it!</p>
                 </div>
         		<h1>Why you should use Vanilla</h1>
         		<div className="Steps">
