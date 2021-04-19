@@ -41,7 +41,7 @@ class Shop extends React.Component {
                 <div className="textShop"><h4>Opening times:</h4>
                 <p>Order 24/7</p>
                 <p>Delivery from Mon to Sat: 11am - 7pm</p>
-                <p>Delivery on Sun: 11am - 12pm</p></div>
+                <p>Delivery on Sun: 11am - 12am</p></div>
                 <div className="textShop"><h4>YOUR PAYMENT IS SECURE</h4>
                 <p>Pay safely by debit card upon our eco-delivery.</p>
                 <p>No minimum order. £2 delivery fee.</p></div>
