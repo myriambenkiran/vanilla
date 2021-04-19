@@ -1,0 +1,310 @@
+
+
+a{
+	text-decoration-color: #1b1b1b;
+	color:#1b1b1b;
+}
+
+
+.Shop{
+	margin:5rem 2% 10rem 2%;
+	padding:0;
+}
+
+.Shop h2{
+	font-weight: 900;
+	font-size:25px;
+	margin:0;
+}
+
+.Shop h4{
+	margin:1rem;
+	font-size:17px;
+}
+
+.Shop .textShop p{
+	margin:0;
+}
+
+.Shop p{
+	text-align: center;
+	font-size: 15px;
+	font-weight: 400;
+	margin:0.5rem;
+}
+
+.Products{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: stretch;
+	padding: 3rem;
+}
+
+.Product{
+	width: 21%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: auto;
+	padding-bottom: 3rem;
+	margin-bottom: 1rem;
+	position: relative;
+}
+
+.Product h3{
+	font-size: 17px;
+}
+
+.Product p{
+	font-size: 15px;
+}
+
+.productImage{
+	width: 100%;
+}
+
+.Product img{
+	width: 100%;
+}
+
+.productInfo{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+}
+
+.productInfo h3{
+	height: 3rem;
+	margin:0.1rem;
+}
+
+.productInfo .priceAndVolume h3{
+	height: 1.5rem;
+}
+
+.productInfo p{
+	height: 1.5rem;
+	margin:0.1rem;
+}
+
+.Product .quickBuy{
+	position: absolute;
+	width: 100%;
+	margin:auto;
+	bottom: 1rem;
+	padding: 0;
+}
+
+.Product .quickBuy .buttonShop{
+	margin:0 auto;
+	height: 1.2rem;
+	width: 30%;
+}
+
+.Shop .priceAndVolume{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.Shop .priceAndVolume h4{
+	margin:0 .1rem;
+}
+
+.filters{
+	margin:3rem auto;
+	width: 50%;
+}
+.filters a{
+	margin:1rem;
+}
+
+.filters button{
+	border: none;
+	background-color: white;
+	margin:0.3rem;
+	font-family: 'Ibarra Real Nova', serif;
+	font-size: 17px;
+	color:#1b1b1b;
+	text-transform:capitalize;
+}
+
+.Paragraph{
+	margin:3rem auto;
+	width: 50%;
+}
+
+.Paragraph h2{
+	font-size: 20px;
+	margin:0;
+	padding: 0;
+}
+
+.Paragraph p{
+	font-size: 15px;
+		margin:1rem;
+	padding: 0;
+	text-align: center;
+}
+
+.Paragraph .buttonShop{
+		margin:auto;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+.Shop{
+	margin:20% 5% 10rem 5%;
+}
+
+.Shop h2{
+	font-size: 25px;
+	margin:0;
+	padding: 0;
+}
+
+.Shop h4{
+	margin:3%;
+}
+
+.Shop .textShop p{
+	margin:0;
+}
+
+.Shop p{
+	font-size:15px;
+	margin:5%;
+	text-align: center;
+}
+
+.Products{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: stretch;
+	padding: 0;
+	padding-bottom: 3rem;
+}
+
+.Product{
+	width: 48%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: auto;
+	padding-bottom: 3rem;
+	margin-bottom: 1rem;
+	position: relative;
+}
+
+.Product h3{
+	font-size: 13px;
+}
+
+.Product p{
+	font-size: 13px;
+}
+
+.productInfo{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+}
+
+.productInfo h3{
+	height: 3rem;
+	margin:0.1rem;
+}
+
+.productInfo .priceAndVolume h3{
+	height: 1rem;
+}
+
+.productInfo p{
+	height: 2rem;
+	margin:0.1rem;
+}
+
+.productImage{
+	width: 100%;
+}
+
+.Product img{
+	width: 100%;
+}
+
+.Product .quickBuy{
+	position: absolute;
+	width: 100%;
+	bottom: 1rem;
+	left: 0;
+	padding: 0;
+}
+
+.Product .quickBuy .buttonShop{
+	margin:0 auto;
+	height: 1.2rem;
+	width: 80%;
+}
+
+.Paragraph{
+	margin:0 5% 3rem 5%;
+	width: 90%;
+}
+
+.Paragraph h2{
+	font-size: 20px;
+	margin:0;
+	padding: 0;
+}
+
+
+.Paragraph p{
+	font-size: 13px;
+		margin:0.5rem;
+	padding: 0;
+	text-align: justify;
+}
+
+.Paragraph .buttonShop{
+		margin:0;
+}
+
+.Shop .textShop{
+	margin:10% 0;
+}
+
+
+.Shop .priceAndVolume{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.Shop .priceAndVolume h4{
+	margin:0 .1rem;
+}
+
+
+.Images img{
+	width: 100%;
+}
+
+.buttonShop{
+	margin:2rem auto;
+}
+
+.filters{
+	margin:2rem auto;
+	width: 100%;
+}
+
+.filters button{
+	font-size: 13px;
+}
+
+}

@@ -1,59 +1,43 @@
 .Footer{
-	background-color: #1b1b1b;
-	height: 115px;
 	display: flex;
-	align-items: center;
-    position:absolute;
-    bottom:0;
-    width:100%;
+    font-weight: 400;
+	font-size:15px;
+	position: absolute;
+	bottom: 0;
+	border-top: 0.5px solid rgba(27, 27, 27, 0.5); 
+	flex-direction: column-reverse;
+	justify-content: space-around;
+	margin:0 auto;
+	height: 75px;
+	width: 100%;
 }
 
 
 .Footer p{
-	text-align:left;
-	margin:0;
-	margin-left:15%;
-	font-weight: 450;
-	font-size:15px;
-    color:#f5f5f5!important;
+	text-align:center;
+	margin:auto;
+	font-weight: 400;
+	font-size:12px;
+}
+
+.Footer a{
+	text-align: center;
+	margin:auto 15px;
+	font-size:11px;
+	padding: 0;
 }
 
 .FooterMenu{
 	position: relative;
 	margin:0 40px;
 	vertical-align: center;
-}
-
-.FooterMenu a{
-	color: #f5f5f5;
-	text-decoration: none;
-	margin:0 20px;
-	font-weight: 450;
-	font-size:14px;
-}
-
-@media only screen and (max-width: 600px) {
-	.Footer p{
-	text-align: center;
-	margin:auto;
-	font-size:12px;
-	}
-
-	.Footer a{
-	text-align: center;
-	margin:auto 20px;
-	font-size:11px;
-	}
-
-	.Footer{
-	flex-direction: column-reverse;
-	justify-content: space-around;
-	margin:0 auto;
-	height: 75px;
-}	
-
-	.FooterMenu{
 	margin-top: 10px;
-	}
+}
 
+
+
+.Footer a img{
+	width: 17px;
+	margin:auto;
+	vertical-align: bottom;
 }

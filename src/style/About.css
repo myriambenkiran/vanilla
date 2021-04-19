@@ -1,205 +1,179 @@
+
+.Team{
+	display: flex;
+	flex-direction:row;
+	margin:5rem 5%;
+}
+
+.Team .Image{
+	width: 100%;
+}
+
+.Team .Image img{
+	width: 80%;
+}
+
 .About{
-	text-align: justify;
-	margin:200px 10%;
+	margin-bottom: 10rem;
 }
 
-.mission{
-	width: 90%;
-	margin: 2rem auto;
-	padding-top:7%;
+
+.About p{
+	margin:5%;
+	text-align:justify;
 }
 
-.About h1{
-	font-size:35px;
+.About h2{
+	font-size: 25px;
+	margin:0 5%;
+	padding: 0;
+	margin-bottom: 5%;
+}
+
+.AboutText{
+	margin:auto;
+	width: 100%;
+}
+
+.Team h4{
+	font-size:20px;
 	font-weight: bold;
-	text-align: left;
+	padding: 0;
 	margin:0;
 }
 
-.About h4{
-	font-size:18px;
-	font-weight: 450;
-	text-transform: uppercase;
-	text-align: left;
-	margin:20px 0 ;
-	color:#1b1b1b;
+.Team .Name{
+	margin:0
 }
 
-.About p{
-	font-size: 18px;
-	font-weight: 450;
-	margin:40px 0;
-	line-height: 32.02px;
+.Team .Name p{
+	margin:0;
+	padding: 0;
+	text-align: center;
 }
 
-.Value{
-	width: 90%;
+.Team .Names{
 	display: flex;
-	align-items: flex-start;
-	justify-content: space-between;
-	margin:2% 0;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-top:3rem;
 }
 
-
-.value_text{
+.Team p{
 	margin:5%;
-	margin-left: 0;
+	text-align:justify;
+}
+
+.Mission {
+	width: 50%;
+	margin: 5rem auto;
+}
+
+.Mission p{
+	margin:0.3rem;
 }
 
 .Things{
-	margin: 10% 0;
-	width: 90%;
+	width: 50%;
+	margin: 5rem auto;
 }
 
+.Things p{
+	margin:1rem;
+}
 
 .slides {
   position: relative;
   display: block!important;
 }
 
-.JoinCom{
-	margin: 10% 0;
-}
 
-
-.JoinCom h1{
-	font-size: 30px;
-	font-weight: bold;
-	text-align: center;
-}
-
-.JoinCom p{
-	font-size: 15px;
-	line-height: normal;
-}
-
-.Coms{
-	margin:5% auto;
-	display: flex;
-	justify-content: space-around;
-
-}
-
-.Com{
-	width: fit-content;
-	margin: auto;
-	text-align: center;
-}
-
-.Com img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.Com .title{
-	display: flex;
-	margin:10px 0;
-	align-items: center;
-	justify-content: center;
-}
-
-.Com .instructions{
-	text-align: center;
-	margin:auto;
-	width: 250px;
-	padding: 0;
-}
-
-.Com .instructions p{
-	font-size:15px;
-		margin: 0;
-	padding: 0;
-}
-
-.Com .title h3{
-	position: relative;
-	top:50%;
-	margin:0;
-	font-size:15px;
-	font-weight: medium;
-	width: fit-content;
-}
-
-.Com .number{
-	margin:5px 10px;
-	background-color: #1b1b1b;
-	padding: 5px;
-	border-radius: 4px;
-	font-size:18px;
-}
-
-.Com .number p{
-	margin: 0;
-	padding: 0;
-}
 
 
 @media only screen and (max-width: 600px) {
-	.value_img{
-		display: none!important;
-	}
 
-	.Value{
+.Team{
+	display: flex;
+	flex-direction:column;
+	margin:20% 5%;
+}
+
+.Team .Image{
 	width: 100%;
-	margin: auto;		
-	}
-
-	.Things{
-	width: 100%;
-	margin: auto;
-}
-.About h1{
-	font-size:21px;
-}
-
-.About h4{
-
-}
-
-.JoinCom{
-	margin:20% 0;
-}
-
-.JoinCom h1{
-	font-size: 30px;
-}
-
-.JoinCom h3{
-	font-size: 15px;
-}
-
-.JoinCom p{
-	font-size: 15px;
-}
-
-.Coms{
-	flex-direction: column;
-	margin:5%;
-}
-
-.Com{
-	margin:10% auto;
+	min-width: 0;
 }
 
 
 .About p{
-	font-size: 15px;
-	line-height: 20px;
+	margin:5%;
+	text-align:justify;
 }
+
+.About h2{
+	font-size: 25px;
+	margin:0 5%;
+	padding: 0;
+	margin-bottom: 5%;
+}
+
+.Team h4{
+	font-size:17px;
+	font-weight: bold;
+	padding: 0;
+	margin:0;
+}
+
+.Team .Names{
+	flex-direction: column;
+}
+
+.Team .Name{
+	margin:5%;
+}
+
+.Team .Name p{
+	margin:0;
+	padding: 0;
+	text-align: center;
+}
+
+.Team p{
+	margin:5%;
+	text-align:justify;
+}
+
+.Mission {
+	padding: 0 5%;
+	width: 90%;
+}
+
+.Mission h4{
+	font-weight: normal;
+}
+
+.Things {
+	padding: 0 5%;
+	width: 90%;
+}
+
+.Value{
+	width: 100%;
+	margin: auto;		
+}
+
+
 .About{
-	margin-bottom: 150px;
+	margin-bottom: 40%;
 }
 
-    .slick-dots li button:before
-    {
-    	width: 15px!important;
-    }
+.slick-dots li button:before
+{
+    width: 15px!important;
+}
 
-
-    .slick-dots li{
-    	width: 15px!important;   	
-    }
+.slick-dots li{
+    width: 15px!important;   	
+}
 
 }
 

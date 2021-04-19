@@ -1,10 +1,8 @@
 import React from 'react';
 import './style/Home.css';
 import {Img} from 'react-image'
-import home1 from './images/home1.jpg';
-import home2 from './images/home2.jpg';
-import home3 from './images/home3.jpg';
-import home4 from './images/home4.png';
+import HomePage1 from './images/homePage1.jpg';
+import HomePage2 from './images/homePage2.jpg';
 import { Link } from 'react-router-dom';
 import {withRouter} from 'react-router';
 import { load } from 'react-require';
@@ -32,14 +30,29 @@ const steps = [
 ];
 
 
+const text =[
+        "We propose to change the way e-commerce is done, starting with beauty. Discover a new type of e-store that only offers products stocked a few miles away from you. Shop in a smarter, more environmentally conscious and sensible way. All our products are 100% cruelty-free, our on-demand delivery option is pollution-free and instant and we don’t use any additional packaging. This is the Future of e-commerce and it starts now. Join if you want to build it with us.",
+        "The current e-commerce model is nonsense to us. Often resulting in unnecessary pollution, unnecessary hassle, waste of time and avoidable inconvenience. We have solutions to those problems. By switching to us, you’ll contribute to develop a new way of shopping that we believe is the future of online shopping. Switch to a new e-store type of thinking that empowers you to shop online in a smarter, more environmentally conscious and sensible way."
+        ]
+
+const recycleText = "Get your beauty products empties collected on-demand for £2 fee. Any size product from any beauty brand are welcomed. Even those not bought with us. Collection is free when your order with us."
+
+
 class Home extends React.Component {
 
 
     render() {
         return (
-        	<div className="Home">
+        	<div className="HomePage">
         		<Main/>
-        		<HowItWorks/>
+                <div className="recycle">
+                    <h2>RECYCLING SCHEME</h2>
+                    <p>{recycleText}</p>
+                    <a href="https://wa.me/+447737832909?text=Thanks for doing this. Tap send to start arranging a collection"><div className="buttonShop">Recycle</div></a>
+                </div>
+                <Why/>
+                <Comments/>
+                <WhyVanilla/>
         	</div>
 
        	);
@@ -51,64 +64,74 @@ class Main extends React.Component {
 
     render() {
         return (
-        	<div className="Main">
-        		<div className="Images">
-        			<img src={home1} />
-        			<img src={home2} />
-        			<img src={home3} />
+        	<div className="HomePage1">
+        		<div className="HomePage1Text">
+        			<h2>JOIN A NEW TYPE OF THINKING</h2>
+        			<p>{text[0]}</p>
+                    <a href="/shop"><div className="buttonShop">Join and Shop</div></a>
         		</div>
-        		<div className="Text">
-        			<h1> Redefining online shopping for skincare</h1>
-        			<p>Greener. Faster. Happier.</p>
-                    <a href="/shop"><div className="buttonShop">Join the movement!</div></a>
-        		</div>
+               <div className="Image">
+                    <img src={HomePage1} />
+                </div>
         	</div>
 
        	);
     }
 }
 
-
-class HowItWorks extends React.Component {
+class Why extends React.Component {
 
 
     render() {
         return (
-        	<div className="HowItWorks">
-                <div className="aboutVanilla">
-                    <h3>The first on-demand skincare platform</h3>
-                    <p>We have selected for you the best of the skincare products available around. And to make your life even simpler we offer an eco-delivery for you to get them in minutes, without much efforts, wherever you are and whenever you feel like it!</p>
+            <div className="HomePage2">
+                <div className="Image">
+                    <img src={HomePage2} />
                 </div>
-        		<h1>Why you should use Vanilla</h1>
-        		<div className="Steps">
-        			{steps.map(s => <Step key={s.id} {...s} />)}
-        		</div>
-                <a href="/shop"><div className="buttonShop">Get in there!</div></a>
+                <div className="HomePage2Text">
+                    <h2>SWITCH</h2>
+                    <p>{text[1]}</p>
+                    <a href="/shop"><div className="buttonShop">Switch and Shop</div></a>
+                </div>
 
-        	</div>
+            </div>
 
-       	);
+        );
     }
 }
 
+class Comments extends React.Component {
 
-class Step extends React.Component {
-	render() {
-        const src = require('./images/home1.jpg');
-		let step = this.props;
-		return (
-		    <div className="Step">
-        		<img src={require(`${step.src}`).default} alt="" className="img-responsive" />
-        		<div className="title">
-        			<h3>{step.title}</h3>
-        		</div>
-        		<div className="instructions">
-					<p>{step.instructions}</p>
-        		</div>
-        	</div>
-		);
-	}
+
+    render() {
+        return (
+            <div className="Review">
+                <h2>WHAT OUR USERS SAY ABOUT THEIR EXPERIENCE</h2>
+                <p>“I wanted to try a product straight away and your service made it possible. Loved it!”<br/>Maya - SW3 - Chelsea, London</p>
+                <p>“First time using it after a friend’s recommendation. I wasn't expecting such a lovely experience!”<br/>Sarah - SW10 - Chelsea, London</p>
+                <p>“I loved it! Especially the fact that the delivery was totally pollution-free and no additional packaging were used.”<br/>Emma - SW5 - Chelsea, London</p>
+                <a href="/shop"><div className="buttonShop">Experience it yourself</div></a>
+            </div>
+
+        );
+    }
 }
+
+class WhyVanilla extends React.Component {
+
+
+    render() {
+        return (
+            <div className="SignUp">
+                <h3>Why Vanilla?</h3>
+                <p>All products that you need. Instant and Pollution-free delivery. Recycling made easy. No additional packaging used.</p>
+                <a href="https://wa.me/+447737832909?text=So grateful to count you amongst us. Send us your name and email address to be added into our list of users"><div className="buttonShop">Sign Up</div></a>
+            </div>
+
+        );
+    }
+}
+
 
 
 export default withRouter(Home);

@@ -1,64 +1,50 @@
 .Contact{
-	text-align: left;
-	margin:200px 10%;
-}
-.Contact .title h1{
-	font-size:35px;
-	font-weight: bold;
-	text-align: left;
-	margin:50px 0 ;
+	text-align: center;
+	position: absolute;
+	left: 50%; 
+	top: 50%;
+    transform: translate(-50%, -50%);
 }
 
-.Contact .title{
-	text-align: left;
-	display: flex;
-	justify-content: left;
-	align-items: center;
+.Contact h2{
+	font-size: 25px;
+	margin:0;
+	margin-bottom: 1rem;
+	padding: 0;
 }
 
-.Contact .title img{
-	margin:15px;
-	width: auto;
-  	height: 35px;
+p{
+	font-size:15px;
+	margin:0;
+	text-align: center;
 }
 
-.Contact h4{
-	font-size: 18px;
-	font-weight: 450;
-	margin:10px 0;
-}
-
-.Contact p{
-	font-size: 18px;
-	font-weight: 450;
-	margin:10px 0;
-}
-
-.phone{
-	margin: 0;
-	margin-bottom:  50px;
+.Contact .buttonShop{
+	margin-top: 1.5rem;
 }
 
 @media only screen and (max-width: 600px) {
 
-.Contact .title h1{
-	font-size:21px;
-}
-
-.Contact h4{
-	font-size: 15px;
-}
-
-.Contact p{
-	font-size: 15px;
-}
-
 .Contact{
-		margin-bottom: 150px;
+	position: relative;
+	left:0;
+	right: 0;
+	transform: none;
+	margin:20% 5%;
 }
 
-.phone{
-	margin-bottom:  0px;
+
+.Contact h2{
+	font-size: 25px;
+	margin:0;
+	margin-bottom: 5%;
+	padding: 0;
+}
+
+p{
+	font-size:15px;
+	margin:0;
+	text-align: center;
 }
 
 }

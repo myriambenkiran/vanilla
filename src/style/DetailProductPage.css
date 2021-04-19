@@ -1,0 +1,144 @@
+.DetailProductPage{
+	display: flex;
+	margin:1rem;
+}
+
+.DetailProductPage .DetailText{
+	margin:auto;
+	padding-right: 5rem;
+	text-align:left;
+}
+
+.DetailProductPage img{
+	width: 300px;
+	padding: 5rem 2rem 5rem 10rem;
+}
+
+.DetailProductPage h3{
+	font-size: 20px;
+	text-transform: uppercase;
+	margin:0.5rem 0;
+}
+
+.DetailProductPage h4{
+	font-size: 15px;
+	font-weight: normal;
+	text-decoration: underline;
+	margin:0;
+}
+
+.DetailProductPage h5{
+	font-size:15px;
+	font-weight: normal;
+	margin:0.5rem 0;
+}
+
+.DetailProductPage p{
+	font-size: 15px;
+	text-align:justify;
+	margin:1rem 0;
+}
+
+.DetailProductPage .priceAndVolume{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.DetailProductPage .priceAndVolume h3{
+	margin:0 .1rem;
+}
+
+.DetailProductPage strong{
+	font-weight: bold;
+	font-size:18px;
+	text-align:left;
+}
+
+.DetailProductPage .quickBuy{
+	width: 100%;
+	padding: 0;
+
+}
+
+.DetailProductPage a .buttonShop{
+	margin:0;
+	height: 1.2rem;
+	margin-top: 2rem;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+
+.DetailProductPage{
+	flex-direction: column;
+	margin:15% 10%;
+	padding-bottom: 5rem;
+}
+
+.DetailProductPage .DetailText{
+	text-align:center;
+	padding-right: 0;
+}
+
+.DetailProductPage h3{
+	font-size: 15px;
+	text-transform: uppercase;
+	margin:0.5rem;
+}
+
+.DetailProductPage h4{
+	font-size: 15px;
+	font-weight: normal;
+	text-decoration: underline;
+	margin:0;
+}
+
+.DetailProductPage h5{
+	font-size:15px;
+	font-weight: normal;
+	margin:0;
+}
+
+.DetailProductPage p{
+	font-size: 15px;
+	text-align:justify;
+	margin:5% auto;
+}
+
+.DetailProductPage img{
+	width: 60%;
+	margin:auto;
+	padding: 0;
+}
+
+.DetailProductPage .priceAndVolume{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.DetailProductPage .priceAndVolume h3{
+	margin:0 .1rem;
+}
+
+.DetailProductPage .sectionTitle{
+	font-weight: bold;
+	text-align:left;
+}
+
+.DetailProductPage .quickBuy{
+	width: 100%;
+	padding: 0;
+
+}
+
+.DetailProductPage a .buttonShop{
+	margin:0 auto;
+	height: 1.2rem;
+	margin-top: 2rem;
+}
+
+
+}

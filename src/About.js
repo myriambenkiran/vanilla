@@ -1,10 +1,9 @@
 import React from 'react';
 import './style/About.css';
-import help from './images/help.png';
-import test from './images/home1.jpg';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick-theme.css';
 import 'slick-carousel/slick/slick.css';
+import home5 from './images/Team.jpg';
 
 const values = [
     {
@@ -80,6 +79,11 @@ const coms = [
     }
 ];
 
+const teamText =[
+    "In 2021, Myriam and Florian launched Vanilla, bringing together their interests in skincare and e-commerce as well as efficiency and convenience, to create a business that would empower people to shop in a more sensible, smarter and environmentally conscious way. Their vision is to create a new e-commerce type of thinking, offering people the opportunity to shop their favourite products and to receive their orders pollution-free and on-demand, instantly. Their proposition: each product available on their platform is stocked a few miles away from each of their users.",
+    "Myriam and Florian met in Marseille (France) in 2014, connected by their desire to leave a legacy, they patnered in life and business. They moved together to London in 2018 and start materialising their ideal, now called Vanilla. Their goal is to change the way the world experiences online shopping, making lifestyles smarter, more sensible, more efficient and more environmentally conscious."
+]
+
 function SampleNextArrow(props) {
   const { className, style, onClick } = props;
   return (
@@ -123,31 +127,53 @@ class About extends React.Component {
         }
         return (
         	<div className="About">
-                <div className="mission">
-                    <h4>Our Mission</h4>
-                    <h1>Simplify anyone’s life and deliver happiness and serenity to all lives</h1>
-                    <p>It’s an enormously ambitious and incredibly rewarding mission that we are obsessed with achieving.</p>
-                    <p>Our purpose is to make our user’s lives easier. We aim to deliver happiness by offering people time while ensuring their desire of convenience won’t hurt any life at any level.</p>
-                    <p>This mission is our guardrails to ensure everything that is done by us and our community is true to our purpose, differentiates us from others and helps us meet all our challenges.</p>
+                <Team/>
+                <div className="Mission">
+                    <h2>OUR MISSION</h2>
+                    <h4>Simplify anyone’s life and deliver happiness and serenity to all lives</h4>
+                    <p>It’s an enormously ambitious and incredibly rewarding mission that we are obsessed with achieving. Our unique purpose is to make your lifestyle more sensible, empowering you to shop smarter, in a more sensible and environmentally conscious way, while ensuring that we all don’t hurt any life at any level doing so. This mission is our guardrails to ensure everything that is done by us and our community is true to our purpose, differentiates us from others and helps us meet all our challenges.</p>
                 </div>
-                {/*<JoinCom/>
-                <div className="mission">
-                    <h4>Our Vision</h4>
-                    <h1>Any thing we need is around us</h1>
-                    <p>We are your new online skincare shop that lets you discover, order and receive in minutes products from your local shops.</p>
-                    <p>We believe that our locals should be our first reflex when it’s about shopping because everyting we need is just around. We believe in a new way to shop, a more simple and sensible way.</p>
-                    <p>We believe in the power of local communities to make your lives easier and happier. And more importantly we believe that with the right technology it can be done without hurting the environment we all live in.</p>
-                </div>*/}
 
                 <div className="Things">
-                    <h4>10 things we believe in</h4>
+                    <h2>10 THINGS WE BELIEVE IN</h2>
                     <p>We wrote this list of '10 things we believe in' to share our life philosophy and hopefully inspire incredible people to join us. We hope it does – and you can hold us that this list stays true.</p>
-                </div>
                 <Slider {...settings}>
                     {values.map(v => <Value key={v.id} {...v} />)}
                 </Slider>
-        	</div>
+                </div>
+            </div>
        	);
+    }
+}
+
+class Team extends React.Component {
+
+
+    render() {
+        return (
+            <div className="Team"> 
+                <div className="Image">
+                    <img src={home5} />
+                </div>
+                <div className="AboutText">
+                <h2>THE TEAM</h2> 
+                <div className="Names">
+                <div className="Name">
+                    <h4>Florian</h4>
+                    <p>Founder and CEO/Rider</p>
+                </div> 
+                <div className="Name">
+                    <h4>Myriam</h4>
+                    <p>Founder and CTO</p>
+                </div> 
+                </div>
+                <p>{teamText[0]}</p>
+                <p>{teamText[1]}</p>
+                <a href="/shop"><div className="buttonShop">Join and Shop</div></a>
+                </div>
+            </div>
+
+        );
     }
 }
 
@@ -157,7 +183,7 @@ class JoinCom extends React.Component {
     render() {
         return (
             <div className="JoinCom">
-                <h1>Join our community</h1>
+                <h2>Join our community</h2>
                 <div className="Coms">
                     {coms.map(s => <Com key={s.id} {...s} />)}
                 </div>
@@ -169,7 +195,7 @@ class JoinCom extends React.Component {
 
 class Com extends React.Component {
     render() {
-        const src = require('./images/home1.jpg');
+        const src = require('./images/homePage1.jpg');
         let com = this.props;
         return (
             <div className="Com">
@@ -217,11 +243,9 @@ class Value extends React.Component {
 
         return (
             <div className="Value">
-                <div className="value_text">
-                    <h1>{value.title}</h1>
-                    <p>{value.description}</p>
-                </div>
-                <img className="value_img" src={require(`${value.src}`).default}/>
+                <h2>{value.title}</h2>
+                <p>{value.description}</p>
+            
             </div>
 
         );

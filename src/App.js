@@ -7,6 +7,7 @@ import About from './About.js';
 import Footer from './Footer.js';
 import {Switch, Route} from 'react-router-dom';
 import { BrowserRouter as Router } from 'react-router-dom'; 
+import DetailProductPage from './DetailProductPage.js';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Switch>  
             <Route exact path="/" component = {Home}/>
             <Route exact path="/shop" component = {Shop}/>
+            <Route exact path="/shop/:productId" component = {DetailProductPage}/>
             <Route exact path="/about" component = {About}/>
             <Route exact path="/contact" component = {Contact}/>
           </Switch>

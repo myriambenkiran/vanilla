@@ -1,0 +1,154 @@
+ [
+	{
+		"value":1,
+		"label":"All products"
+	},
+	{
+		"value":2,
+		"label":"Moisturisers"
+	},
+	{
+		"value":3,
+		"label":"Serums"
+	},
+	{
+		"value":4,
+		"label":"Anti-ageing"
+	},
+	{
+		"value":5,
+		"label":"Cleansers"
+	},
+	{
+		"value":6,
+		"label":"Exfoliants"
+	},
+	{
+		"value":7,
+		"label":"Toners and Tonics"
+	},
+	{
+		"value":8,
+		"label":"Eye care"
+	},
+	{
+		"value":9,
+		"label":"Lip care"
+	},
+	{
+		"value":10,
+		"label":"Masks, Scrubs and Treatments"
+	},
+	{
+		"value":11,
+		"label":"Suncare and Self-Tanning"
+	},
+	{
+		"value":12,
+		"label":"Body care"
+	},
+	{
+		"value":13,
+		"label":"Hair and Scalp care"
+	},
+	{
+		"value":14,
+		"label":"Hand care"
+	},
+	{
+		"value":15,
+		"label":"Beauty tools"
+	},
+	{
+		"value":16,
+		"label":"Alpha-H"
+	},
+	{
+		"value":17,
+		"label":"Amanda Harrington"
+	},
+	{
+		"value":18,
+		"label":"Ameliorate"
+	},
+	{
+		"value":19,
+		"label":"Avene"
+	},
+	{
+		"value":20,
+		"label":"Bumble and Bumble"
+	},
+	{
+		"value":21,
+		"label":"Dermalogica"
+	},
+	{
+		"value":22,
+		"label":"Dr. Dennis Gross"
+	},
+	{
+		"value":23,
+		"label":"Drunk Elephant"
+	},
+	{
+		"value":24,
+		"label":"Erborian"
+	},
+	{
+		"value":25,
+		"label":"Kevin Murphy"
+	},
+	{
+		"value":26,
+		"label":"KNC"
+	},
+	{
+		"value":27,
+		"label":"La Mer"
+	},
+	{
+		"value":28,
+		"label":"Leonor Greyl"
+	},
+	{
+		"value":29,
+		"label":"La Roche-Posay"
+	},
+	{
+		"value":30,
+		"label":"Moroccanoil"
+	},
+	{
+		"value":31,
+		"label":"Nuxe"
+	},
+	{
+		"value":32,
+		"label":"OUAI"
+	},
+	{
+		"value":33,
+		"label":"Paula's Choice"
+	},
+	{
+		"value":34,
+		"label":"REN Clean Skincare"
+	},
+	{
+		"value":35,
+		"label":"Sol de Janeiro"
+	},
+	{
+		"value":36,
+		"label":"Sunday Riley"
+	},
+	{
+		"value":37,
+		"label":"The Ordinary"
+	},
+	{
+		"value":38,
+		"label":"TONYMOLY"
+	}
+]

@@ -1,6 +1,5 @@
 import React from 'react';
 import './style/Contact.css';
-import help from './images/help.png';
 
 
 
@@ -11,15 +10,10 @@ class Contact extends React.Component {
     render() {
         return (
         	<div className="Contact">
-                <div className="title">
-                    <h1>Welcome to the Vanilla Help Center</h1>
-                </div>
-                <h4>Send us a text or Call us to get personalised support</h4>
-                <p>Get help with anything. Available 24/7. </p>
-                <div className="phone">
-                    <p>Phone: (+44) 773 783 29 09</p>
-                    <p>Email: support@vanilladelivery.com</p>
-                </div>
+                <h2>VANILLA HELP CENTER</h2>
+                <p>Contact us to get personalised support</p>
+                <p>Email: support@vanilladelivery.com</p>
+                <a href="https://wa.me/+447737832909?text=Thanks for contacting us. Tell us what we can do for you."><div className="buttonShop">Contact Us</div></a>
         	</div>
        	);
     }

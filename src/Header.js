@@ -10,13 +10,10 @@ class Header extends React.Component {
     render() {
         return (
         	<div className="Header">
-        		<div className="Top_Banner">
-        			<p>Don't wait! Our instant delivery is free this month - go shop now.</p>
-        		</div>
         		<a href="/"><h1>Vanilla</h1></a>
         		<div className="Menu">
                     	<NavLink exact activeClassName="current "to="/shop"> Shop </NavLink>
-                    	<NavLink exact activeClassName="current "to="/about"> Get to know us </NavLink>
+                    	<NavLink exact activeClassName="current "to="/about"> About </NavLink>
                     	<NavLink exact activeClassName="current "to="/contact"> Help </NavLink>
         		</div>
         	</div>
