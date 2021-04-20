@@ -1430,17 +1430,6 @@
         "src": "./images/products/C + Collagen Deep Cream by Dr Dennis Gross.jpg"
     },
     {
-        "id": "136",
-        "name": "C+ Collagen BioCellulose Brightening Treatment Mask",
-        "volume": "1 treatment",
-        "price": "17",
-        "brand": "Dr. Dennis Gross",
-        "type": "mask",
-        "info": "Reignite skin’s luminosity with the Dr Dennis Gross Skincare Skincare C+Collagen Biocellulose Brightening Treatment Mask; a 100% natural and biodegradable biocellulose mask that helps repair and instantly brighten dull, dry, damaged skin. Saturated with a radiance-boosting blend of brightening Vitamin C, hydrating Collagen Amino Acids and the brand’s proprietary energy complex, the mask tightly hugs the facial contours to ensure maximum coverage and deep delivery of actives. In just 15 minutes, lacklustre skin will have regained its natural glow and will feel deeply nourished, supple, dewy and plump with moisture.",
-        "category": ["Masks, Scrubs and Treatments", "Dr. Dennis Gross"],
-        "src": "./images/products/C+ Collagen BioCellulose Brightening Treatment Mask by Dr Dennis Gross.jpg"
-    },
-    {
         "id": "137",
         "name": "Dark Spot Sun Defense Broad Spectrum SPF 50 Sunscreen",
         "volume": "50ml",
@@ -1516,17 +1505,6 @@
         "info": "Transform dull-looking eyes and rejuvenate the delicate eye area with Dr Gross F+R Correction Eye Serum. Helping to minimise the visibility of wrinkles and fine lines, it works to improve the tone and texture of the delicate eye area. The eye serum comprises an easily absorbed gel formula and works just as seamlessly as an eye shadow primer. This means that make-up can be applied in a better and more proficient way. Ferulic acid and retinol also work to encourage natural production of collagen. This helps to ensure that the delicate skin around the eye remains firm and feels plump without sagging. Simply dab the serum around the eye area both in the morning and at night for optimal results. The key benefits: Has a weightless, silky formula, Ideal for all skin types, Is quickly absorbed, Diminishes under eye puffiness and dark circle, Perfect for mature and ageing skin, The appearance of surface level imperfections and fine lines are reduced.",
         "category": ["Eye care", "Anti-ageing", "Dr. Dennis Gross"],
         "src": "./images/products/Ferulic + Retinol Triple Correction Eye Serum by Dr Dennis Gross.jpg"
-    },
-    {
-        "id": "144",
-        "name": "Professional Grade IPL Dark Sport Concentrated Serum",
-        "volume": "30ml",
-        "price": "99",
-        "brand": "Dr. Dennis Gross",
-        "type": "serum",
-        "info": "Reveal a brighter, more even complexion with the Dr Dennis Gross Clinical Grade IPL Dark Spot Correcting Serum, a powerful skincare treatment to help reduce the appearance of dark spots and hyperpigmentation. The Dr Dennis Gross Clinical Grade IPL Dark Spot Correcting Serum takes a triple action approach to help achieve results, by working to minimise the look of pigmentation, brightening the skin tone and protecting against environmental aggressors. The potent formula includes 10% L-ascorbic acid, a concentration of vitamin C to brighten the skin, kojic acid to help fade the look of dark spots and arbutin to address hyperpigmentation, helping achieve an even, more radiant complexion. The key benefits: Helps to minimise the appearance of sun spots, age spots and dark patches, Suitable for vegans, Formulated with L-ascorbic acid, kojic acid and arbutin, Free from gluten, sulphates, mineral oil, parabens and formaldehydes, Defends against environmental aggressors.",
-        "category": ["Serums", "Dr. Dennis Gross"],
-        "src": "./images/products/Professional Grade IPL Dark Sport Concentrated Serum by Dr Dennis Gross.jpg"
     },
     {
         "id": "145",
