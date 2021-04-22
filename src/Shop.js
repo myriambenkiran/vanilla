@@ -40,11 +40,12 @@ class Shop extends React.Component {
                 <h2>E-SHOP.</h2>
                 <div className="textShop"><h4>Opening times:</h4>
                 <p>Order 24/7</p>
-                <p>Delivery from Mon to Sat: 11am - 7pm</p>
-                <p>Delivery on Sun: 11am - 12am</p></div>
+                <p>On-demand delivery from Mon to Sat: 11am - 7pm</p>
+                <p>Live in the sw3, sw5, sw7 and sw10 districts.</p></div>
                 <div className="textShop"><h4>YOUR PAYMENT IS SECURE</h4>
+                <p>Order in seconds. Get in minutes.</p>
                 <p>Pay safely by debit card upon our eco-delivery.</p>
-                <p>No minimum order. £2 delivery fee.</p></div>
+                <p>£2 delivery fee. Pollution/packaging free.</p></div>
         	   <Products/>
                {endPage.map(p => <Paragraph key={p.id} {...p} />)}
             </div>
