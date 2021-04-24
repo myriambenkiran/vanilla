@@ -21,158 +21,158 @@
 	},
 	{
 		"value":6,
-		"label":"Exfoliants"
+		"label":"Clean Skincare"
 	},
 	{
 		"value":7,
-		"label":"Toners and Tonics"
+		"label":"Exfoliants"
 	},
 	{
 		"value":8,
-		"label":"Eye care"
+		"label":"Toners and Tonics"
 	},
 	{
 		"value":9,
-		"label":"Lip care"
+		"label":"Eye care"
 	},
 	{
 		"value":10,
-		"label":"Masks, Scrubs and Treatments"
+		"label":"Lip care"
 	},
 	{
 		"value":11,
-		"label":"Organic"
+		"label":"Masks, Scrubs and Treatments"
 	},
 	{
-		"value":13,
+		"value":12,
 		"label":"Suncare and Self-Tanning"
 	},
 	{
-		"value":14,
+		"value":13,
 		"label":"Body care"
 	},
 	{
-		"value":15,
+		"value":14,
 		"label":"Hair and Scalp care"
 	},
 	{
-		"value":16,
+		"value":15,
 		"label":"Hand care"
 	},
 	{
-		"value":17,
+		"value":16,
 		"label":"Beauty tools"
 	},
 	{
-		"value":18,
+		"value":17,
 		"label":"Alpha-H"
 	},
 	{
-		"value":19,
+		"value":18,
 		"label":"Amanda Harrington"
 	},
 	{
-		"value":20,
+		"value":19,
 		"label":"Ameliorate"
 	},
 	{
-		"value":21,
+		"value":20,
 		"label":"Avene"
 	},
 	{
-		"value":22,
+		"value":21,
 		"label":"Briogeo"
 	},
 	{
-		"value":23,
+		"value":22,
 		"label":"Bumble and Bumble"
 	},
 	{
-		"value":24,
+		"value":23,
 		"label":"Dermalogica"
 	},
 	{
-		"value":25,
+		"value":24,
 		"label":"Dr. Dennis Gross"
 	},
 	{
-		"value":26,
+		"value":25,
 		"label":"Drunk Elephant"
 	},
 	{
-		"value":27,
+		"value":26,
 		"label":"Erborian"
 	},
 	{
-		"value":28,
+		"value":27,
 		"label":"Indie Lee"
 	},
 	{
-		"value":29,
+		"value":28,
 		"label":"Kevin Murphy"
 	},
 	{
-		"value":30,
+		"value":29,
 		"label":"KNC"
 	},
 	{
-		"value":31,
+		"value":30,
 		"label":"La Mer"
 	},
 	{
-		"value":32,
+		"value":31,
 		"label":"Leonor Greyl"
 	},
 	{
-		"value":33,
+		"value":32,
 		"label":"Living Proof"
 	},
 	{
-		"value":34,
+		"value":33,
 		"label":"Moroccanoil"
 	},
 	{
-		"value":35,
+		"value":34,
 		"label":"Nuxe"
 	},
 	{
-		"value":36,
+		"value":35,
 		"label":"OLAPLEX"
 	},
 	{
-		"value":37,
+		"value":36,
 		"label":"OUAI"
 	},
 	{
-		"value":38,
+		"value":37,
 		"label":"Paula's Choice"
 	},
 	{
-		"value":39,
+		"value":38,
 		"label":"La Roche-Posay"
 	},
 	{
-		"value":40,
+		"value":39,
 		"label":"REN Clean Skincare"
 	},
 	{
-		"value":41,
+		"value":40,
 		"label":"Sol de Janeiro"
 	},
 	{
-		"value":42,
+		"value":41,
 		"label":"Sunday Riley"
 	},
 	{
-		"value":43,
+		"value":42,
 		"label":"Tata Harper"
 	},
 	{
-		"value":44,
+		"value":43,
 		"label":"The Ordinary"
 	},
 	{
-		"value":45,
+		"value":44,
 		"label":"TONYMOLY"
 	}
 ]

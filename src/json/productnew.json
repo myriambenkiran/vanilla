@@ -40,7 +40,7 @@
         "brand": "REN",
         "type": "face gel cream",
         "info": "After using this gel-cream for a few months you'll notice how much your skin will glow before you’d even put on makeup. It's the product that will make you feel more confident to go out sans base product.",
-        "category": ["Moisturisers", "REN Clean Skincare"],
+        "category": ["Moisturisers", "REN Clean Skincare", "Clean Skincare", "Clean Skincare"],
         "src": "./images/products/11994736-1554640580971421.jpg"
     },
     {
@@ -73,7 +73,7 @@
         "brand": "REN",
         "type": "face cream",
         "info": "This vegan multi-active cream that replenishes the skin with moisture and vital nutrients. Powerful antioxidants, trace elements and vitamins further protect and energise the skin's appearance.",
-        "category": ["Moisturisers", "REN Clean Skincare"],
+        "category": ["Moisturisers", "REN Clean Skincare", "Clean Skincare", "Clean Skincare"],
         "src": "./images/products/VitaMineral.jpg"
     },
     {
@@ -84,7 +84,7 @@
         "brand": "REN",
         "type": "body lotion",
         "info": "This vegan body lotion for all skin types designed to nourish and hydrate skin with the delicate fragrance of rose. A light daily moisturiser that literally leaves you smelling like roses? Yes please.",
-        "category": ["Moisturisers", "Body care", "REN Clean Skincare"],
+        "category": ["Moisturisers", "Body care", "REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/RoseOtto.jpg"
     },
     {
@@ -238,7 +238,7 @@
         "brand": "REN",
         "type": "anti-ageing cream",
         "info": "Formulated to recharge, revitalise and intensively hydrate the skin overnight, this multi action cream visibly smoothes fine lines, evens skin tone and offers antioxidant protection to help combat the signs of premature ageing.",
-        "category": ["Moisturisers","Anti-ageing","REN Clean Skincare"],
+        "category": ["Moisturisers","Anti-ageing","REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/V-Cense™ Revitalising Night Cream.jpg"
     },
     {
@@ -249,7 +249,7 @@
         "brand": "REN",
         "type": "face cream",
         "info": "A multi-active moisturiser that prevents and minimises the signs of premature ageing. Its complex of actives intensly hydrates, protects against free radical damage and smoothes fine lines and wrinkles while improving firmness.",
-        "category": ["Moisturisers","REN Clean Skincare"],
+        "category": ["Moisturisers","REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/V-Cense™ Youth Vitality Day Cream.jpg"
     },
     {
@@ -260,7 +260,7 @@
         "brand": "REN",
         "type": "face cream",
         "info": "This best selling moisturiser utilises Global Protection Complex, a synergetic blend of powerful antioxidant and free radical scavengers, together with soothing and nourishing seed oils to help protect the skin against dehydration and pollution, a known contributing factor to visible premature ageing.",
-        "category": ["Moisturisers","Anti-ageing","REN Clean Skincare"],
+        "category": ["Moisturisers","Anti-ageing","REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/Evercalm™ Global Protection Day Cream.jpg"
     },
     {
@@ -337,7 +337,7 @@
         "brand": "REN",
         "type": "serum",
         "info": "Formulated as a protective serum for redness, dryness and irritation-prone skin, this calming formula helps reduce redness and sensitivity by strengthening the skin barrier. It also boosts hydration, while building skin’s resilience over time thanks to its antioxidant and soothing properties.",
-        "category": ["Serums", "REN Clean Skincare"],
+        "category": ["Serums", "REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/Evercalm™ Anti-Redness Serum.jpg"
     },
     {
@@ -348,7 +348,7 @@
         "brand": "REN",
         "type": "anti-ageing oil",
         "info": "Revitalise your skin with a potent blend of natural oils and vitamins designed to combat the appearance of ageing with REN Bio-Retinoid Anti-Ageing Concentrate. One of the most effective apothecary products for maintaining a youthful appearance, it makes a dramatic difference to the appearance of imperfections, wrinkles and blemishes.",
-        "category": ["Anti-ageing skincare","REN Clean Skincare"],
+        "category": ["Anti-ageing skincare","REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/Bio Retinoid Day Cream.jpg"
     },
     {
@@ -436,7 +436,7 @@
         "brand": "REN",
         "type": "cleansing gel",
         "info": "This gentle facial wash that removes dirt and pollution without harshness.",
-        "category": ["Cleansers","REN Clean Skincare"],
+        "category": ["Cleansers","REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/Evercalm™ Gentle Cleansing Gel.jpg"
     },
     {
@@ -447,7 +447,7 @@
         "brand": "REN",
         "type": "cleanser",
         "info": "A rich daily two step cleanser that gently yet thoroughly purifies, decongests, exfoliates and removes all makeup.",
-        "category": ["Cleansers","REN Clean Skincare"],
+        "category": ["Cleansers","REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/Rosa Centifolia™ Cleanse & Reveal Hot Cloth Cleanser.jpg"
     },
     {
@@ -469,7 +469,7 @@
         "brand": "REN",
         "type": "cleansing cream",
         "info": "With a rich Kaolin Clay base, this non-foaming cleanser works to draw out impurities and excess oil, while cleansing Willow Bark Extract helps to minimise pore appearance, while ridding the skin of environmental pollution and daily blemish-causing dirt buildup. Formulated to be non- drying this cleanser actively fights blemishes without harshness or creating redness - making it ideal for teenage or sensitive skin types. Clearcalm Clarifying Clay Cleanser is in Post-Consumer Recycled packaging.",
-        "category": ["Cleansers", "REN Clean Skincare"],
+        "category": ["Cleansers", "REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/12707232-1574805991224028.jpg"
     },
     {
@@ -502,7 +502,7 @@
         "brand": "REN",
         "type": "cleansing milk",
         "info": "This gentle cleansing milk for sensitive skin, designed to make skin feel calm and clean. This hydrating cleanser removes the day's dirt and make- up, bolsters skin's resistance to harmful free radicals and calms the signs of irritation to leave skin looking refreshed and feeling soothed.",
-        "category": ["Cleansers","REN Clean Skincare"],
+        "category": ["Cleansers","REN Clean Skincare","Clean Skincare"],
         "src": "./images/products/Evercalm™ Gentle Cleansing Milk.jpg"
     },
     {
@@ -557,7 +557,7 @@
         "brand": "Ren",
         "type": "exfoliating tonic",
         "info": "Seven skin benefits, one 100% recycled plastic bottle. This vegan cult- status tonic exfoliates, brightens, tightens and hydrates for a smooth, even and energised complexion that's all glow without the irritation.",
-        "category": ["Toners and Tonics","REN Clean Skincare"],
+        "category": ["Toners and Tonics","REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/Ready Steady Glow Daily AHA Tonic.jpg"
     },
     {
@@ -645,7 +645,7 @@
         "brand": "REN",
         "type": "mask",
         "info": "A potent exfoliating mask formulated to remove dead skin cells to renew the complexion. It helps reduce the appearance of fine lines and wrinkles.",
-        "category": ["Masks, Scrubs and Treatments","REN Clean Skincare"],
+        "category": ["Masks, Scrubs and Treatments","REN Clean Skincare", "Clean Skincare"],
         "src": "./images/products/Glycol Lactic Radiance Renewal Mask.jpg"
     },
     {
@@ -2182,11 +2182,11 @@
     },
     {
         "id": "205",
-        "name": "Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F",
+        "name": "Ascorbyl Tetraisopalmitate Solution 20%",
         "volume": "30ml",
         "price": "14",
         "brand": "The Ordinary",
-        "type": "treatment",
+        "type": "treatment in Vitamin F",
         "info": "Vitamin C is an effective antioxidant, brightens the skin tone and reduces signs of aging. In its pure form, Vitamin C is unstable in water. Ascorbyl Glucoside is a water-soluble derivative of Vitamin C. It is much more stable in water but it is less potent than direct L-Ascorbic Acid. Being more compatible with water allows for a very pleasant serum texture. It is considered a gold standard of Vitamin C derivatives due to its high stability and comfortable use, but it's impossible to achieve extremely high L-Ascorbic Acid potency with this solution. Aside from the general benefits of pure Vitamin C, Ascorbyl Glucoside has been shown to offer specific skin brightening benefits.",
         "how": "Apply a few drops to face AM and PM.",
         "important": "If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children.",
@@ -3506,7 +3506,7 @@
         "type": "hair mask",
         "info": "Nourish the hair with Briogeo Be Gentle, Be Kind Avocado + Kiwi Mega Moisture Superfood Mask, a hydrating hair mask packed with potent ingredients that work to revitalise dry hair and help to leave it looking soft, shiny and smooth. Fortified with phytonutrients inspired by green smoothie ingredients, this deep conditioning formula contains spinach, spirulina and chia seeds to help lock in moisture, while kiwi extract provides a boost of vitamin C and antioxidants to protect hair from environmental aggressors, encouraging stronger, healthier hair. The addition of nourishing avocado oil and cocoa seed butter work to detangle and restore dry hair without weighing it down, making this ideal for all hair types.",
         "how" : "Apply a few drops to dry or damo hair, focusing on mid-length to ends or other areas of damage.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Avocado Kiwi Mega Moisture Superfood Mask by Briogeo.jpg"
     },
     {
@@ -3518,7 +3518,7 @@
         "type": "conditioner",
         "info": "Give hair the nourishment it deserves with the nectar of banana and coconut thanks to Briogeo Be Gentle, Be Kind™ Banana + Coconut Nourishing Superfood Conditioner, a creamy haircare treatment that helps to reinvigorate dull-looking hair. Designed to be used every day, Briogeo Be Gentle, Be Kind™ Banana + Coconut Nourishing Superfood Conditioner is inspired by nutrient-rich smoothies and enriched with a blend of nourishing antioxidants. Formulated using 97% naturally derived ingredients and specifically developed for dull, dry and lifeless-looking hair, this vegan-friendly conditioner helps to deliver a healthy boost to locks. Briogeo Be Gentle, Be Kind™ Banana + Coconut Nourishing Superfood Conditioner leaves hair softer, stronger and shinier.",
         "how" : "After shampooing, apply and massage into the hair from root to tip. Leave in for up to two minutes before rinsing.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Coconut Nourishing Superfood Conditioner by Briogeo.jpg"
     },
     {
@@ -3530,7 +3530,7 @@
         "type": "conditioner",
         "info": "Create a new haircare and wellness routine with Briogeo Be Gentle, Be Kind Kale + Apple Replenishing Superfood Conditioner, a nourishing conditioner inspired by the juice wellness movement and supported by the powers of fruit acids and minerals. Mimicking the consistency of a rich fruit smoothie, this conditioner is infused with kale and apple extract as well as a range of vitamins, fruit and vegetable fatty acids and minerals. It has been formulated to replenish dull and lifeless locks, working in tandem with the Matcha and Apple Replenishing Superfood Shampoo for hair that dazzles. Briogeo Be Gentle, Be Kind™ Kale + Apple Replenishing Superfood Conditioner helps to support the natural vibrancy and strength of hair, hydrating every strand from root to tip and promoting healthy regrowth.",
         "how" : "After shampooing, apply and massage into the hair from root to tip. Leave in for up to two minutes before rinsing.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Kale Apple Replenishing Superfood Conditioner by Briogeo.jpg"
     },
     {
@@ -3542,7 +3542,7 @@
         "type": "shampoo",
         "info": "Unleash the inviting scent of apples with Briogeo Be Gentle, Be Kind™ Matcha and Apple Replenishing Shampoo, a deliciously rich and nutritious shampoo inspired by supercharged apple smoothies. Enriched with fruit and vegetable fatty acids, this shampoo is ideal for dry and dull locks. It works to visibly replenish the hair’s natural shine and vitality and helps ensure that nutrients are absorbed from root to tip. Vitamins and minerals penetrate every strand, supporting strength and nourishment without removing natural moisture. Briogeo Be Gentle, Be Kind™ Matcha and Apple Replenishing Shampoo is free from SLS and won’t accelerate colour fade. It is suitable for use on coloured and chemically treated locks.",
         "how" : "Apply to wet hair and vigorously massage for 30 seconds as the lather builds, then rinse.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Matcha Apple Replenishing Superfood Shampoo by Briogeo.jpg"
     },
     {
@@ -3553,7 +3553,7 @@
         "brand": "Briogeo",
         "type": "conditioner",
         "info": "Enhance hair’s volume with Briogeo Blossom and Bloom™ Ginseng and Biotin Volumizing Conditioner, a dual-action conditioner that contributes towards increased fullness and thickness in locks that are fine, limp or lifeless. This conditioner features a unique ingredient: maltodextrin, a natural sugar starch that works to coat strands to boost their appearance without leaving hair sticky or tangled. Ginseng and ginger stimulate blood flow to the scalp and promote healthier hair growth, while biotin strengthens follicles with repeated use. Briogeo Blossom and Bloom™ Ginseng and Biotin Volumizing Conditioner is 98% naturally derived, making it vegan friendly and cruelty-free. Free from phthalates, parabens, silicones, sulphates, DEA and artificial dyes, the conditioner supports long-term hair health.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Blossom & Bloo Ginseng Biotin Volumizing Conditioner by Briogeo.jpg"
     },
     {
@@ -3565,7 +3565,7 @@
         "type": "hair mask",
         "info": "Say ‘goodbye’ to dry, damaged and lifeless locks with the Briogeo Don’t Despair, Repair!™ Deep Conditioning Mask, a deeply nourishing and restorative hair masked infused with 98% natural ingredients and innovative haircare technology. This conditioning mask sets to work in minutes to restore the hair’s hydration levels and natural vitality. Banishing dry, brittle strands, it harnesses Briogeo’s unique NOVA Complex to deliver transformative nutrients where they’re needed most. B vitamins, rosehip and argan oils, collagen and algae extract ensure that tresses look shiny, sleek and radiant. The Briogeo Don’t Despair, Repair!™ Deep Conditioning Mask can help to reduce future breakages by up to 75% with repeated use. The mask is made without phthalates, parabens, silicones and artificial dyes and is certified cruelty-free and vegan friendly.",
         "how" : "After shampooing, massage Don't Despair, Repair! into the hair, ensuring the conditioner is evenly applied. Leave in for 5-10 minutes before rinsing. For even deeper conditioning, cover the hair in a plastic cap to retain moisture while sitting under the dryer for 30 minutes, then rinse.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Deep Conditioning Hair Mask by Briogeo.jpg"
     },
     {
@@ -3577,7 +3577,7 @@
         "type": "hair oil",
         "info": "The Don’t Despair, Repair!™ Strengthening Treatment Oil fortifies hair with bioidentical lipids such as ceramides and essential fatty acids, to help restore and replenish for a smooth, silky finish. This lightweight oil is densely packed with hair-essential ingredients and a clinically-proven repair technology that works to reinforce hair cuticles and protect against future hair breakage.",
         "how" : "After shampooing, massage into the hair from mid-length to ends. Leave in for 5 to 10 minutes before rinsing. Can be used once or twice per week in place or conditioner.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Strengthening Treatment Hair Oil by Briogeo.jpg"
     },
     {
@@ -3589,7 +3589,7 @@
         "type": "Dry shampoo",
         "info": "This unique dry shampoo is enriched with binchotan charcoal, which works to draw impurities away from the scalp, detoxify the hair follicles and normalise oil production. The presence of clay, biotin, tapioca and rice starches contributes towards reduced sebum at the hairs’ roots, which can extend the result of heat treatments such as blow-drying. Briogeo Scalp Revival™ Charcoal + Biotin Dry Shampoo contains witch hazel extract, which helps to prevent excessive oiliness from returning. The dry shampoo provides a solution to oily hair rather than a temporary fix; locks receive a targeted burst of nutrients to encourage healthy growth and shine.",
         "how" : "Combat the effects of an oily scalp with Briogeo Scalp Revival™ Charcoal + Biotin Dry Shampoo, a refreshing dry shampoo that cleanses locks for a healthier head of hair.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Scalp Revival Charcoal Biotin Dry Shampoo.jpg"
     },
     {
@@ -3601,7 +3601,7 @@
         "type": "hair treatment",
         "info": "Target the symptoms of a dry, irritable scalp with Briogeo Scalp Revival™ Charcoal + Tea Tree Scalp Treatment, a cooling and soothing hair treatment enriched with peppermint and spearmint oils, binchotan charcoal, aloe vera, witch hazel, biotin, sodium hyaluronate and tea tree oil. This unique treatment works to draw oil and impurities away from the scalp, removing buildup and stimulating healthy hair growth for locks that are strong and shiny. The refreshing formula helps to reduce itchiness and irritation while providing antiseptic properties to soothe inflammation. The scalp is left hydrated and balanced, enriched with nutrients from 98% naturally derived ingredients that nourish and condition.",
         "how" : "Part the hair into sections, apply 1-2 drops to each partition and massage into the scalp. Do not rinse out. The treatment should be applied after washing and before styling. It can also be applied before bedtime as a pre-shampoo scalp treatment.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Scalp Revival Charcoal Tea Tree Scalp Treatment by Briogeo.jpg"
     },
     {
@@ -3613,7 +3613,7 @@
         "type": "shampoo",
         "info": "Reduce obstructive product buildup for a soothed scalp with Briogeo Scalp Revival™ Charcoal + Coconut Oil Micro-Exfoliating Shampoo, a nourishing shampoo that detoxifies and protects. Used to draw impurities away from the scalp and follicles, it contributes towards healthy hair growth. This shampoo is infused with binchotan charcoal, vegetable-derived micro-exfoliators, peppermint and spearmint oils, coconut oil, panthenol and tea tree oil. Massaged into wet hair, it works to remove dead skin cells and leftover product while reducing irritation and inflammation and preventing dryness and flakiness. The reduced is a balanced, healthy scalp and stronger locks. Briogeo Scalp Revival™ Charcoal + Coconut Oil Micro-Exfoliating Shampoo has enriching super vitamins and 98% naturally derived ingredients. It detoxifies and exfoliates the scalp without sulphates, parabens, phthalates or gluten and is certified cruelty-free.",
         "how" : "Apply to wet hair and vigorously massage into the scalp and through to the ends. Rinse and repeat, as necessary. Apply your favorite Briogeo conditioner or treatment post-shampoo.",
-        "category": ["Hair care and Scalp care", "Organic", "Briogeo"],
+        "category": ["Hair care and Scalp care", "Clean Skincare", "Briogeo"],
         "src": "./images/products/Scalp Revival Charcoal Coconut Oil Micro-exfoliating Shampoo by Briogeo.jpg"
     },
     {
@@ -3624,7 +3624,7 @@
         "brand": "Indie Lee",
         "type": "breakouts treatment",
         "info": "The fast-acting formula of Indie Lee’s Banish Stick allows you to treat breakouts on the go and get your skin back to looking its best. Packed with the powerful sebum-dissolving properties of caviar lime extract and salicylic acid, this small but mighty formula is further enriched with sophora japonica flower and burdock root extracts to nourish the skin as it works.",
-        "category": ["Masks, Scrubs and Treatments", "Organic", "Indie Lee"],
+        "category": ["Masks, Scrubs and Treatments", "Clean Skincare", "Indie Lee"],
         "src": "./images/products/BANISH STICK.jpg"
     },
     {
@@ -3636,7 +3636,7 @@
         "type": "face mask",
         "info": "Deep cleanse and nourish the complexion with this gentle yet effective treatment mask. Salicylic and Glycolic Acids work to exfoliate dead skin cells. Bentonite Clay and Colloidal Sulfur help to gently draw out impurities. Zinc Oxide, Chamomile and Red Seaweed extracts ensure skin is left reconditioned and hydrated.",
         "how" : "Apply a thin layer to damp, clean skin, avoiding the immediate eye area and allow the mask 20 minutes to work its magic. Gently rinse with warm water. Use weekly for optimum results.",
-        "category": ["Masks, Scrubs and Treatments", "Exfoliants", "Organic", "Indie Lee"],
+        "category": ["Masks, Scrubs and Treatments", "Exfoliants", "Clean Skincare", "Indie Lee"],
         "src": "./images/products/CLEARING MASK.jpg"
     },
     {
@@ -3647,7 +3647,7 @@
         "brand": "Indie Lee",
         "type": "face treatment",
         "info": "Ready to come to your rescue ahead of photo-filled occasions, the Overnight Banish Gel from Indie Lee acts fast on imperfections to ensure that your skin looks as good as you feel. Its kaolin and bentonite clays draw out – or rather ‘banish’ – excess oils and impurities from the skin, while the jasmine and vitamin-rich noni extracts work to nourish the complexion for glowing, spotlight-ready results.",
-        "category": ["Masks, Scrubs and Treatments", "Moisturisers", "Organic", "Indie Lee"],
+        "category": ["Masks, Scrubs and Treatments", "Moisturisers", "Clean Skincare", "Indie Lee"],
         "src": "./images/products/OVERNIGHT BANISH GEL.jpg"
     },
     {
@@ -3658,7 +3658,7 @@
         "brand": "Indie Lee",
         "type": "face treatment",
         "info": "Need a detox? Remove makeup and impurities with this antioxidant-rich foaming cleanser. Java Plum, Orange and Lavender extracts nourish the skin while dissolving excess sebum. Clove, Burdock and Mandarin promote a clearer, brighter complexion. Rose Damascena and Jasmine ensure skin feels soft and supple, never tight.",
-        "category": ["Cleansers", "Organic", "Indie Lee"],
+        "category": ["Cleansers", "Clean Skincare", "Indie Lee"],
         "src": "./images/products/PURIFYING FACE WASH.jpg"
     },
     {
@@ -3670,7 +3670,7 @@
         "type": "peel",
         "info": "Reveal a brighter, more even-toned complexion with this Vitamin C rich exfoliating blend of Java Plum and Banana extracts. Alpha Hydroxy Acids (AHAs) from Caviar Lime combine with Mango derived Beta-Carotene, Vitamin A and Glycerin to leave skin looking soft, supple and luminous.",
         "how" : "To optimize radiance and tone, gently wipe over dry, freshly cleansed skin avoiding the delicate eye and lip areas. Follow with serum from Prevent step. Use daily or 2-3 times weekly for sensitive skin",
-        "category": ["Exfoliants", "Organic", "Indie Lee"],
+        "category": ["Exfoliants", "Clean Skincare", "Indie Lee"],
         "src": "./images/products/RADIANCE RENEWAL PEEL.jpg"
     },
     {
@@ -3681,7 +3681,7 @@
         "brand": "Indie Lee",
         "type": "eye cream",
         "info": "A powerhouse eye cream for immediate results. Ectoin, antioxidant Centella and Paracress extracts help strengthen, protect and diminish the visible signs of aging. Conditioning algae and Licorice Root promote brighter, plumper, more youthful-looking skin.",
-        "category": ["Eye care", "Organic", "Indie Lee"],
+        "category": ["Eye care", "Clean Skincare", "Indie Lee"],
         "src": "./images/products/RESTORATIVE EYE CREAM.jpg"
     },
     {
@@ -3692,7 +3692,7 @@
         "brand": "Indie Lee",
         "type": "oil",
         "info": "Inspired by nature, clean beauty brand Indie Lee is firmly rooted in the founder’s ambition to educate and empower us in the world of natural yet high-performance skincare, putting safety and ethical choices at the forefront of every formula. Take the Squalane Facial Oil; infused with 100% olive-derived squalane, it plumps, nourishes and provides intense hydration, improving your complexion’s overall texture and tone.",
-        "category": ["Moisturisers", "Organic", "Indie Lee"],
+        "category": ["Moisturisers", "Clean Skincare", "Indie Lee"],
         "src": "./images/products/SQUALANE FACIAL OIL.jpg"
     },
     {
@@ -3704,7 +3704,7 @@
         "type": "oil",
         "info": "The power of plant stem cells meets hardworking botanicals. Echinacea Stem Cells help improve the appearance of firmer skin while Alpine Rose provides antioxidant benefits to combat lackluster skin. Nourishing Bamboo extracts and Hyaluronic Acid leave skin hydrated and supple.",
         "how" : "Apply to freshly cleansed skin, morning and evening. Use alone or layer under your favorite moisturizer for enhanced environmental protection.",
-        "category": ["Moisturisers", "Organic", "Indie Lee"],
+        "category": ["Moisturisers", "Clean Skincare", "Indie Lee"],
         "src": "./images/products/STEM CELL SERUM.jpg"
     },
     {
@@ -3832,5 +3832,69 @@
         "how" : "Shake well. Spray Moroccanoil® Dry Shampoo 15–20 cm away from dry roots. Let dry, then massage into scalp as you would with wet shampoo. Brush out.",
         "category": ["Hair and Scalp care", "Moroccanoil"],
         "src": "./images/products/Dry Shampoo Light Tones.jpg"
+    },
+    {
+        "id": "350",
+        "name": "Niacinamide 10% + Zinc 1%",
+        "volume": "30ml",
+        "price": "5",
+        "brand": "The Ordinary",
+        "type": "treatment",
+        "info": "The Ordinary Niacinamide + Zinc is one of the brand’s best selling products. It helps to lighten dark spots and balance out any uneven skin tone. It is excellent for acne prone skin since it is oil free and won’t clog pores. The product contains 10% pure Niacinamide (vitamin B3) which reduces the appearance of skin blemishes. When combined with Zinc, the two ingredients work together to clear out pores and control oil production. The Ordinary Niacinamide + Zinc is recommended as one of the best The Ordinary products for acne scars with skin discolouration.",
+        "how" : "Apply to entire face morning and evening before heavier creams. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children.",
+        "important" : "If topical Vitamin C (L-Ascorbic Acid and/or Ethylated L-Ascorbic Acid) is used as part of skincare, it should be applied at alternate times with this formula (ideally Vitamin C in the PM and this formula in the AM). Otherwise, Niacinamide can affect integrity of the Vitamin C.",
+        "category": ["Masks, Scrubs and Treatments", "The Ordinary"],
+        "src": "./images/products/Niacinamide 10 Zinc 1.jpg"
+    },
+    {
+        "id": "351",
+        "name": "Bain TS Shampooing balancing shampoo",
+        "volume": "200ml",
+        "price": "30",
+        "brand": "Leonor Greyl",
+        "type": "shampoo for oily scalp",
+        "info": "95% natural ingredients. Vegan. Purifies and cleanses scalp without irritating it. Eliminates excess sebum. Leaves hair soft, light and shiny. Hair Type: oily scalp.",
+        "how" : "Wet hair thoroughly. Emulsify shampoo between your palms. Apply to scalp and massage, adding small amounts of water progressively as a gentle lather builds. Rinse thoroughly.",
+        "important" : "If you prefer to wash your hair once a week, two successive applications are necessary to properly remove buildup from dust, pollution, dry shampoos or styling products. For maximum oil control, follow with Tonique Vegetale, a leave-in spray for oily scalp.",
+        "category": ["Hair and Scalp care", "Leonor Grey"],
+        "src": "./images/products/Bain TS Shampooing balancing shampoo for oily scalp 200ml.jpg"
+    },
+    {
+        "id": "352",
+        "name": "Masque Fleurs de Jasmin conditioning mask",
+        "volume": "200ml",
+        "price": "42",
+        "brand": "Leonor Greyl",
+        "type": "Mask",
+        "info": "98,8 % natural ingredients. Hydrates and conditions hair without weighing it down. Leaves hair soft, supple, shiny and delicately scented. Hair type: thin and dry hair",
+        "how" : "As an everyday conditioner, apply on towel-dried length and ends, leave on for 2-5 minutes, comb through then rinse thoroughly. As a weekly intensive treatment, apply on dry length and ends, comb through and leave on 20 minutes before shampooing out. For easy detangling, add a small amount of product before passing a wide-tooth comb through the hair while rinsing.",
+        "important" : "For best results, apply L’Huile de Leonor Greyl to dry length and ends before shampooing.",
+        "category": ["Hair and Scalp care", "Leonor Grey"],
+        "src": "./images/products/Masque Fleurs de Jasmin conditioning mask 200ml.jpg"
+    },
+    {
+        "id": "353",
+        "name": "Shampooing Au Miel Gentle volumizing shampoo",
+        "volume": "120ml",
+        "price": "22",
+        "brand": "Leonor Greyl",
+        "type": "shampoo",
+        "info": "96,6% natural ingredients. Creates volume, body and increases shine. Gentle formula perfect for everyday use",
+        "how" : "Apply to entire face morning and evening before heavier creams. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children.",
+        "important" : "Can be used as a “clarifying” shampoo to remove silicone buildup from styling products. If you prefer to wash your hair once a week, two successive applications are necessary to properly remove buildup from dust, pollution, dry shampoos or styling products. For added volume, follow with an alcohol-free volumizing styling mousse.",
+        "category": ["Hair and Scalp care", "Leonor Grey"],
+        "src": "./images/products/Shampooing Au Miel Gentle volumizing shampoo 120ml.jpg"
+    },
+    {
+        "id": "354",
+        "name": "Shampooing Crème Moelle de Bambou",
+        "volume": "200ml",
+        "price": "32",
+        "brand": "Leonor Greyl",
+        "type": "shampoo",
+        "info": "A potent treatment shampoo, Shampoo Creme Moelle de Bambou is crammed with intensive active ingredients, to restore long locks to their glossy, luminous best. Wheat derivatives, Carrot, silk proteins and Bamboo Marrow combine to repair traumatised hair fibres from the first application; regenerating the hair shaft, replenishing shine, restoring flexibility and renewing manageability. Suitable for all hair types but especially those with brittle lengths and ends, this luxurious shampoo simultaneously cleanses and conditions to save precious time, whilst improving the appearance and quality of your crowning glory.",
+        "how" : "After detangling, wet hair thoroughly; pour some shampoo into the palm of one hand and gently rub hands together to spread the product over the inside of both hands. Next, place your fingers on your scalp and massage gently in circular motions, lifting hair from time to time. Repeat the process by adding small amounts of water each time in order to obtain a good lather. If you shampoo daily, one application is sufficient, otherwise two are recommended.",
+        "category": ["Hair and Scalp care", "Leonor Grey"],
+        "src": "./images/products/Shampooing Crème Moelle de Bambou 200ml.jpg"
     }
 ]
