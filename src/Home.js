@@ -31,7 +31,7 @@ const steps = [
 
 
 const text =[
-        "We propose to change the way e-commerce is done, starting with beauty. Discover a new type of e-store that only offers products stocked a few miles away from you. Shop in a smarter, more environmentally conscious and sensible way. All our products are 100% cruelty-free, our on-demand delivery option is pollution-free and instant and we don’t use any additional packaging. This is the Future of e-commerce and it starts now. Join if you want to build it with us.",
+        "We enable you to order beauty products from local shops and we deliver your order where and when you want, in minutes, by bikes. 80% - 100% of what you need or want is available locally. We offer you the power to shop for beauty in a smarter and more environmentally conscious way.",
         "The current e-commerce model is nonsense to us. Often resulting in unnecessary pollution, unnecessary hassle, waste of time and avoidable inconvenience. We have solutions to those problems. By switching to us, you’ll contribute to develop a new way of shopping that we believe is the future of online shopping. Switch to a new e-store type of thinking that empowers you to shop online in a smarter, more environmentally conscious and sensible way."
         ]
 

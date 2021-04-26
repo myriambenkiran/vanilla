@@ -2754,4 +2754,148 @@
         "category": ["Hair and Scalp care"],
         "src": "./images/products/Huile De Leonor Greyl 95ml.jpg"
     }
+
+     /*},
+    {
+        "id": "236",
+        "name": "The Concentrate",
+        "volume": "50ml",
+        "price": "410",
+        "brand": "La Mer",
+        "type": "serum",
+        "info": "Discover a potent barrier serum for skin that feels stronger, more stable and calm. Each day, exposure to environmental irritants like pollution can cause inflammation—a root cause of visible signs of premature skin ageing. With barrier-building benefits and NEW dual-protection, The Concentrate is your double source of strength against these daily irritants. Concentrated Miracle Broth™—a super-potent form of La Mer powerhouse elixir— helps reduce the appearance of signs of irritation and helps calms skin so it can focus on natural renewal. Skin emerges feeling stronger, more stable and calm.",
+        "category": ["Anti-ageing", "Serums", "Moisturisers", "La Mer"],
+        "src": "./images/products/The Concentrate (50ml).jpg"
+    },
+    {
+        "id": "237",
+        "name": "The Eye concentrate",
+        "volume": "15ml",
+        "price": "180",
+        "brand": "La Mer",
+        "type": "eye sereum",
+        "info": "With triple the Concentrated Miracle Broth™, this highly active, fast-absorbing treatment helps transform the delicate eye area with essential energy to reduce the look of dark circles and lines. Lime Tea Concentrate helps preserve skin's youthful beauty. The result? An enlightened looking new eye area — one that looks smoother, brighter and healthier than before.",
+        "category": ["Anti-ageing", "Serums", "Moisturisers", "La Mer"],
+        "src": "./images/products/The Eye concentrate.jpg"
+    },
+    {
+        "id": "238",
+        "name": "Crème de la Mer Moisturizing Cream",
+        "volume": "100ml",
+        "price": "370",
+        "brand": "La Mer",
+        "type": "face cream",
+        "info": "The La Mer moisturizer that started it all. This luxuriously rich cream immerses skin in deep, soothing moisture, helping soothe dryness. Skin feels soft-to-the-touch, supple and smooth. Lines and wrinkles appear softened. Unlock the power of a radiant visible transformation, day and night. Ideal for drier skin.",
+        "category": ["Moisturisers", "La Mer"],
+        "src": "./images/products/Creme de la Mer Moisturizing Cream (100ml).jpg"
+    },
+    {
+        "id": "239",
+        "name": "The Cleansing Foam (125ml)",
+        "volume": "125ml",
+        "price": "75",
+        "brand": "La Mer",
+        "type": "cleansing foam",
+        "info": "This gentle cleansing foam purifies the most delicate skin. Crafted with La Mer’s proprietary Deconstructed Waters™, this cleanser effectively draws out impurities and excess oil without disrupting skin’s moisture barrier. A light wash to soften, comfort and nourish, energising the appearance of skin for a bright, fresh, healthy-looking complexion.",
+        "category": ["Cleansers", "La Mer"],
+        "src": "./images/products/The Cleansing Foam (125ml).jpg"
+    },
+    {
+        "id": "240",
+        "name": "The Cleansing Oil",
+        "volume": "200ml",
+        "price": "75",
+        "brand": "La Mer",
+        "type": "cleansing oil",
+        "info": "When gently shaken, this cleansing suspension transforms into a detoxifying emulsion of precious marine oils and pearl powders. Apply to dry skin to remove makeup, or apply with water for a milky, purifying wash. The complexion emerges looking hydrated, nourished and ready for treatment.",
+        "category": ["Cleansers", "La Mer"],
+        "src": "./images/products/The Cleansing Oil (200ml).jpg"
+    },
+    {
+        "id": "241",
+        "name": "The Lifting and Firming Mask",
+        "volume": "50ml",
+        "price": "184",
+        "brand": "La Mer",
+        "type": "mask",
+        "info": "This revitalizing cream mask re-energises, plumps and protects, instantly infusing skin with vibrancy. In just 8 minutes, skin looks healthy and refreshed – glowing from within. This treatment, crafted with proprietary ferments, helps neutralises free radicals to help defend skin against the environmental drivers of ageing.",
+        "category": ["Masks, Scrubs and Treatments", "Anti-ageing", "La Mer"],
+        "src": "./images/products/The Lifting and Firming Mask.jpg"
+    },
+    {
+        "id": "242",
+        "name": "The Tonic",
+        "volume": "200ml",
+        "price": "75",
+        "brand": "La Mer",
+        "type": "toner",
+        "info": "This revitalising toner with a blend of marine-rich ingredients works to refresh and tone the appearance of skin after cleansing. A simple step before treatments that balances the complexion. Skin looks purified, revealing a healthy-looking glow.",
+        "category": ["Moisturisers", "La Mer"],
+        "src": "./images/products/The Tonic.jpg"
+    },
+    {
+        "id": "243",
+        "name": "Lip Volumiser",
+        "volume": "7ml",
+        "price": "65",
+        "brand": "La Mer",
+        "type": "lip",
+        "info": "Natural shine and an irresistible sensation. Infused with Miracle Broth™, this serum-strength treatment protects and plumps with hydration, for lips that look immediately fuller, healthier and more defined. Lips are infused with renewing hydration and lines appear reduced. Just one swipe of this gorgeous treatment gloss and you’ll realise why nothing less than La Mer will do.",
+        "category": ["Lip care", "La Mer"],
+        "src": "./images/products/Lip Volumiser.jpg"
+    },
+    {
+        "id": "244",
+        "name": "The Body Crème",
+        "volume": "300",
+        "price": "185",
+        "brand": "La Mer",
+        "type": "body cream",
+        "info": "This rich body cream instantly comforts and renews skin’s appearance by saturating skin with lasting, deep hydration. Dry skin looks and feels cushioned and smoothed as it is enveloped in the therapeutic effects of the sea.",
+        "category": ["Body care", "Moisturisers", "La Mer"],
+        "src": "./images/products/The Body Creme (300ml).jpg"
+    },
+    {
+        "id": "314",
+        "name": "The Lip Balm",
+        "volume": "9g",
+        "price": "52",
+        "brand": "La Mer",
+        "type": "lip balm",
+        "info": "This velveteen balm with a hint of mint calms, restores and conditions, transforming lips with the most tender touch. Instantly helping to soften dryness, this emollient treatment nourishes, restores and strengthens the natural moisture barrier to help prevent further environmental damage.",
+        "category": ["Lip care", "La Mer"],
+        "src": "./images/products/The Lip Balm.jpg"
+    },
+    {
+        "id": "245",
+        "name": "The Moisturizing Soft Cream",
+        "volume": "100ml",
+        "price": "370",
+        "brand": "La Mer",
+        "type": "face cream",
+        "info": "With its power to renew skin’s barrier, The Moisturizing Soft Cream strengthens and protects while reducing the look of fine, dry lines. Miracle Broth™ – the legendary revitalising elixir that flows through all of La Mer – infuses skin with sea-sourced renewing energies. Ideal for combination / drier skin.",
+        "category": ["Moisturisers", "La Mer"],
+        "src": "./images/products/The Moisturizing Soft Cream (100 ml).jpg"
+    },
+    {
+        "id": "246",
+        "name": "The Regenerating Serum",
+        "volume": "75ml",
+        "price": "585",
+        "brand": "La Mer",
+        "type": "serum",
+        "info": "The next regeneration is here. With advanced science, new sea-sourced actives, and more Miracle Broth™, this re-engineered formula helps supercharge a renewed look, diminishing the appearance of lines and wrinkles for a renewed appearance of vitality.",
+        "category": ["Serums", "Anti-ageing", "La Mer"],
+        "src": "./images/products/The Regenerating Serum (75ml).jpg"
+    },
+    {
+        "id": "247",
+        "name": "The SPF 50 UV Protecting Fluid",
+        "volume": "50ml",
+        "price": "88",
+        "brand": "La Mer",
+        "type": "sunscreen",
+        "info": "Your daily SPF 50 requirement. Let this luxurious, quick-absorbing fluid help defend skin against everyday exposure to UV rays, helping to prevent future discolouration. Designed to be worn over your moisturiser or under makeup, this soothing, lightweight lotion infuses skin with the sea-sourced renewing energies of Miracle Broth™.",
+        "category": ["Suncare and Self-Tanning", "La Mer"],
+        "src": "./images/products/The SPF 50 UV Protecting Fluid (50ml).jpg"*/
 ]
