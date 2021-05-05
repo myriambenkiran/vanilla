@@ -81,6 +81,10 @@
 	},
 	{
 		"value":21,
+		"label":"BEAUTYBIO"
+	},
+	{
+		"value":21,
 		"label":"Briogeo"
 	},
 	{
@@ -97,126 +101,166 @@
 	},
 	{
 		"value":25,
-		"label":"Dermalogica"
+		"label":"Clarins"
 	},
 	{
 		"value":26,
-		"label":"Dr. Dennis Gross"
+		"label":"Clinique"
 	},
 	{
 		"value":27,
-		"label":"Drunk Elephant"
+		"label":"Dermalogica"
 	},
 	{
 		"value":28,
-		"label":"Erborian"
+		"label":"Dr. Dennis Gross"
 	},
 	{
 		"value":29,
-		"label":"Fresh"
+		"label":"Drunk Elephant"
 	},
 	{
 		"value":30,
-		"label":"Indie Lee"
+		"label":"Erborian"
 	},
 	{
 		"value":31,
-		"label":"Kevin Murphy"
+		"label":"Embryolisse"
 	},
 	{
 		"value":32,
-		"label":"Kiehls"
+		"label":"Foreo"
 	},
 	{
 		"value":33,
-		"label":"KNC"
+		"label":"Fresh"
 	},
 	{
 		"value":34,
-		"label":"Leonor Greyl"
+		"label":"Indie Lee"
 	},
 	{
 		"value":35,
-		"label":"Living Proof"
+		"label":"Kerastase"
 	},
 	{
 		"value":36,
-		"label":"Moroccanoil"
+		"label":"Kevin Murphy"
 	},
 	{
 		"value":37,
-		"label":"Neutrogena"
-	},
-	{
-		"value":34,
-		"label":"Nuxe"
+		"label":"Kiehls"
 	},
 	{
 		"value":38,
-		"label":"OLAPLEX"
+		"label":"KNC"
 	},
 	{
 		"value":39,
-		"label":"Oribe"
+		"label":"Le lABO"
 	},
 	{
 		"value":40,
-		"label":"Oskia"
+		"label":"Leonor Greyl"
 	},
 	{
 		"value":41,
-		"label":"OUAI"
+		"label":"Living Proof"
 	},
 	{
 		"value":42,
-		"label":"Paula's Choice"
+		"label":"Moroccanoil"
 	},
 	{
 		"value":43,
-		"label":"Perricone MD"
+		"label":"MZ Skin"
 	},
 	{
 		"value":44,
-		"label":"La Roche-Posay"
+		"label":"Neutrogena"
 	},
 	{
 		"value":45,
-		"label":"Le Labo"
+		"label":"NUFACE"
 	},
 	{
 		"value":46,
-		"label":"REN Clean Skincare"
+		"label":"Nuxe"
 	},
 	{
 		"value":47,
-		"label":"Rodial"
+		"label":"OLAPLEX"
 	},
 	{
 		"value":48,
-		"label":"Sol de Janeiro"
+		"label":"Ole Henriksen"
 	},
 	{
 		"value":49,
-		"label":"Sunday Riley"
+		"label":"Oribe"
 	},
 	{
 		"value":50,
-		"label":"Tata Harper"
+		"label":"Oskia"
 	},
 	{
 		"value":51,
-		"label":"The Inkey List"
+		"label":"OUAI"
+	},
+	{
+		"value":51,
+		"label":"Paula's Choice"
 	},
 	{
 		"value":52,
-		"label":"The Ordinary"
+		"label":"Perricone MD"
 	},
 	{
 		"value":53,
-		"label":"TONYMOLY"
+		"label":"Philip Kingsley"
 	},
 	{
 		"value":54,
+		"label":"La Roche-Posay"
+	},
+	{
+		"value":55,
+		"label":"Le Labo"
+	},
+	{
+		"value":56,
+		"label":"REN Clean Skincare"
+	},
+	{
+		"value":57,
+		"label":"Rodial"
+	},
+	{
+		"value":58,
+		"label":"Sol de Janeiro"
+	},
+	{
+		"value":59,
+		"label":"Sunday Riley"
+	},
+	{
+		"value":60,
+		"label":"Tata Harper"
+	},
+	{
+		"value":61,
+		"label":"The Inkey List"
+	},
+	{
+		"value":62,
+		"label":"The Ordinary"
+	},
+	{
+		"value":63,
+		"label":"TONYMOLY"
+	},
+	{
+		"value":64,
 		"label":"Weleda"
 	}
 ]

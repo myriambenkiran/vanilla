@@ -44,17 +44,6 @@
         "src": "./images/products/11994736-1554640580971421.jpg"
     },
     {
-        "id": "5",
-        "name": "Holy Hydratation!",
-        "volume": "50ml",
-        "price": "15",
-        "brand": "e.l.f",
-        "type": "face cream",
-        "info": "All skin needs moisture, and this fragrance-free, silky-smooth cream maintains skin's moisture balance while protecting it with skin- supporting peptides. Packed with beneficial ingredients like squalane, hyaluronic acid, niacinamide and peptide complex, this nourishing cream quickly seeps into the skin for smooth, non-greasy moisture and soft, supple skin.",
-        "category": ["Moisturisers"],
-        "src": "./images/products/elf.jpg"
-    },
-    {
         "id": "6",
         "name": "C-Rush Brightening",
         "volume": "50ml",
@@ -62,7 +51,7 @@
         "brand": "Ole Henriksen",
         "type": "face gel cream",
         "info": "The daily effects of stress, fatigue, and pollution can leave skin looking dry and dull. Fight back with this vegan C-Rush Brightening Gel Crème. This innovative, peachy-tinted gel crème instantly illuminates and delivers an energizing burst of 24-hour hydration.",
-        "category": ["Moisturisers"],
+        "category": ["Moisturisers", "Ole Henriksen"],
         "src": "./images/products/CRush.jpg"
     },
     {
@@ -227,7 +216,7 @@
         "brand": "Ole Henriksen",
         "type": "face cream",
         "info": "Transform the way you think about your moisturizer, transform your skin. This moisturizer delivers weightless hydration and luminous perfection. With its whipped, silky texture, this bestselling oil-free moisturizer imparts essential moisture to the skin, even as it delivers radiance and helps improves the appearance of dark spots and discoloration.",
-        "category": ["Moisturisers"],
+        "category": ["Moisturisers", "Ole Henriksen"],
         "src": "./images/products/Sheer Transformation™ Perfecting Moisturizer.jpg"
     },
     {
@@ -282,7 +271,7 @@
         "brand": "Ole Henriksen",
         "type": "anti-ageing serum",
         "info": "Tell dullness to bounce: This vegan, gluten and cruelty-free serum contains the highest concentration of vitamin C for daily use. It combines vitamin C, exfoliating acids and banana powder-inspired pigments—to help instantly brighten, firm, reduce the look of dark spots, pores and wrinkles and defend skin against pollution, while delivering a sensorial experience you’ll love. And, with hyaluronic acid, this multi-acid serum helps reinforce skin’s moisture barrier.",
-        "category": ["Serums","Anti-ageing"],
+        "category": ["Serums","Anti-ageing", "Ole Henriksen"],
         "src": "./images/products/Ole Henriksen Banana Bright™ Vitamin C Serum.jpg"
     },
     {
@@ -293,7 +282,7 @@
         "brand": "Clarins",
         "type": "anti-ageing serum",
         "info": "This anti-aging treatment enriched with 20+1 plant extracts that uses a hydrolipidic and biomimetic double formula to stimulate five vital functions: hydration, nutrition, oxygenation, regeneration and protection. This multi-tasking serum does it all!",
-        "category": ["Serums", "Anti-ageing"],
+        "category": ["Serums", "Anti-ageing", "Clarins"],
         "src": "./images/products/Clarins double serum.jpg"
     },
     {
@@ -381,7 +370,7 @@
         "brand": "Clinique",
         "type": "cleansing balm",
         "info": "The quicker makeup is off the better, that’s why we love this balm as you can just rub it all over your face, rinse with a wet flannel and it gets rid of everything in one go. Way quicker than scrubbing your face with 5 orange stained makeup wipes.",
-        "category": ["Cleansers"],
+        "category": ["Cleansers", "Clinique"],
         "src": "./images/products/Clinique Take The Day Off Cleansing Balm.jpg"
     },
     {
@@ -392,7 +381,7 @@
         "brand": "Ole Henriksen",
         "type": "cleansing gel",
         "info": "Finally, a juice cleanse you can commit to: Truth Juice Daily Cleanser is a serious multitasker. This everyday vegan cleanser, made with orange fruit water & PHA, removes dirt, oil and longwear eye makeup, and reveals refreshed, energized skin in just one step.",
-        "category": ["Cleansers"],
+        "category": ["Cleansers", "Ole Henriksen"],
         "src": "./images/products/Truth JuiceDaily Cleanser.jpg"
     },
     {
@@ -535,7 +524,7 @@
         "brand": "Ole Henriksen",
         "type": "pore minimizing toner",
         "info": "This concentrated pore minimizing vegan toner effectively removes excess oil and refines pores—without stripping skin. It's formulated with Green Fusion ComplexTM, a proprietary blend of potent active botanicals —green tea, eucalyptus, algae (kelp) and Irish moss extracts.",
-        "category": ["Toners and Tonics"],
+        "category": ["Toners and Tonics", "Ole Henriksen"],
         "src": "./images/products/Balancing Force™ Oil Control Toner.jpg"
     },
     {
@@ -546,7 +535,7 @@
         "brand": "Ole Henriksen",
         "type": "face toner",
         "info": "Seeing dark spots, fine lines, wrinkles and uneven texture? Spent too much time in tanning beds or baking under the sun? It’s time to atone for your skin sins. This potent vegan brightening toner, supercharged with a high concentration of AHAs (glycolic and lactic acids) and witch hazel water, reduces the look of dark spots in as little as 7 days.",
-        "category": ["Toners and Tonics"],
+        "category": ["Toners and Tonics", "Ole Henriksen"],
         "src": "./images/products/Glow2OH Dark Spot Toner.jpg"
     },
     {
@@ -612,7 +601,7 @@
         "brand": "Ole Henriksen",
         "type": "mask",
         "info": "We're fan of using exfoliating acids in our skincare and PHAs are gentle acids that work at sloughing off dead skin to reveal the glowy, illuminated skin beneath. This mask really does work wonders, when you'll wash it off your skin will look so much brighter and plump.",
-        "category": ["Masks, Scrubs and Treatments", "Anti-ageing"],
+        "category": ["Masks, Scrubs and Treatments", "Anti-ageing", "Ole Henriksen"],
         "src": "./images/products/Ole Henriksen Transform Plus PHAT Glow Facial.jpg"
     },
     {
@@ -623,7 +612,7 @@
         "brand": "Ole Henriksen",
         "type": "face scrub",
         "info": "Inspired by a refreshing glass of lemonade on a hot summer day, this sugar face scrub brings life back to dull, rough skin. This dual-action scrub does double-duty to physically and chemically exfoliate your complexion. High-potency AHAs (Alpha Hydroxy Acids) help loosen and lift dead skin cells, while lemon peel powder and ultra-fine sugar exfoliants gently sweep away rough skin.",
-        "category": ["Masks, Scrubs and Treatments"],
+        "category": ["Masks, Scrubs and Treatments", "Ole Henriksen"],
         "src": "./images/products/Lemonade Smoothing Scrub™.jpg"
     },
     {
@@ -634,7 +623,7 @@
         "brand": "Ole Henriksen",
         "type": "mask",
         "info": "Take the plunge for smaller-looking pores, instantly. Deeply purify and diminish pores with an exhilarating chill. Inspired by the “cold plunge” part of a Scandinavian sauna cycle, this cooling clay mask detoxifies, controls surface oil and reduces the look of pores. The innovative formula harnesses the power of alpine willowherb and snow lotus— antioxidant-rich botanicals that have adapted to thrive in extreme cold —to soothe, mattify and refine pores.",
-        "category": ["Masks, Scrubs and Treatments"],
+        "category": ["Masks, Scrubs and Treatments", "Ole Henriksen"],
         "src": "./images/products/Cold Plunge™ Pore Mask.jpg"
     },
     {
@@ -1056,7 +1045,7 @@
         "brand": "Foreo",
         "type": "facial device",
         "info": "FOREO’S miniature-sized BEAR Microcurrent Facial Toning Device provides visible skin-firming benefits. The at-home facial device helps to provide a sculpting and toning effect, utilising 5 intensities of microcurrent technology, along with T-Sonic pulsations to help lift, tone, and re-contour age-sensitive areas such as the jawline, cheeks, neck and forehead. Providing precise, targeted treatment, the non-invasive device helps to reduce the appearance of wrinkles, promoting a smother, firmer and more youthful-looking appearance. A revolutionary Anti-Shock System allows the BEAR to measure your skin’s resistance to electricity, adjusting the microcurrents within your chosen intensity to ensure maximum safety and comfort at every level. FOREO’s conductive serum allows the device to glide over the skin, ensuring even and comfortable treatment. Suitable for all skin types and ages, the device delivers visible, long-lasting results with continued use. Discover a firmed, toned and sculpted complexion with this innovative device, for a salon-quality facial from the comfort of your own home. Ideal for those wanting to start early with anti-ageing treatments Pre-programmed routines on the FOREO For You App.",
-        "category": ["Beauty tools"],
+        "category": ["Beauty tools", "Foreo"],
         "src": "./images/products/BEAR Mini pink.jpg"
     },
     {
@@ -1067,7 +1056,7 @@
         "brand": "Foreo",
         "type": "facial device",
         "info": "FOREO’S innovative BEAR Microcurrent Facial Toning Device provides visible skin-firming benefits. The at-home facial device helps to provide a sculpting and toning effect, utilising 5 intensities of microcurrent technology, along with T-Sonic pulsations to help lift, tone, and re-contour age-sensitive areas such as the jawline, cheeks, neck and forehead. Providing precise, targeted treatment, the non-invasive device helps to reduce the appearance of wrinkles, promoting a smother, firmer and more youthful-looking appearance. A revolutionary Anti-Shock System allows the BEAR to measure your skin’s resistance to electricity, adjusting the microcurrents within your chosen intensity to ensure maximum safety and comfort at every level. FOREO’s conductive serum allows the device to glide over the skin, ensuring even and comfortable treatment. Suitable for all skin types and ages, the device delivers visible, long-lasting results with continued use. Discover a firmed, toned and sculpted complexion with this innovative device, for a salon-quality facial from the comfort of your own home. Ideal for those wanting to start early with anti-ageing treatments Pre-programmed routines on the FOREO For You App.",
-        "category": ["Beauty tools"],
+        "category": ["Beauty tools", "Foreo"],
         "src": "./images/products/BEAR.jpg"
     },
     {
@@ -1078,7 +1067,7 @@
         "brand": "Foreo",
         "type": "facial device",
         "info": "Foreo's electronic 'ESPADA' device recreates the same LED treatment you'd get at a dermatologist, so you can treat acne and blackheads from home. The laser-focused blue light targets blemish-causing bacteria and helps cleanse blocked pores, while the vibrating T-Sonic™ pulsations work to speed skin renewal and reveal a clearer complexion in less time. It's lightweight enough to pop it in your gym bag or carry-on, too.",
-        "category": ["Beauty tools"],
+        "category": ["Beauty tools", "Foreo"],
         "src": "./images/products/ESPADA Blue Light Acne Treatment.jpg"
     },
     {
@@ -1089,7 +1078,7 @@
         "brand": "Beautybio",
         "type": "facial device",
         "info": "GloPRO's patented technology helps stimulate skin's natural healing response to induce micro-rejuvenation deep within the skin for a visibly firmer, smoother and younger-looking appearance. As MicroTips pass over the skin cells respond immediately to the imperceptible microchannels created, prompting a rejuvenating process that helps restore volume from the inside out.Red LED light function and VibroTactile Stimulation work synergistically to help enhance regenerative skin benefits. Used alone or as a companion to your favourite serums and creams, this youth-promoting tool helps make the absorption of key anti-ageing ingredients more efficient, while enhancing the overall performance of your favourite skincare.",
-        "category": ["Beauty tools"],
+        "category": ["Beauty tools", "BEAUTYBIO"],
         "src": "./images/products/GloPRO® Microneedling Regeneration Tool.jpg"
     },
     {
@@ -1100,7 +1089,7 @@
         "brand": "MZ SKIN",
         "type": "facial device",
         "info": "MZ Skin was created by Dr. Maryam Zamani in her mission to help women 'achieve healthy, glowing, youthful skin'. A pioneer in high-performance skincare, the brand continues to revolutionise at-home beauty rituals with treatments like the Light-Therapy Golden Facial LED Device. The innovative mask works to rejuvenate the skin with a multicoloured series of light therapy, helping with inflammation, breakouts and reducing hyper- pigmentation, among other problems.",
-        "category": ["Beauty tools"],
+        "category": ["Beauty tools", "MZ Skin"],
         "src": "./images/products/Light-Therapy Golden Facial Treatment.jpg"
     },
     {
@@ -1111,7 +1100,7 @@
         "brand": "Foreo",
         "type": "facial device",
         "info": "Harness the power of a pampering spa treatment from the comfort of your own home with Foreo’s Luna 3. Specifically designed for normal skin, this cleansing and toning gadget utilises eight thermal touchpoints and calming T-Sonic pulsations to banish dirt and lock in moisture. Connect it to the skincare specialist’s tailor-made app to customise your self-care routine as your skin requires before enjoying your deepest yet gentlest cleanse yet.",
-        "category": ["Beauty tools"],
+        "category": ["Beauty tools", "Foreo"],
         "src": "./images/products/LUNA 3 Plus for Normal Skin.jpg"
     },
     {
@@ -1133,7 +1122,7 @@
         "brand": "Nuface",
         "type": "facial device",
         "info": "All the benefits of a microcurrent treatment in a petite, portable and powerful device. The mini delivers unparalleled professional results and is easy to use in as little as 5 minutes per day. Shown to improve facial contour, facial tone, and reduce the appearance of fine lines and wrinkles.",
-        "category": ["Beauty tools"],
+        "category": ["Beauty tools", "NUFACE"],
         "src": "./images/products/Mini Facial Toning Device.jpg"
     },
     {
@@ -1155,7 +1144,7 @@
         "brand": "Nuface",
         "type": "facial device",
         "info": "Transform the look of your skin with the NuFACE FIX Line Smoothing Device, a pen-sized skincare tool that provides gentle bursts of NuFACE® microcurrent energy to help reduce the look of and prevent fine lines and wrinkles. Instantly targeting signs of ageing around the eyes, lips and forehead in just three minutes, the skin-firming device delivers a smoothing and tightening effect to help reduce the appearance of fine lines and wrinkles. Pair with the NuFACE FIX™ Line Smoothing Serum; the first ionic Microcurrent Skincare™ formula, supercharged with active beauty ingredients to help smoothen, tighten and brighten the look of skin. Suitable for all skin types.",
-        "category": ["Beauty tools"],
+        "category": ["Beauty tools", "NUFACE"],
         "src": "./images/products/NuFACE FIX Line Smoothing Device.jpg"
     },
     {
@@ -1166,7 +1155,7 @@
         "brand": "Nuface",
         "type": "facial devices",
         "info": "You get the best of both worlds with this powerful microcurrent set, which delivers instant and cumulative anti-ageing results. Treat your face and neck in just 5 minutes with the NuFACE Mini Facial Toner. Once done, supercharge your treatment with the NuFACE FIX, which has been designed to instantly plump and smooth fine lines and wrinkles around the eyes, lips and forehead. Both devices harness gentle microcurrent technology, which works below the skin’s surface to stimulate the collagen and elastin production. When used alongside the specially formulated microcurrent skincare, your results will be enhanced too.",
-        "category": ["Beauty tools"],
+        "category": ["Beauty tools", "NUFACE"],
         "src": "./images/products/NuFACE The Petite Facial Kit.jpg"
     },
     {
@@ -1177,7 +1166,7 @@
         "brand": "Beautybio",
         "type": "facial device",
         "info": "Enjoy the calming qualities and skincare benefits of Beautybio's Rose Quartz Roller. Crafted from sustainably harvested Brazilian rose quartz, the dual-ended roller is ideal for maximising and sealing in the benefits of serums and moisturisers. Enjoy an at-home salon-level experience by chilling in the refrigerator for instant cooling and de-puffing effect, while also promoting lymphatic drainage and reducing the appearance of pores.",
-        "category": ["Beauty tools", "Beautybio"],
+        "category": ["Beauty tools", "BEAUTYBIO"],
         "src": "./images/products/Rose Quartz Roller.jpg"
     },
     {
@@ -3584,7 +3573,6 @@
         "brand": "OLAPLEX",
         "type": "treatment",
         "info": "A professional-inspired treatment that primes hair for deeper repair with the highest dose of patented OLAPLEX technology in any take-home product. It rebuilds hair bonds, strengthens and protects hair integrity. Use as the first step in a two-part system with N°.3 Hair Perfector.",
-        "important" : "N°.0 bottle should last 3-6 applications, based on hair length and density.",
         "category": ["Hair and Scalp care", "Olaplex"],
         "src": "./images/products/No 3 Hair Perfector.jpg"
     },
@@ -3964,7 +3952,7 @@
         "name": "The Inkey List Oat Cleansing Balm",
         "volume": "150ml",
         "price": "13",
-        "brand": "CeraVe",
+        "brand": "The Inkey List",
         "type": "cleanser",
         "info": "THE INKEY LIST’s aim is simple: break through beauty jargon to deliver a straightforward take on the skin care’s most-wanted ingredients (right up our street). A succinct collection of hero products formulated by a crack team of experts and scientists, this range incorporates all the industry heavy-hitters – from retinol to hyaluronic acid – and allows you to customise your regime to suit your skin’s ever-changing needs. The products contain as few ingredients as possible, all of the highest quality and at ‘give-it-a-go’ prices. Advanced skin care for the price of a couple of coffees? Who could refuse…",
         "how" : "Use AM and PM. Gently massage a small amount onto a dampened face and neck. Rinse thoroughly with water. Follow with preferred serums and moisturiser.",
@@ -4167,18 +4155,6 @@
         "src": "./images/products/Dragon’s Blood Cleansing Water by Rodial.jpg"
     },
     {
-        "id": "390",
-        "name": "Dragon’s Blood Cleansing Water",
-        "volume": "300ml",
-        "price": "33",
-        "brand": "Rodial",
-        "type": "cleanser",
-        "info": "Soothe tired, tight skin with Rodial Dragon’s Blood Cleansing Water, a gentle facial cleanser infused with rose water and vitamin B that helps to brighten and illuminate the complexion. This gentle micellar water is designed to remove makeup without irritation, while vitamin B leaves skin looking brighter. Hyaluronic acid moisturises skin for a naturally plumped up look so that skin appears younger and fresher looking. With its no-rinse formula, Rodial Dragon’s Blood Cleansing Water is perfect for on-the-go lifestyles and can be integrated into any daily makeup and skincare routine. The non-stinging formula is suitable for more delicate skin types and can be rinsed off if the skin is more sensitive.",
-        "how" : "Moisten a cotton pad with this face cleanser and wipe over face and eyes allowing make-up to melt away.",
-        "category": ["Rodial", "Cleansers"],
-        "src": "./images/products/Dragon’s Blood Cleansing Water by Rodial.jpg"
-    },
-    {
         "id": "391",
         "name": "Clarifying Cleanser",
         "volume": "125ml",
@@ -4307,5 +4283,115 @@
         "how" : "Only a small amount of product needs to be used, so can be applied sparingly. It works best to gently pat the product into the skin, rather than massaging in. For the rest of the body, gently smooth the product into the skin until it has been absorbed.",
         "category": ["Weleda", "Moisturisers"],
         "src": "./images/products/Skin Food Original.jpg"
+    },
+    {
+        "id": "402",
+        "name": "CeraVe Hydrating Cleanser",
+        "volume": "236ml",
+        "price": "9",
+        "brand": "CeraVe",
+        "type": "cleanser",
+        "info": "Refresh and revitalise thirsty skin with the CeraVe Hydrating Cleanser. This gentle cleanser glides across the complexion, sweeping away dirt, grime and traces of makeup that may be lingering on the surface. Designed to be kind, the nourishing formula reinforces the natural skin barrier for increased protection and resilience. 3 essential Ceramides – 1, 3 and 6-II – work to cleanse the skin, ensuring not to strip away vital moisture. Hyaluronic Acid seeks to replenish hydration levels. With a non-foaming gel texture, the face cleanser gently lifts away debris and impurities from the skin’s surface. The CeraVe hydrating cleanser also resists feelings of dryness or tightness. Suitable for dehydrated and normal to dry skin types. Fragrance-free and non-comedogenic.",
+        "how" : "Massage cleanser onto wet skin, then rinse.",
+        "category": ["CeraVe", "Cleansers"],
+        "src": "./images/products/CeraVe Hydrating Cleanser for Normal to Dry Skin 236ml.jpg"
+    },
+    {
+        "id": "403",
+        "name": "Lactic Acid 10% + HA",
+        "volume": "30ml",
+        "price": "5",
+        "brand": "The Ordinary",
+        "type": "exfoliating acid",
+        "info": "Lactic Acid is an alpha hydroxy acid that exfoliates the skin. This 10% formulation offers mild exfoliation and is supported with a purified Tasmanian pepperberry known to reduce signs of inflammation and sensitivity that is often associated with exfoliation. This formula contains a studied Tasmanian Pepperberry derivative to help reduce irritation associated with acid use. This derivative is of plant origin and varies in colour seasonally and this colour variation may be apparent in the formula from time to time.",
+        "important" : "Lactic Acid should not be used on sensitive, peeling or compromised skin. Please refer to additional sun protection note and other warnings in provided Directions.  Sunburn Alert: This product contains an alpha hydroxy acid (AHA) that may increase your skin's sensitivity to the sun and particularly the possibility of sunburn. Use a sunscreen, wear protective clothing, and limit sun exposure while using this product and for a week afterwards.",
+        "how" : "Apply once per day, ideally in the PM. Can be diluted with other treatments to reduce strength until skin develops tolerance. Do not use on sensitive, peeling or compromised skin. Avoid contact with eyes. Contact of the product with the skin must be of limited frequency or duration. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children.",
+        "category": ["The Ordinary", "Exfoliants"],
+        "src": "./images/products/Lactic Acid 10% + HA by The Ordinary.jpg"
+    },
+    {
+        "id": "404",
+        "name": "Hyaluronic Acid 2% + B5",
+        "volume": "60ml",
+        "price": "10",
+        "brand": "The Ordinary",
+        "type": "moisturiser",
+        "info": "The molecular size of HA determines its depth of delivery in the skin. This formulation combines low-, medium- and high-molecular weight HA, as well as a next-generation HA crosspolymer at a combined concentration of 2% for multi-depth hydration in a water-based formula. This system is supported with the addition of Vitamin B5 which also enhances surface hydration.",
+        "important" : "Hyaluronic Acid is found in the skin naturally but its natural function within the skin is not hydration. Many products have used HA to claim hydration benefits, but HA is too large of a molecule to penetrate the skin and instead sits on the surface and can draw moisture out of the skin making the surface feel soft and hydrated temporarily, while making you feel like you need more HA after the product is rinsed. This formula uses three forms of HA with varying molecular weights, as well as an HA crosspolymer, to offer multi-depth hydration and visible plumping without drawing water out of the skin solely to improve temporary surface hydration.",
+        "how" : "Apply a few drops to face AM and PM before creams. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children.",
+        "category": ["The Ordinary", "Moisturisers"],
+        "src": "./images/products/Hyaluronic Acid 2% + B5 by The Ordinary.jpg"
+    },
+    {
+        "id": "405",
+        "name": "Daily Face Moisturizer",
+        "volume": "52ml",
+        "price": "27",
+        "brand": "Kylie Skin",
+        "type": "moisturiser",
+        "info": "A combination of a hyaluronic acid derivative, glycerin and oat bran extract make this the perfect lightweight formula to hydrate oily skin without feeling too heavy.",
+        "important" : "A combination of a hyaluronic acid derivative, glycerin and oat bran extract make this the perfect lightweight formula to hydrate oily skin without feeling too heavy.",
+        "category": ["Kylie Skin", "Moisturisers"],
+        "src": "./images/products/Daily Face Moisturizer (52ml).jpg"
+    },
+    {
+        "id": "406",
+        "name": "DeliKate Recovery Cream",
+        "volume": "50ml",
+        "price": "69",
+        "brand": "Kate Somerville",
+        "type": "moisturiser",
+        "info": "Soothe skin the Hollywood way with Kate Somerville Delikate Soothing Cream. Designed by skincare expert to the stars Kate Somerville, this ultra-rich cream has been formulated to help protect and repair the skin, leaving stressed out and sensitive complexions feeling cool and calm. Designed especially for sensitive skin, Kate Somerville Delikate Soothing Cream can also help with temporary issues of irritation, redness and sensitivity and works to defend the skin against environmental aggressors such as pollutants and sunburn. Kate Somerville Delikate Soothing Cream helps to rebuild the skin’s delicate barrier while nourishing and moisturising, leaving the complexion looking fresher, healthier and more luminous.",
+        "category": ["Kate Somerville", "Moisturisers"],
+        "src": "./images/products/DeliKate Recovery Cream by Kate Somerville.jpg"
+    },
+    {
+        "id": "407",
+        "name": "Exfolikate Intensive Exfoliating Treatment",
+        "volume": "60ml",
+        "price": "74",
+        "brand": "Kate Somerville",
+        "type": "exfoliant",
+        "info": "Get a brighter, healthier-looking complexion in minutes with the Kate Somerville Exfolikate Intensive Exfoliating Treatment, a skincare treatment that reveals a smoother, softer and more radiant complexion. This complexion-enhancing exfoliator is formulated with AHA, lactic acid and fruit enzymes to dissolve dead skin cells, while silica acts as a physical exfoliant to slough them away. Honey and aloe vera provide a soothing sensation, and soy-lipids support the skin’s natural defences. Kate Somerville Exfolikate Intensive Exfoliating Treatment can be used once or twice each week. Start by wetting the face, then apply a thin layer of the treatment. Next, massage it in for 30 seconds using gentle circular movements. Then leave to work for 2 minutes before rinsing and drying.",
+        "how" : "Use once or twice each week to keep skin radiant. Gently apply a thin, even layer to a clean, wet face, massaging in a circular motion for 30 seconds. Leave on for an additional one to two minutes to activate the enzymes. Rinse off and pat dry. Redness may appear up to 20 minutes post treatment due to an increase in circulation. For extremely sensitive skin, do not use.",
+        "category": ["Kate Somerville", "Exfoliants"],
+        "src": "./images/products/Exfolikate Intensive Exfoliating Treatment by Kate Somerville.jpg"
+    },
+    {
+        "id": "408",
+        "name": "ExfoliKate Glow Moisturizer",
+        "volume": "50ml",
+        "price": "69",
+        "brand": "Kate Somerville",
+        "type": "exfoliant",
+        "info": "Allow any complexion to reach its full potential with the Kate Somerville Exfolikate Glow Moisturizer, a skincare treatment that helps brighten dull complexions. This brightness-boosting formula is fortified with lactic and glycolic acids to help dissolve dead skin cells, allowing a more glowing complexion to emerge. To ensure that skin remains soothed throughout the process, calming napol cactus fruit extract is added. Kate Somerville Exfolikate Glow Moisturizer can be used two times a day, in the morning and the evening. Just smooth on to the face and neck in a thin layer. It can be used alone as a glow-boosting treatment or combined with a Kate Somerville serum.",
+        "how" : "AM and PM. Use twice a day. Apply a thin, even layer to face and neck. Use alone or layer over your favorite serum.",
+        "important" : "Avoid contact with lip and eye area. Do not use on irritated or damaged skin. Keep away from children. This product contains Alpha Hydroxy Acid (AHA) which may increase your skin's sensitivity to the sun and increase the possibility of sunburn. Use a sunscreen, wear protective clothing, and limit sun exposure while using this product and for a week afterward.",
+        "category": ["Kate Somerville", "Exfoliants"],
+        "src": "./images/products/ExfoliKate Glow Moisturizer by Kate Somerville.jpg"
+    },
+    {
+        "id": "409",
+        "name": "The Rich Cream",
+        "volume": "50ml",
+        "price": "205",
+        "brand": "Augustinus Bader",
+        "type": "moisturiser",
+        "info": "Stimulate the skin’s natural processes of rejuvenation and work to dramatically improve the complexion’s appearance with Augustinus Bader The Rich Cream. This nourishing face cream is suitable for normal to dry skin types. Rich in omega 6 fatty acids and antioxidants, this cream features replenishing argan, avocado and evening primrose oils to help protect the skin against free radical damage. Augustinus Bader The Rich Cream also acts as a shield against dry climates and is ideal as part of a night-time routine. For best results, use both morning and evening by applying the cream onto cleansed, dry skin, smoothing the desired amount over the face, neck and décolleté.",
+        "how" : "For optimum usage, on cleansed, dry skin, smooth two pumps over the face, neck and decollete morning and evening.",
+        "category": ["Augustinus Bader", "Moisturisers"],
+        "src": "./images/products/The Rich Cream by Augustinus Bader.jpg"
+    },
+    {
+        "id": "410",
+        "name": "Rich Night Cream",
+        "volume": "50g",
+        "price": "8",
+        "brand": "Cetaphil",
+        "type": "moisturiser",
+        "info": "The Cetaphil Rich Hydrating Night Cream contains emollients and humectants that bind water to the skin and prevent moisture loss too.",
+        "how" : "Use this before bed and it wil leave you with soft, hydrated, excuse-me-where’d-you-get-that-time-machine skin when you wake up.",
+        "category": ["Cetaphil", "Moisturisers"],
+        "src": "./images/products/Cetaphil Rich Night Cream.jpg"
     }
 ]
