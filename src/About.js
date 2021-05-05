@@ -80,7 +80,7 @@ const coms = [
 ];
 
 const teamText =[
-    "In 2021, Myriam and Florian launched Vanilla, bringing together their interests in skincare and e-commerce as well as efficiency and convenience, to create a business that would empower people to shop in a more sensible, smarter and environmentally conscious way. Their vision is to create a new e-commerce type of thinking, offering people the opportunity to shop their favourite products and to receive their orders pollution-free and on-demand, instantly. Their proposition: each product available on their platform is stocked a few miles away from each of their users.",
+    "In 2021, Myriam and Florian launched Vanilla, bringing together their interests in beauty and e-commerce as well as efficiency and convenience, to create a business that would empower people to shop in a smarter and more environmentally conscious way. Their vision is to create a new e-commerce type of thinking, offering people the opportunity to shop their favourite products and to receive their orders where and when they want, pollution and packaging free. Their proposition: each product a user has access to is stocked a few miles away from him or her.",
     "Myriam and Florian met in Marseille (France) in 2014, connected by their desire to leave a legacy, they patnered in life and business. They moved together to London in 2018 and start materialising their ideal, now called Vanilla. Their goal is to change the way the world experiences online shopping, making lifestyles smarter, more sensible, more efficient and more environmentally conscious."
 ]
 
@@ -131,7 +131,7 @@ class About extends React.Component {
                 <div className="Mission">
                     <h2>OUR MISSION</h2>
                     <h4>Simplify anyone’s life and deliver happiness and serenity to all lives</h4>
-                    <p>It’s an enormously ambitious and incredibly rewarding mission that we are obsessed with achieving. Our unique purpose is to make your lifestyle more sensible, empowering you to shop smarter, in a more sensible and environmentally conscious way, while ensuring that we all don’t hurt any life at any level doing so. This mission is our guardrails to ensure everything that is done by us and our community is true to our purpose, differentiates us from others and helps us meet all our challenges.</p>
+                    <p>It’s an enormously ambitious and incredibly rewarding mission that we are obsessed with achieving. Our unique purpose is to make your lifestyle smarter, empowering you to shop in a more convenient and environmentally conscious way, while ensuring that we all don’t hurt any life at any level doing so. This mission is our guardrails to ensure everything that is done by us and our community is true to our purpose, differentiates us from others and helps us meet all our challenges.</p>
                 </div>
 
                 <div className="Things">

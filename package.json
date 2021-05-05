@@ -13,10 +13,12 @@
     "react-dropdown": "^1.9.2",
     "react-gtm-module": "^2.0.11",
     "react-image": "^4.0.3",
+    "react-redux": "^7.2.4",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "react-select": "^4.3.0",
     "react-slick": "^0.27.13",
+    "redux": "^4.1.0",
     "slick-carousel": "^1.8.1",
     "web-vitals": "^0.2.4"
   },

@@ -31,11 +31,11 @@ const steps = [
 
 
 const text =[
-        "We enable you to order beauty products from local shops and we deliver your order where and when you want, in minutes, by bikes. 80% - 100% of what you need or want is available locally. We offer you the power to shop for beauty in a smarter and more environmentally conscious way.",
-        "The current e-commerce model is nonsense to us. Often resulting in unnecessary pollution, unnecessary hassle, waste of time and avoidable inconvenience. We have solutions to those problems. By switching to us, you’ll contribute to develop a new way of shopping that we believe is the future of online shopping. Switch to a new e-store type of thinking that empowers you to shop online in a smarter, more environmentally conscious and sensible way."
+        "We enable you to order beauty and hair care products from local shops and we deliver your order where and when you want, by bikes. 80% - 100% of what you need or want is available locally. We offer you the power to shop for beauty in a smarter and more environmentally conscious way.",
+        "Our service is designed to address unnecessary pollution, unnecessary hassle, waste of time and other avoidable problems resulting from traditional e-commerce. When you order your beauty and hair care products with us, you contribute to develop a smarter and more environmentally conscious e-commerce that lets you control your time by deciding when and where you want to receive your order and reduce your environmental impacts by favouring a 100% pollution-free delivery over traditional shipping."
         ]
 
-const recycleText = "Get your beauty products empties collected on-demand for £2 fee. Any size product from any beauty brand are welcomed. Even those not bought with us. Collection is free when your order with us."
+const recycleText = "Get your empties collected for £2 fee. Any size product from any beauty brand are welcomed. Even those not bought with us. Collection is free for products ordered with us."
 
 
 class Home extends React.Component {
@@ -66,9 +66,9 @@ class Main extends React.Component {
         return (
         	<div className="HomePage1">
         		<div className="HomePage1Text">
-        			<h2>JOIN A NEW TYPE OF THINKING</h2>
+        			<h2>SHOP FOR BEAUTY</h2>
         			<p>{text[0]}</p>
-                    <a href="/shop"><div className="buttonShop">Join and Shop</div></a>
+                    <a href="/shop"><div className="buttonShop">Shop</div></a>
         		</div>
                <div className="Image">
                     <img src={HomePage1} />
@@ -89,9 +89,9 @@ class Why extends React.Component {
                     <img src={HomePage2} />
                 </div>
                 <div className="HomePage2Text">
-                    <h2>SWITCH</h2>
+                    <h2>YOUR LOCAL BEAUTY E-STORE</h2>
                     <p>{text[1]}</p>
-                    <a href="/shop"><div className="buttonShop">Switch and Shop</div></a>
+                    <a href="/shop"><div className="buttonShop">Shop</div></a>
                 </div>
 
             </div>
@@ -107,10 +107,10 @@ class Comments extends React.Component {
         return (
             <div className="Review">
                 <h2>WHAT OUR USERS SAY ABOUT THEIR EXPERIENCE</h2>
-                <p>“I wanted to try a product straight away and your service made it possible. Loved it!”<br/>Maya - SW3 - Chelsea, London</p>
-                <p>“First time using it after a friend’s recommendation. I wasn't expecting such a lovely experience!”<br/>Sarah - SW10 - Chelsea, London</p>
-                <p>“I loved it! Especially the fact that the delivery was totally pollution-free and no additional packaging were used.”<br/>Emma - SW5 - Chelsea, London</p>
-                <a href="/shop"><div className="buttonShop">Experience it yourself</div></a>
+                <p>“I wanted to try a product straight away and your service made it possible. Loved it!”<br/>Maya - SW3, London</p>
+                <p>“First time using it after a friend’s recommendation. I wasn't expecting such a lovely experience!”<br/>Sarah - SW10, London</p>
+                <p>“I loved it! Especially the fact that the delivery was totally pollution-free and no additional packaging were used.”<br/>Emma - SW5, London</p>
+                <a href="/shop"><div className="buttonShop">Try it yourself</div></a>
             </div>
 
         );
@@ -124,7 +124,7 @@ class WhyVanilla extends React.Component {
         return (
             <div className="SignUp">
                 <h3>Why Vanilla?</h3>
-                <p>All products that you need. Instant and Pollution-free delivery. Recycling made easy. No additional packaging used.</p>
+                <p>All the products you need (want). Delivery by bikes where and when you want. Pollution and Packaging free delivery. Recycling made easy.</p>
                 <a href="https://wa.me/+447737832909?text=So grateful to count you amongst us. Send us your name and email address to be added into our list of users"><div className="buttonShop">Sign Up</div></a>
             </div>
 

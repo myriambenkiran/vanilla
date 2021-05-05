@@ -9,7 +9,7 @@
 	border-bottom: 0.5px solid rgba(27, 27, 27, 0.5); 
 }
 
-.Header a{
+.Header .home{
 	text-decoration: none;
 	width: fit-content;
 }

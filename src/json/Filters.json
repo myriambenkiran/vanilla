@@ -89,86 +89,134 @@
 	},
 	{
 		"value":23,
-		"label":"Dermalogica"
+		"label":"CeraVe"
 	},
 	{
 		"value":24,
-		"label":"Dr. Dennis Gross"
+		"label":"Christophe Robin"
 	},
 	{
 		"value":25,
-		"label":"Drunk Elephant"
+		"label":"Dermalogica"
 	},
 	{
 		"value":26,
-		"label":"Erborian"
+		"label":"Dr. Dennis Gross"
 	},
 	{
 		"value":27,
-		"label":"Indie Lee"
+		"label":"Drunk Elephant"
 	},
 	{
 		"value":28,
-		"label":"Kevin Murphy"
+		"label":"Erborian"
 	},
 	{
 		"value":29,
-		"label":"KNC"
+		"label":"Fresh"
+	},
+	{
+		"value":30,
+		"label":"Indie Lee"
 	},
 	{
 		"value":31,
-		"label":"Leonor Greyl"
+		"label":"Kevin Murphy"
 	},
 	{
 		"value":32,
-		"label":"Living Proof"
+		"label":"Kiehls"
 	},
 	{
 		"value":33,
+		"label":"KNC"
+	},
+	{
+		"value":34,
+		"label":"Leonor Greyl"
+	},
+	{
+		"value":35,
+		"label":"Living Proof"
+	},
+	{
+		"value":36,
 		"label":"Moroccanoil"
+	},
+	{
+		"value":37,
+		"label":"Neutrogena"
 	},
 	{
 		"value":34,
 		"label":"Nuxe"
 	},
 	{
-		"value":35,
+		"value":38,
 		"label":"OLAPLEX"
 	},
 	{
-		"value":36,
-		"label":"OUAI"
-	},
-	{
-		"value":37,
-		"label":"Paula's Choice"
-	},
-	{
-		"value":38,
-		"label":"La Roche-Posay"
-	},
-	{
 		"value":39,
-		"label":"REN Clean Skincare"
+		"label":"Oribe"
 	},
 	{
 		"value":40,
-		"label":"Sol de Janeiro"
+		"label":"Oskia"
 	},
 	{
 		"value":41,
-		"label":"Sunday Riley"
+		"label":"OUAI"
 	},
 	{
 		"value":42,
-		"label":"Tata Harper"
+		"label":"Paula's Choice"
 	},
 	{
 		"value":43,
-		"label":"The Ordinary"
+		"label":"Perricone MD"
 	},
 	{
 		"value":44,
+		"label":"La Roche-Posay"
+	},
+	{
+		"value":45,
+		"label":"Le Labo"
+	},
+	{
+		"value":46,
+		"label":"REN Clean Skincare"
+	},
+	{
+		"value":47,
+		"label":"Rodial"
+	},
+	{
+		"value":48,
+		"label":"Sol de Janeiro"
+	},
+	{
+		"value":49,
+		"label":"Sunday Riley"
+	},
+	{
+		"value":50,
+		"label":"Tata Harper"
+	},
+	{
+		"value":51,
+		"label":"The Inkey List"
+	},
+	{
+		"value":52,
+		"label":"The Ordinary"
+	},
+	{
+		"value":53,
 		"label":"TONYMOLY"
+	},
+	{
+		"value":54,
+		"label":"Weleda"
 	}
 ]

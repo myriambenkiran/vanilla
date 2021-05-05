@@ -61,10 +61,17 @@
 
 }
 
-.DetailProductPage a .buttonShop{
+.DetailProductPage .buttonShop{
 	margin:0;
 	height: 1.2rem;
 	margin-top: 2rem;
+	font-weight: normal;
+	cursor: pointer;
+}
+
+.DetailProductPage .buttonShop:active {
+  box-shadow: 1px 1px grey;
+  transform: translateY(2px);
 }
 
 
