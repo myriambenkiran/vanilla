@@ -4537,5 +4537,17 @@
         "how" : "Smooth evenly through hair, combing with fingers if needed. Chill out for 5-10 minutes, then rinse.",
         "category": ["OUAI", "Hair and Scalp care"],
         "src": "./images/products/Treatment Masque by Ouai.jpg"
+    },
+    {
+        "id": "423",
+        "name": "Deep cleansing oil",
+        "volume": "200ml",
+        "price": "23",
+        "brand": "DHC",
+        "type": "makeup remover",
+        "info": "There’s a reason most beauty editors consider this cleansing oil their desert-island product: The antioxidant-rich olive oil removes makeup so gently (and thoroughly!) that it actually makes washing your face kinda fun. The silky-smooth texture is suuuper lightweight, too, so it doesn’t actually feel like oil on your skin.",
+        "important" : "This the best hydrating cleansing oil you'll ever find",
+        "category": ["DHC", "Cleansers"],
+        "src": "./images/products/Deep cleansing oil 200ml.jpg"
     }
 ]
