@@ -76,6 +76,10 @@
 		"label":"Ameliorate"
 	},
 	{
+		"value":67,
+		"label":"Augustinus Bader"
+	},
+	{
 		"value":20,
 		"label":"Avene"
 	},
@@ -94,6 +98,10 @@
 	{
 		"value":23,
 		"label":"CeraVe"
+	},
+	{
+		"value":68,
+		"label":"Cetaphil"
 	},
 	{
 		"value":24,
@@ -140,7 +148,7 @@
 		"label":"Indie Lee"
 	},
 	{
-		"value":64,
+		"value":65,
 		"label":"Kate Somerville"
 	},
 	{
@@ -158,6 +166,10 @@
 	{
 		"value":38,
 		"label":"KNC"
+	},
+	{
+		"value":66,
+		"label":"KYLIE SKIN"
 	},
 	{
 		"value":39,

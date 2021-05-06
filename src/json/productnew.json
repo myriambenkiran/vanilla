@@ -4307,7 +4307,7 @@
         "important" : "Lactic Acid should not be used on sensitive, peeling or compromised skin. Please refer to additional sun protection note and other warnings in provided Directions.  Sunburn Alert: This product contains an alpha hydroxy acid (AHA) that may increase your skin's sensitivity to the sun and particularly the possibility of sunburn. Use a sunscreen, wear protective clothing, and limit sun exposure while using this product and for a week afterwards.",
         "how" : "Apply once per day, ideally in the PM. Can be diluted with other treatments to reduce strength until skin develops tolerance. Do not use on sensitive, peeling or compromised skin. Avoid contact with eyes. Contact of the product with the skin must be of limited frequency or duration. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children.",
         "category": ["The Ordinary", "Exfoliants"],
-        "src": "./images/products/Lactic Acid 10% + HA by The Ordinary.jpg"
+        "src": "./images/products/Lactic Acid 10 HA by The Ordinary.jpg"
     },
     {
         "id": "404",
@@ -4320,7 +4320,7 @@
         "important" : "Hyaluronic Acid is found in the skin naturally but its natural function within the skin is not hydration. Many products have used HA to claim hydration benefits, but HA is too large of a molecule to penetrate the skin and instead sits on the surface and can draw moisture out of the skin making the surface feel soft and hydrated temporarily, while making you feel like you need more HA after the product is rinsed. This formula uses three forms of HA with varying molecular weights, as well as an HA crosspolymer, to offer multi-depth hydration and visible plumping without drawing water out of the skin solely to improve temporary surface hydration.",
         "how" : "Apply a few drops to face AM and PM before creams. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children.",
         "category": ["The Ordinary", "Moisturisers"],
-        "src": "./images/products/Hyaluronic Acid 2% + B5 by The Ordinary.jpg"
+        "src": "./images/products/Hyaluronic Acid B5 by The Ordinary.jpg"
     },
     {
         "id": "405",
@@ -4331,7 +4331,7 @@
         "type": "moisturiser",
         "info": "A combination of a hyaluronic acid derivative, glycerin and oat bran extract make this the perfect lightweight formula to hydrate oily skin without feeling too heavy.",
         "important" : "A combination of a hyaluronic acid derivative, glycerin and oat bran extract make this the perfect lightweight formula to hydrate oily skin without feeling too heavy.",
-        "category": ["Kylie Skin", "Moisturisers"],
+        "category": ["KYLIE SKIN", "Moisturisers"],
         "src": "./images/products/Daily Face Moisturizer (52ml).jpg"
     },
     {
@@ -4393,5 +4393,149 @@
         "how" : "Use this before bed and it wil leave you with soft, hydrated, excuse-me-where’d-you-get-that-time-machine skin when you wake up.",
         "category": ["Cetaphil", "Moisturisers"],
         "src": "./images/products/Cetaphil Rich Night Cream.jpg"
+    },
+    {
+        "id": "411",
+        "name": "Cleansing Mask with Lemon",
+        "volume": "250ml",
+        "price": "37",
+        "brand": "Christophe Robin",
+        "type": "mask",
+        "info": "Specially formulated for coloured or sensitive hair, the Christophe Robin Cleansing Mask with Lemon is a non-detergent, low-lathering shampoo that improves colour, enhances shine and restores nutrients lost during chemical treatments and colouring. Lemon Zest extract, Chamomile and St. John's wort extract help to prevent the leakage of artificial pigments to prolong colour vibrancy. The acidic pH of the Lemon Peel seals the hair cuticle to enable the colour to remain dense and vivid. The ultra-hydrating multi-benefit treatment cleanses, exfoliates and purifies the scalp while providing intense care to the hair fibre. The result is silky-soft hair with a lustrous shine and a scalp that feels soothed and comfortable. Revitalise your hair with this intensive caring formula. Free from parabens, silicone, SLS and colourants.",
+        "how" : "Wet your hair thoroughly. Apply the shampoo to your hair. Lather. Rinse thoroughly.",
+        "category": ["Christophe Robin", "Hair and Scalp care"],
+        "src": "./images/products/Christophe Robin Cleansing Mask with Lemon (250ml).jpg"
+    },
+    {
+        "id": "412",
+        "name": "Regenerating Mask with Rare Prickly Pear Seed Oil",
+        "volume": "250ml",
+        "price": "54",
+        "brand": "Christophe Robin",
+        "type": "mask",
+        "info": "For hair that looks and feels fantastic try this quick acting restorative mask. Christophe Robin Regenerating Mask has a creamy formula that is quickly absorbed into the hair for a long-lasting action from the root to the tip. The regenerating mask repairs, protects and smooths hair in just a few minutes from application. This mask provides deep down repair and protects and revives the pigments in coloured hair. The hair is reinforced from the inside for a deep repair. Prickly pear seed oil has antioxidant and regenerative benefits whilst plant ceramides restructure the hair to make it stronger and increase shine. Inula flower extracts revive and protect pigments in natural or coloured hair. Christophe Robin Regenerating Mask is an intensive treatment for hair that reduces hair breakage and split ends for a soft, smooth radiant finish.",
+        "how" : "After shampooing, apply a small amount, massaging thoroughly from the scalp down to the ends. Lather the product while gradually adding water, then rinse thoroughly.",
+        "category": ["Christophe Robin", "Hair and Scalp care"],
+        "src": "./images/products/Regenerating Mask with Rare Prickly Pear Seed Oil by Christophe Robin.jpg"
+    },
+    {
+        "id": "413",
+        "name": "Dramatically Different Hydrating Clearing Jelly",
+        "volume": "50ml",
+        "price": "20",
+        "brand": "Clinique",
+        "type": "moisturiser",
+        "info": "Clinique’s innovative moisturiser has a cooling jelly texture, delivering lightweight hydration across your skin. A custom-blend formula, it’s completely oil-free to avoid heavy build-ups, unwanted residues and shiny finishes, meaning your skin will seem completely natural after use. Locking in essential water for up to 24 hours with Hyaluronic Acid, the jelly wards off dryness for a supple, smooth surface. It helps to diminish the look of imperfections, creating a clearer illusion while Lactobacillus Probiotic Ferment contributes to improving a blotchy tone. This makes it ideal for anyone who often suffers from redness, promoting soothing comfort that lasts throughout the day. Thanks to Salicylic Acid, you’ll also benefit from light exfoliation as the jelly supports the natural renewal cycles of your face, removing dead layers of skin for a more refreshed feel.",
+        "how" : "Apply to skin after cleansing.",
+        "category": ["Clinique", "Moisturisers"],
+        "src": "./images/products/Clinique Dramatically Different Hydrating Clearing Jelly.jpg"
+    },
+    {
+        "id": "414",
+        "name": "Dramatically Different Moisturising Gel",
+        "volume": "125ml",
+        "price": "31",
+        "brand": "Clinique",
+        "type": "moisturiser",
+        "info": "Replenish the look of your complexion with the Clinique Dramatically Different Moisturizing Gel. The lightweight, airy formula glides effortlessly across your base, absorbing fast to avoid any kind of heavy, sticky residue being left over. The oil-free moisturiser is perfect for people that are prone to excess shine, offering the appearance of a more balanced, mattified skin tone. The ingenious formula is infused with potent and long-lasting Glycerin, along with Sodium Hyaluronate, which work in unison to lock in hydration for touchable, supple softness. A gentle, rejuvenating cocktail of Cucumber Extracts, Barley and Sun Flour Seed works to promote the illusion of a stronger, healthier-looking base, encouraging a radiant and lit-from-within glow. Ideal for combination to oily skin. Oil free and non-comedogenic.",
+        "how" : "Use twice a day, morning and night. Apply to face and throat all over, or where needed",
+        "category": ["Clinique", "Moisturisers"],
+        "src": "./images/products/Clinique Dramatically Different Moisturising Gel 125ml with Pump.jpg"
+    },
+    {
+        "id": "415",
+        "name": "Dramatically Different Moisturising Lotion+",
+        "volume": "125ml",
+        "price": "32",
+        "brand": "Clinique",
+        "type": "moisturiser",
+        "info": "Treat your skin to Clinique's Dramatically Different Moisturizing Lotion+, the third step in your skincare routine. Delivering a hydrating veil, the rich and creamy moisturiser quenches skin's thirst whilst strengthening its barrier, so essential moisture stays locked in for all day hydration. After use, skin will look soft, hydrated and radiant with a healthy glow. Skin looks youthful for longer. Quick absorbing. Ideal for very dry to dry, and dry combination skin.",
+        "how" : "Use twice a day, morning and night. Apply to face and throat all over, or where needed. Cleansed, exfoliated skin accepts moisture better. A little goes a long way. Massage a small pump of lotion into skin wherever it’s dry.",
+        "category": ["Clinique", "Moisturisers"],
+        "src": "./images/products/Clinique Dramatically Different Moisturising Lotion+ 125ml with Pump.jpg"
+    },
+    {
+        "id": "416",
+        "name": "Moisture Surge 100 Hour Auto-Replenishing Hydrator",
+        "volume": "50ml",
+        "price": "38",
+        "brand": "Clinique",
+        "type": "moisturiser",
+        "info": "Clinique’s Moisture Surge™ has been revamped with a new and improved formula. Boasting the same refreshing gel-crème texture as the , the 100 Hour Auto-Replenishing Hydrator provides deep and long-lasting hydration to all skin types. The oil-free multitasker sits perfectly beneath makeup and can also be used as a highlighter or dry skin-quencher anywhere on the body or even on brittle split ends. The moisturiser is powered by Auto-Replenishing Technology, which create an internal oasis that continually rehydrates skin over time. It’s also enriched with exclusive Aloe Bio-Ferment, a blend of moisturising actives that undergo a unique fermentation process to jack up its nutritional vigour. Added Hyaluronic Acid also helps bind moisture to skin to create a ‘moisture reservoir’, while Cica (Tiger Grass) soothes irritation and calms redness. Smooth over your face, dry elbows, cuticles and even hair ends for a plumping effect. Suitable for all skin types.",
+        "how" : "Use daily for immediate moisture. For a midday boost, tap on over makeup. Or use as a 5-minute mask: massage onto clean skin and blot off excess with a tissue.",
+        "category": ["Clinique", "Moisturisers"],
+        "src": "./images/products/Clinique Moisture Surge 100 Hour Auto-Replenishing Hydrator 50ml.jpg"
+    },
+    {
+        "id": "417",
+        "name": "Moisture Surge Hydrating Water Gel Concentrate",
+        "volume": "48ml",
+        "price": "37",
+        "brand": "Clinique",
+        "type": "moisturiser",
+        "info": "Drench the visage in essential moisture with the Clinique Moisture Surge Hydrating Water Gel Concentrate; an innovative formula that seeks to eliminate dryness, whilst preventing visible signs of ageing. The lightweight, water-gel concentrate effortlessly smoothes over the visage, absorbing instantly to offer skin a veil of essential and long-lasting moisture. The unique, moisturising formula utilises Liquid-Sphere Technology, which works in synergy with water-binding ingredients to break the cycle of dryness, whilst shielding the complexion from environmental aggressors. After use, expect a soothed visage that is calm and comfortably hydrated. Allergy tested. Non- acnegenic. Oil and fragrance free.",
+        "how" : "Apply AM and PM on clean skin.",
+        "category": ["Clinique", "Moisturisers"],
+        "src": "./images/products/Clinique Moisture Surge Hydrating Water Gel Concentrate 48ml.jpg"
+    },
+    {
+        "id": "418",
+        "name": "Dramatically Different Hydrating Jelly",
+        "volume": "125ml",
+        "price": "32",
+        "brand": "Clinique",
+        "type": "moisturiser",
+        "info": "Replenish your complexion with Clinique Dramatically Different Hydrating Jelly; a lightweight, quick-absorbing formula that helps to support and strengthen the skin's moisture barrier. Fortified with Hyaluronic Acid and innovative Clean Shield Technology™ (a blend of Sunflower Seed, Barley Extract and Cucumber), the water-jelly texture penetrates deeply to deliver 24-hour hydration. Oil-free and non-sticky, it enhances suppleness and radiance, whilst defending against the damaging effects of pollution. Skin feels smooth and moisturised with a healthy glow. Suitable for all skin types. Dermatologist developed. Allergy tested. Oil, fragrance, paraben and phthalate free.",
+        "category": ["Clinique", "Moisturisers"],
+        "src": "./images/products/Dramatically Different Hydrating Jelly.jpg"
+    },
+    {
+        "id": "419",
+        "name": "Elasticizer",
+        "volume": "75ml",
+        "price": "19.50",
+        "brand": "Philip Kingsley",
+        "type": "deep contioning treatment",
+        "info": "An iconic hair hero, Philip Kingsley’s Elasticizer will transform your hair care ritual. A luxurious pre-shampoo conditioning treatment, Elasticizer has attained legendary status and legions of fans thanks to its deeply conditioning effects; originally formulated for Audrey Hepburn, it boosts elasticity, manageability, bounce and shine, delivering rich moisture to the cuticle without weighing strands down. Leave it on for a minimum of 10-20 minutes or even overnight for a deep treatment when your hair needs some TLC. A total treat for tresses, the formula stars hydrolysed elastin, castor oil, olive oil and glycerine to boost hydration and lock in moisture, to leave hair looking intensely nourished, healthy and shiny – and all before you’ve used shampoo. Impressive! With frequent use, you can expect stronger, healthier hair and less breakage – you’ll never want to wash your hair without it.",
+        "how" : "Apply before shampooing. Dampen the hair with water and apply Elasticizer in sections to mid-lengths and ends, ensuring maximum coverage. Cover hair with a shower cap or towel. The heat created helps the nutrients to be fully absorbed. Leave for a minimum of 10-20 minutes, or as long as you wish. You can even sleep in Elasticizer. Rinse thoroughly and shampoo and condition as normal. You can shampoo twice if you want to ensure all residue is removed. Suitable for use on coloured hair.",
+        "important" : "Do not use Elasticizer 72 hours before or after dying your hair as it may affect how the colour takes during this period only.",
+        "category": ["Philip Kingsley", "Hair and Scalp care"],
+        "src": "./images/products/Elasticizer( 75ml ).jpg"
+    },
+    {
+        "id": "420",
+        "name": "Resistance Therapiste Masque",
+        "volume": "200ml",
+        "price": "36",
+        "brand": "Kérastase",
+        "type": "mask",
+        "info": "Kérastase Resistance Therapiste Masque is a butter-textured mask that deeply penetrates hair to restore strength and boost elasticity. Suitable for extremely damaged and over-processed hair, the lightweight mask revitalises hair strands and locks in moisture so you can experience silky smooth, hydrated locks. Its FIBRA-KAP™ formula is enriched with six amino acids to replenish protein and promote strong, healthy hair.",
+        "how" : "Apply to washed and towel-dried hair. Massage onto lengths and ends. Leave in for 5 minutes, emulsify and rinse thoroughly.",
+        "category": ["Kerastase", "Hair and Scalp care"],
+        "src": "./images/products/Kerastase Resistance Therapiste Masque 200ml.jpg"
+    },
+    {
+        "id": "421",
+        "name": "Restore Repair Mask",
+        "volume": "200ml",
+        "price": "33",
+        "brand": "Living Proof",
+        "type": "mask",
+        "info": "Breathe new life into locks with the Living Proof Restore Repair Mask, a transformative treatment that works to reduce breakages by up to 70%. It helps tresses to retain their moisture, and contributes towards smoother, sleeker, softer hair that lasts longer between washes. This nourishing mask repairs cuticles without weighing them down, supporting the hair as it heals. Its conditioning blend contains a biometric emollient blend, with amino acids and meadowfoam seed oil to replenish hair’s natural, protective barrier and defend every strand against future damage. The Living Proof Restore Repair Mask is safe for coloured and chemically treated hair, and is formulated without parabens, phthalates, sulphates or silicone. It is certified cruelty-free.",
+        "how" : "After shampooing, apply generously from roots to ends – leave for five minutes before rinsing. Use 1-2 times per week as needed, instead of your normal conditioner.",
+        "category": ["Living Proof", "Hair and Scalp care"],
+        "src": "./images/products/Restore Repair Mask by Living Proof.jpg"
+    },
+    {
+        "id": "422",
+        "name": "Treatment Masque",
+        "volume": "100ml",
+        "price": "25",
+        "brand": "OUAI",
+        "type": "mask",
+        "info": "Regain control of a lustrous mane with the Ouai Treatment Masque, a haircare product that is designed to help restore dry or damaged locks. This healing hair masque has been developed with the Ouai Smart Technology Complex and features a special blend of ingredients to support healthier cuticles, restore moisture balance and provide protection from additional damage. It leaves each strand with a softer and sleeker feeling. For the best results from the Ouai Treatment Masque, use after shampooing. Begin by dispensing a small amount onto the fingertips, then work the product evenly into the hair. Next, leave for between 5 and 10 minutes before rinsing. This masque can also be used on dry hair for quick conditioning top-ups.",
+        "how" : "Smooth evenly through hair, combing with fingers if needed. Chill out for 5-10 minutes, then rinse.",
+        "category": ["OUAI", "Hair and Scalp care"],
+        "src": "./images/products/Treatment Masque by Ouai.jpg"
     }
 ]
