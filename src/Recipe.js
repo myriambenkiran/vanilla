@@ -33,7 +33,7 @@ class Recipe extends Component{
                 <p>Subtotal: £{this.props.total} </p>
                 <p>Delivery: £2</p>
                 <h4>Total: £{this.props.total+2} </h4>
-                <a className="quickBuy" href={`https://wa.me/+447737832909?text=Tap send to add ${products}.`}><div className="buttonShop">Request a delivery</div></a>
+                <a className="quickBuy" href={`https://wa.me/+447737832909?text=Tap send to confirm your order: ${products}.`}><div className="buttonShop">Request a delivery</div></a>
                 <p>*You'll choose your delivery option after this step.</p>
             </div>
         )
