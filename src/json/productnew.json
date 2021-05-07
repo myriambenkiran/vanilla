@@ -4546,8 +4546,32 @@
         "brand": "DHC",
         "type": "makeup remover",
         "info": "There’s a reason most beauty editors consider this cleansing oil their desert-island product: The antioxidant-rich olive oil removes makeup so gently (and thoroughly!) that it actually makes washing your face kinda fun. The silky-smooth texture is suuuper lightweight, too, so it doesn’t actually feel like oil on your skin.",
-        "important" : "This the best hydrating cleansing oil you'll ever find",
+        "important" : "This the best hydrating cleansing oil you'll ever find.",
         "category": ["DHC", "Cleansers"],
         "src": "./images/products/Deep cleansing oil 200ml.jpg"
+    },
+    {
+        "id": "424",
+        "name": "Skinesis Overnight Exfoliating Booster",
+        "volume": "30ml",
+        "price": "68",
+        "brand": "Sarah Chapman",
+        "type": "exfoliant",
+        "info": "As a response to her client's saying that they don't have time to exfoliate, skincare-guru-to-the-stars Sarah Chapman created this overnight elixir to clear away dead surface cells and shrink enlarged pores.",
+        "how" : "Apply on cleansed skin at bedtime, and allow to dry. Use regularly three nights a week, or every night as a treatment course.",
+        "category": ["Sarah Chapman", "Exfoliants"],
+        "src": "./images/products/Skinesis Overnight Exfoliating Booster by Sarah Chapman.jpg"
+    },
+    {
+        "id": "425",
+        "name": "Black Rose Cream Mask",
+        "volume": "60ml",
+        "price": "119",
+        "brand": "Sisley-Paris",
+        "type": "mask",
+        "info": "Sisley’s Black Rose Cream Mask is a pink-toned cream formula delicately scented with rose, and designed to plump, brighten and awaken the skin in a matter of minutes. Due to its anti-ageing active ingredients, those concerned by fine lines, wrinkles and dullness will perhaps see the best results from this mask. However its deep hydrating action makes it great for dry and dehydrated skin in need of extra moisture. Those with blemish-prone skin may find it too rich for regular use and prefer to limit it to once per fortnight.",
+        "how" : "The instructions suggest using the mask two or three times per week, applying a thick layer over the face and leaving on for 15 mins before wiping away the excess. However many of its ardent fans suggest leaving it on overnight - wake up with plumped-up, brightened skin come morning.",
+        "category": ["Sisley-Paris", "Masks, Scrubs and Treatments", "Anti-ageing"],
+        "src": "./images/products/Black Rose Cream Mask by Sisley-Paris.jpg"
     }
 ]
