@@ -9,12 +9,14 @@ import Footer from './Footer.js';
 import {Switch, Route} from 'react-router-dom';
 import { BrowserRouter as Router } from 'react-router-dom'; 
 import DetailProductPage from './DetailProductPage.js';
-
+import ScrollToTop from './ScrollToTop';
 
 function App() {
+
   return (
     <div className="App">
         <Router>
+          <ScrollToTop/>
           <Header/>
           <Switch>  
             <Route exact path="/" component = {Home}/>

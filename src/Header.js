@@ -9,10 +9,9 @@ import { compose } from "redux";
 
 class Header extends React.Component {
 
-
     render() {
         return (
-        	<div className="Header">
+        	<div className="Header" id="HEADER">
         		<Link className="home" to="/"><h1>Vanilla</h1></Link>
         		<div className="Menu">
                     	<NavLink exact activeClassName="current "to="/shop"> e-Shop </NavLink>

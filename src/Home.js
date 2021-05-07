@@ -6,6 +6,7 @@ import HomePage2 from './images/homePage2.jpg';
 import { Link } from 'react-router-dom';
 import {withRouter} from 'react-router';
 import { load } from 'react-require';
+import { useEffect } from "react";
 
 
 const steps = [
@@ -40,11 +41,10 @@ const recycleText = "Get your empties collected for £2 fee. Any size product fr
 
 class Home extends React.Component {
 
-
     render() {
         return (
         	<div className="HomePage">
-        		<Main/>
+                <Main/>
                 <div className="recycle">
                     <h2>RECYCLING SCHEME</h2>
                     <p>{recycleText}</p>
