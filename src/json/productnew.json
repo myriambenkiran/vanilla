@@ -309,7 +309,7 @@
     },
     {
         "id": "30",
-        "name": "0.3% Retinol + Vitamin B3 Serum",
+        "name": "0.3% Retinol Vitamin B3 Serum",
         "volume": "30ml",
         "price": "39",
         "brand": "La Roche-Posay",
@@ -430,7 +430,7 @@
     },
     {
         "id": "41",
-        "name": "Rosa Centifolia™ Cleanse & Reveal Hot Cloth Cleanser",
+        "name": "Rosa Centifolia™ Cleanse Reveal Hot Cloth Cleanser",
         "volume": "150ml",
         "price": "16",
         "brand": "REN",
@@ -1354,7 +1354,7 @@
     },
     {
         "id": "130",
-        "name": "Alpha Beta Pore Perfecting & Refining Serum",
+        "name": "Alpha Beta Pore Perfecting Refining Serum",
         "volume": "30ml",
         "price": "68",
         "brand": "Dr. Dennis Gross",
@@ -1431,7 +1431,7 @@
     },
     {
         "id": "138",
-        "name": "C+ Collagen Brighten & Firm Vitamin C Serum",
+        "name": "C+ Collagen Brighten Firm Vitamin C Serum",
         "volume": "30ml",
         "price": "79",
         "brand": "Dr. Dennis Gross",
@@ -1442,7 +1442,7 @@
     },
     {
         "id": "139",
-        "name": "Ferulic + Retinol Anti Aging Moisturiser",
+        "name": "Ferulic Retinol Anti Aging Moisturiser",
         "volume": "50g",
         "price": "77",
         "brand": "Dr. Dennis Gross",
@@ -1464,7 +1464,7 @@
     },
     {
         "id": "141",
-        "name": "Ferulic + Retinol Wrinkle Recovery Overnight Serum",
+        "name": "Ferulic Retinol Wrinkle Recovery Overnight Serum",
         "volume": "30ml",
         "price": "89",
         "brand": "Dr. Dennis Gross",
@@ -1475,7 +1475,7 @@
     },
     {
         "id": "142",
-        "name": "Ferulic + Retinol Eye Cream",
+        "name": "Ferulic Retinol Eye Cream",
         "volume": "15ml",
         "price": "68",
         "brand": "Dr. Dennis Gross",
@@ -1486,7 +1486,7 @@
     },
     {
         "id": "143",
-        "name": "Ferulic + Retinol Triple Correction Eye Serum",
+        "name": "Ferulic Retinol Triple Correction Eye Serum",
         "volume": "15ml",
         "price": "68",
         "brand": "Dr. Dennis Gross",
@@ -1665,7 +1665,7 @@
     },
     {
         "id": "160",
-        "name": "Milk & Peel Resurfacing Balm",
+        "name": "Milk and Peel Resurfacing Balm",
         "volume": "75ml",
         "price": "26",
         "brand": "Erborian",
@@ -1687,7 +1687,7 @@
     },
     {
         "id": "162",
-        "name": "Milk & Peel Resurfacing Mask",
+        "name": "Milk and Peel Resurfacing Mask",
         "volume": "60ml",
         "price": "34",
         "brand": "Erborian",
@@ -2538,7 +2538,7 @@
     },
     {
         "id": "248",
-        "name": "Brazilian Joia Strengthening & Smoothing Conditioner",
+        "name": "Brazilian Joia Strengthening Smoothing Conditioner",
         "volume": "295ml",
         "price": "22",
         "brand": "Sol de Janeiro",
@@ -2549,7 +2549,7 @@
     },
     {
         "id": "249",
-        "name": "Brazilian Joia Strengthening & Smoothing Shampoo",
+        "name": "Brazilian Joia Strengthening Smoothing Shampoo",
         "volume": "295ml",
         "price": "22",
         "brand": "Sol de Janeiro",
@@ -3289,17 +3289,6 @@
         "src": "./images/products/SupaBalm Rose.jpg"
     },
     {
-        "id": "316",
-        "name": "Huile De Leonor Greyl",
-        "volume": "95ml",
-        "price": "31",
-        "brand": "Leonor Greyl",
-        "type": "oil treatment",
-        "info": "Hair is fragile and just like a silk blouse, or cashmere sweater, needs consideration and gentle treatment to prolong its life and vitality. Leonor Greyl’s L'Huile de Leonor Greyls helps prepare hair for washing; nurturing and hydrating, to preserve hair health and longevity by protecting against the drying effects of hard water, whilst reducing the risk of breakage by unraveling knots and tangles. Recent independent research has shown that hair can absorb around 15% of its weight in coconut oil in an hour. An overnight soaking oil (six hours) increases absorption to around 20% or 25% - it is one of the few ingredients to penetrate the hair cortex. The result of forty years experience at the forefront of the hair care industry, all Leonor Greyl products are developed using only the finest botanical ingredients, to treat, maintain and protect both hair and scalp and grant you glamorous, lustrous locks.",
-        "category": ["Hair and Scalp care", "Leonor Greyl"],
-        "src": "./images/products/Huile De Leonor Greyl 95ml.jpg"
-    },
-    {
         "id": "317",
         "name": "The Lip Mask",
         "volume": "1 treatment",
@@ -3381,7 +3370,7 @@
     },
     {
         "id": "324",
-        "name": "Matcha + Apple Replenishing Superfood Shampoo",
+        "name": "Matcha Apple Replenishing Superfood Shampoo",
         "volume": "369ml",
         "price": "24",
         "brand": "Briogeo",
@@ -3393,7 +3382,7 @@
     },
     {
         "id": "325",
-        "name": "Ginseng + Biotin Volumizing Conditioner",
+        "name": "Ginseng Biotin Volumizing Conditioner",
         "volume": "236ml",
         "price": "21.50",
         "brand": "Briogeo",
@@ -3428,7 +3417,7 @@
     },
     {
         "id": "328",
-        "name": "Charcoal + Biotin Dry Shampoo",
+        "name": "Charcoal Biotin Dry Shampoo",
         "volume": "50ml",
         "price": "21.50",
         "brand": "Briogeo",
@@ -3440,7 +3429,7 @@
     },
     {
         "id": "329",
-        "name": "Scalp Revival Charcoal + Tea Tree Scalp Treatment",
+        "name": "Scalp Revival Charcoal Tea Tree Scalp Treatment",
         "volume": "30ml",
         "price": "21.50",
         "brand": "Briogeo",
@@ -3452,7 +3441,7 @@
     },
     {
         "id": "330",
-        "name": "Charcoal + Coconut Oil Micro-exfoliating Shampoo",
+        "name": "Charcoal Coconut Oil Micro-exfoliating Shampoo",
         "volume": "236ml",
         "price": "36",
         "brand": "Briogeo",
@@ -3705,32 +3694,6 @@
         "src": "./images/products/Bain TS Shampooing balancing shampoo for oily scalp 200ml.jpg"
     },
     {
-        "id": "352",
-        "name": "Masque Fleurs de Jasmin conditioning mask",
-        "volume": "200ml",
-        "price": "42",
-        "brand": "Leonor Greyl",
-        "type": "Mask",
-        "info": "98,8 % natural ingredients. Hydrates and conditions hair without weighing it down. Leaves hair soft, supple, shiny and delicately scented. Hair type: thin and dry hair",
-        "how" : "As an everyday conditioner, apply on towel-dried length and ends, leave on for 2-5 minutes, comb through then rinse thoroughly. As a weekly intensive treatment, apply on dry length and ends, comb through and leave on 20 minutes before shampooing out. For easy detangling, add a small amount of product before passing a wide-tooth comb through the hair while rinsing.",
-        "important" : "For best results, apply L’Huile de Leonor Greyl to dry length and ends before shampooing.",
-        "category": ["Hair and Scalp care", "Leonor Greyl"],
-        "src": "./images/products/Masque Fleurs de Jasmin conditioning mask 200ml.jpg"
-    },
-    {
-        "id": "353",
-        "name": "Shampooing Au Miel Gentle volumizing shampoo",
-        "volume": "120ml",
-        "price": "22",
-        "brand": "Leonor Greyl",
-        "type": "shampoo",
-        "info": "96,6% natural ingredients. Creates volume, body and increases shine. Gentle formula perfect for everyday use",
-        "how" : "Apply to entire face morning and evening before heavier creams. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children.",
-        "important" : "Can be used as a “clarifying” shampoo to remove silicone buildup from styling products. If you prefer to wash your hair once a week, two successive applications are necessary to properly remove buildup from dust, pollution, dry shampoos or styling products. For added volume, follow with an alcohol-free volumizing styling mousse.",
-        "category": ["Hair and Scalp care", "Leonor Greyl"],
-        "src": "./images/products/Shampooing Au Miel Gentle volumizing shampoo 120ml.jpg"
-    },
-    {
         "id": "354",
         "name": "Shampooing Crème Moelle de Bambou",
         "volume": "200ml",
@@ -3960,18 +3923,6 @@
         "src": "./images/products/The Inkey List Oat Cleansing Balm 150ml.jpg"
     },
     {
-        "id": "373",
-        "name": "The Inkey List Oat Cleansing Balm",
-        "volume": "150ml",
-        "price": "13",
-        "brand": "CeraVe",
-        "type": "cleanser",
-        "info": "THE INKEY LIST’s aim is simple: break through beauty jargon to deliver a straightforward take on the skin care’s most-wanted ingredients (right up our street). A succinct collection of hero products formulated by a crack team of experts and scientists, this range incorporates all the industry heavy-hitters – from retinol to hyaluronic acid – and allows you to customise your regime to suit your skin’s ever-changing needs. The products contain as few ingredients as possible, all of the highest quality and at ‘give-it-a-go’ prices. Advanced skin care for the price of a couple of coffees? Who could refuse…",
-        "how" : "Use AM and PM. Gently massage a small amount onto a dampened face and neck. Rinse thoroughly with water. Follow with preferred serums and moisturiser.",
-        "category": ["Cleansers", "The Inkey List"],
-        "src": "./images/products/The Inkey List Salicylic Acid Cleanser 150ml.jpg"
-    },
-    {
         "id": "374",
         "name": "Ultra Facial Cream",
         "volume": "50ml",
@@ -4084,7 +4035,7 @@
     },
     {
         "id": "384",
-        "name": "Thermal Spring Water Face&Body Spray",
+        "name": "Thermal Spring Water Face Body Spray",
         "volume": "150ml",
         "price": "7",
         "brand": "La Roche-Posay",
@@ -4573,5 +4524,126 @@
         "how" : "The instructions suggest using the mask two or three times per week, applying a thick layer over the face and leaving on for 15 mins before wiping away the excess. However many of its ardent fans suggest leaving it on overnight - wake up with plumped-up, brightened skin come morning.",
         "category": ["Sisley-Paris", "Masks, Scrubs and Treatments", "Anti-ageing"],
         "src": "./images/products/Black Rose Cream Mask by Sisley-Paris.jpg"
+    },
+    {
+        "id": "426",
+        "name": "Color Continue Shampoo",
+        "volume": "250ml",
+        "price": "20",
+        "brand": "Moroccanoil",
+        "type": "shampoo",
+        "info": "Lasting color starts with healthy hair. Moroccanoil Color Continue Shampoo helps improve haircolor retention by restoring hair’s integrity with each and every use. This gentle, sulfate-free cleanser is formulated with COLORLINK™, our groundbreaking technology that repairs each strand both physically and chemically in three ways: 1. Rebuilds the hair’s keratin structure, locking color within, 2. Forms a protective shield to minimize color washout, 3. Uses ArganID™ technology to infuse argan oil into the hair’s cortex, sealing and repairing the hair.",
+        "how" : "Massage Color Continue Shampoo through wet hair and scalp. Because Color Continue Shampoo is a specialty low-pH cleanser, foaming will be minimal. To activate a richer lather, add more water. Rinse the hair thoroughly and repeat if needed. For optimal results, use with Color Continue Conditioner.",
+        "category": ["Moroccanoil", "Hair and Scalp care"],
+        "src": "./images/products/Color Continue Shampoo.jpg"
+    },
+    {
+        "id": "427",
+        "name": "Delicate Volumising Shampoo with Rose Extracts",
+        "volume": "250ml",
+        "price": "29",
+        "brand": "Christophe Robin",
+        "type": "shampoo",
+        "info": "Nourish your hair and create volume with this delicate volumising shampoo that has been especially formulated to protect and nourish your hair. Christophe Robin Volumising Shampoo has been especially created to protect colour, volumise body and nourish the hair fibres. The shampoo contains rose extracts and is gentle on the scalp. Hair does not dry out and is kept feeling soft and fresh. The shampoo’s gelified formula with rose extracts is enriched with baobab leaves and rose oils extract to cleanse the hair and lock the Ph balance. This will limit the amount of pigment loss from the hair meaning that its colour remains fresh and brilliant. For hair that looks fresh, vibrant and with increased volume use this delicate shampoo. Suitable for fine hair, coloured hair or sensitive hair.",
+        "how" : "Apply on damp hair, lather, then rinse.",
+        "category": ["Christophe Robin", "Hair and Scalp care"],
+        "src": "./images/products/Delicate Volumising Shampoo with Rose Extracts by Christophe Robin.jpg"
+    },
+    {
+        "id": "428",
+        "name": "Moisturising Hair Oil with Lavender",
+        "volume": "150ml",
+        "price": "35",
+        "brand": "Christophe Robin",
+        "type": "oil",
+        "info": "Create hair that is soft, shiny and manageable with this ultra-nourishing and protecting Lavender Oil treatment. Christophe Robin Lavender Oil treatment is an ultra-nourishing and protective treatment that is suitable for all hair types. The treatment contains a combination of oils which include lavender and palm oil which work to restore the hair’s elasticity leaving it feeling reinvigorated. Damaged hair will be restored to reveal hair that is more manageable, shiny and soft. Contains vitamin E to treat the scalp. Plant oils protect the density and shine of the hair colour. Christophe Robin Lavender Oil treatment will protect your hair from the damage caused by the sea, sun and wind and other environmental elements that can damage hair.",
+        "how" : "Leave it as long as you want. It will restore the lipid layer, prevent breakage and deeply nourish hair. How does it work? This oil has a balm texture and liquefies when heated. This means you can target specific areas when you apply it. Its SPF6 also allows you to protect hair from the sun. As a protective treatment: apply a small amount of oil before bathing or sun exposure. As an intensive pre-treatment conditioner: before using the Cleansing Cream with Lemon or your usual shampoo, apply the oil throughout your hair, on ends and along your hairline. Leave on for one hour to overnight. The lavender oil has soothing properties which promote a good night’s sleep.",
+        "category": ["Christophe Robin", "Hair and Scalp care"],
+        "src": "./images/products/Moisturising Hair Oil with Lavender by Christophe Robin.jpg"
+    },
+    {
+        "id": "429",
+        "name": "Shade Variation Care Baby Blond",
+        "volume": "250ml",
+        "price": "39",
+        "brand": "Christophe Robin",
+        "type": "mask",
+        "info": "Blond hair colour or highlights can turn grey or yellow over time, and natural blond hair can also look dull and lack shine. The shade variation care baby blond neutralises yellow and grey tones and restores pure, radiant and defined highlights.",
+        "how" : " Wash your hair with your usual shampoo or the cleansing purifying scrub with sea salt to renew the hair fibers. Then, apply the shade variation vare to towel-dried hair from root to tip. Lather by massaging into hair and leave in for 5-30 minutes, depending on the desired intensity. Rinse thoroughly.",
+        "category": ["Christophe Robin", "Hair and Scalp care"],
+        "src": "./images/products/Shade Variation Care Baby Blond by Christophe Robin.jpg"
+    },
+    {
+        "id": "430",
+        "name": "Shade Variation Mask Golden Blonde",
+        "volume": "250ml",
+        "price": "39",
+        "brand": "Christophe Robin",
+        "type": "mask",
+        "info": "Blond hair can look dull and lifeless. Coloured or highlighted hair can turn grey or too transparent over time. The shade variation care golden blond redensifies dull blond hair for a natural golden shade.",
+        "how" : "Wash your hair with your usual shampoo or the cleansing purifying scrub with sea salt to renew the hair fibers. Then, apply the shade variation vare to towel-dried hair from root to tip. Lather by massaging into hair and leave in for 5-30 minutes, depending on the desired intensity. Rinse thoroughly.",
+        "category": ["Christophe Robin", "Hair and Scalp care"],
+        "src": "./images/products/Shade Variation Mask - Golden Blonde.jpg"
+    },
+    {
+        "id": "431",
+        "name": "JuJu Bar",
+        "volume": "120ml",
+        "price": "24",
+        "brand": "Drunk Elephant",
+        "type": "body scrub",
+        "info": "This multitasking bar looks toward thermal mud and bamboo powder to cleanse and gently exfoliate your sensitive skin simultaneously. It is also 100 percent fragrance- and soap-free and has a pH level of 6.34, so it definitely won’t strip your skin of its natural oils.",
+        "how" : "Wet the JuJu Bar and with your hands, apply lather to the skin in a gentle, circular motion. Massage over face, neck and chest. Rinse thoroughly with warm water and pat dry. The Juju Bar may be used day or night, up to 3 times per week. Do not apply bar directly to skin.",
+        "category": ["Drunk Elephant", "Body care", "Exfoliants"],
+        "src": "./images/products/JuJu Bar by Drunk Elephant.jpg"
+    },
+    {
+        "id": "432",
+        "name": "Serum de Soie Sublimateur",
+        "volume": "75ml",
+        "price": "27",
+        "brand": "Leonor Greyl",
+        "type": "serum/oil",
+        "info": "This serum has a certain je ne sais quoi that puts it ahead of the pack. Although it's technically a serum, thanks to its vegetal and Karanja oil base, we're going to go ahead and call it one of the best hair oils for blondes. Nourishing and formulated to counteract disturbances like heat and sun damage, lightened strands are left soft and satiny post-application.",
+        "how" : "Apply to damp or dry hair. Apply 2-3 pumps on medium-length hair, up to 5 on long hair. Brush through hair to smooth and distribute the product thoroughly. Do not rinse.",
+        "important" : "Slip into your bag and use mid-day to tame fly-away hair",
+        "category": ["Leonor Greyl", "Hair and Scalp care"],
+        "src": "./images/products/Leonor Greyl Serum de Soie Sublimateur (Smoothes, Detangles, Protects and Nourishes).jpg"
+    },
+    {
+        "id": "433",
+        "name": "Treatment Original",
+        "volume": "25ml",
+        "price": "27",
+        "brand": "Moroccanoil",
+        "type": "oil",
+        "info": "One of the most well-known hair oils around, Argan earned the nickname of ‘liquid gold’, thanks to its universal appeal. Argan oil contains a mix of antioxidants (like Vitamin E) and fatty acids. Fun fact, the sebum our bodies naturally produce is made up of a high percentage of fatty acids too, so if you have dry hair, applying this oil is a good way to lubricate your strands if they’re looking a bit dull. Infused with antioxidant-rich argan oil, strengthening proteins and shine-enhancing vitamins, this completely transformative treatment detangles, speeds up drying time and boosts shine – leaving hair smooth, manageable and nourished with each use. Discover the original.",
+        "how" : "Apply 1–2 pumps to clean, towel-dried hair, from mid-length to ends. Blow-dry or let dry naturally. Apply on dry hair to tame flyaways or condition split ends.",
+        "category": ["Moroccanoil", "Hair and Scalp care"],
+        "src": "./images/products/Moroccanoil Treatment Original 25ml.jpg"
+    },
+    {
+        "id": "434",
+        "name": "Restore Shampoo",
+        "volume": "236ml",
+        "price": "24",
+        "brand": "Living Proof",
+        "type": "shampoo",
+        "info": "Treat the hair to a nourishing boost with Living Proof’s Restore Shampoo, a gentle shampoo designed to improve the appearance and quality of dry or damaged hair. Formulated with a sulphate-free surfactant system and PlyfluororEster, Living Proof’s moisture-controlling molecule, Restore Shampoo gently cleanses the hair without the stripping that occurs with sulphate-based shampoos. It also helps replenish moisture and contributes to improved manageability without the use of oils and silicones. Powered by Living Proof’s patented Healthy Hair Molecule, OFPMA, the Restore System assists in the protection of hair from future damage and helps strengthen it to become more resistant to breakage.",
+        "how" : "Apply to wet hair and massage into a rich lather, covering all areas of the scalp and hair. Rinse.",
+        "category": ["Living Proof", "Hair and Scalp care"],
+        "src": "./images/products/Restore Shampoo by Living Proof.jpg"
+    },
+    {
+        "id": "435",
+        "name": "Split End Serum",
+        "volume": "50ml",
+        "price": "38",
+        "brand": "Virtue",
+        "type": "serum",
+        "info": "Put an end to split ends with Virtue Split End Serum, a protective serum that helps to seal and repair broken ends and safeguard against future damage. Enriched with Alpha Keratin 60ku™ the serum works to heal, nourish and condition. Split ends can make any day a bad hair day. This serum is formulated with pea protein, hydrolysed quinoa and baobab seed oil, which help to provide protection against thermal damage, improve moisture retention and inspire a lustrous shine. Hair will feel rich, silky and full of life – and free from those split ends. Virtue Split End Serum is made without the use of parabens, phthalates, sulphates and artificial colours. It is suitable for use on all hair types and colours, including locks that have been dyed, highlighted or chemically treated.",
+        "how" : "Using your fingertips, apply quarter-sized amount to clean, damp or dry hair from mid-shaft to ends. Style as usual.",
+        "category": ["Virtue", "Hair and Scalp care"],
+        "src": "./images/products/Split End Serum by Virtue.jpg"
     }
 ]
