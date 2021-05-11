@@ -4645,5 +4645,29 @@
         "how" : "Using your fingertips, apply quarter-sized amount to clean, damp or dry hair from mid-shaft to ends. Style as usual.",
         "category": ["Virtue", "Hair and Scalp care"],
         "src": "./images/products/Split End Serum by Virtue.jpg"
+    },
+    {
+        "id": "436",
+        "name": "MINU Illuminating and Protective Shampoo for Coloured Hair",
+        "volume": "250ml",
+        "price": "18",
+        "brand": "Davines",
+        "type": "shampoo",
+        "info": "Davines Minu Shampoo (winner of Self Magazine's 2015 Self-Approved Beauty Awards!) uses caper blossoms to gently cleanse, protect and extend the lifespan of your colored hair. With a fresh, orange blossom fragrance, MINU Illuminating and Protective Shampoo generates a rich, indulgent foam to eliminate build-up and dirt without stripping your hair of its oils (or its colour!). Perfect for dyed or chemically-treated tresses, this luxurious formula contains a cocktail of mild surfactants to attract and dissolve dulling dirt and impurities, while caper extract helps to protect without adding weight to compromise movement or leave hair looking limp. Your hair will feels smooth, soft and manageable with a luminous, mirror-like shine – and your colour will maintain its fresh-from-the-salon vibrancy for longer – so you can postpone that appointment (and save yourself some precious pennies).",
+        "how" : "Apply to wet hair. Massage gently and rinse, repeat shampoo application, then follow with MINU Illuminating and Protective Conditioner.",
+        "category": ["Davines", "Hair and Scalp care"],
+        "src": "./images/products/MINU Illuminating and Protective Shampoo for Coloured Hair.jpg"
+    },
+    {
+        "id": "437",
+        "name": "MINU Illuminating and Protective Conditioner for Coloured Hair",
+        "volume": "250ml",
+        "price": "20",
+        "brand": "Davines",
+        "type": "conditioner",
+        "info": "Davines Minu Conditioner is an illuminating protective conditioner, and this year’s winner of 'Best Conditioner' in Byrdie's 2019 Eco Beauty Awards. A perfect, post-cleanse treatment for fragile, coloured hair, Davines’s MINU Illuminating and Protective Conditioner replenishes, separates and assists with detangling – minimising ‘stretching’ and breakage – while enhancing hair’s brilliance so your colour looks enviably lustrous. Because the dyeing process compromises hair’s health, use this fortifying and revitalising treatment to infuse each strand with precious nutrients and in turn, bolster hair’s resilience. It’s best used in conjunction with the rest of Davines’s ‘MINU’ range – to protect and enhance the health of chemically-treated tresses.",
+        "how" : "Apply to towel dried hair after using shampoo. Leave on for 5-10 minutes, comb through then rinse. Dry the hair.",
+        "category": ["Davines", "Hair and Scalp care"],
+        "src": "./images/products/MINU Illuminating and Protective Conditioner for Coloured Hair.jpg"
     }
 ]
