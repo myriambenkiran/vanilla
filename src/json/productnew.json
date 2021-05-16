@@ -506,17 +506,6 @@
         "src": "./images/products/Liquid Gold with 5.jpg"
     },
     {
-        "id": "48",
-        "name": "Glow Tonic",
-        "volume": "250ml",
-        "price": "18",
-        "brand": "Pixi",
-        "type": "exfoliating toner",
-        "info": "The Pixi Glow Tonic is a highly concentrated, invigorating facial toner that deeply cleans pores by sweeping away excess oil and impurities. Its formula is enriched with 5% Glycolic Acid that gently wipes away impurities from your pores, while Aloe Vera soothes and hydrates your skin. Use it in the AM or PM for a healthier, balanced complexion that's ready to glow.",
-        "category": ["Toners and Tonics"],
-        "src": "./images/products/Pixi Glow Tonic.jpg"
-    },
-    {
         "id": "49",
         "name": "Balancing Force™ Oil Control Toner",
         "volume": "190ml",
@@ -4669,5 +4658,137 @@
         "how" : "Apply to towel dried hair after using shampoo. Leave on for 5-10 minutes, comb through then rinse. Dry the hair.",
         "category": ["Davines", "Hair and Scalp care"],
         "src": "./images/products/MINU Illuminating and Protective Conditioner for Coloured Hair.jpg"
+       },
+       {
+        "id": "438",
+        "name": "A-Passioni Retinol Cream",
+        "volume": "30ml",
+        "price": "62",
+        "brand": "Drunk Elephant",
+        "type": "face cream",
+        "info": "Ideal for all those who're already acquainted with the wonders of retinol (this can trigger irritation and peeling if your skin is sensitive, or if you're new to the retinol realm), Drunk Elephant’s game-changing A-Passioni Retinol Cream is the perfect addition to your evening-time routine. A powerhouse complex, this potent, silicone-free formulation of 1% retinol boasts comforting and nourishing ingredients (passionfruit, apricot, kale, winter cherry extracts, skin-firming peptides and essential fatty acids), to give lazy skin cells a boot up their bottoms!",
+        "how" : "Apply a pea-sized amount or less to a clean and dry face. Limit initial use to once or twice a week, gradually increasing frequency to every other night and then finally up to every night (as tolerated). Proceed with caution if you're sensitive or new to retinol - this may induce redness/irritation to begin with and you may incur some flakiness until your skin acclimatises. Avoid using the night before a big event/special occasion (unless you're already a retinol addict)!",
+        "important" : "Avoid applying to eye area and use a broad spectrum SPF during the day.",
+        "category": ["Drunk Elephant"],
+        "src": "./images/products/A-Passioni Retinol Cream( 30ml ).jpg"
+       },
+       {
+        "id": "439",
+        "name": "Clinical Ceramide Eye Cream",
+        "volume": "15ml",
+        "price": "43",
+        "brand": "Paula's Choice",
+        "type": "eye cream",
+        "info": "Revitalise the delicate eye area and fight signs of ageing with the Paula's Choice Clinical Ceramide Eye Cream, a skincare product enriched with antioxidants. Formulated with anti-ageing ceramides and retinol, this serum also contains the antioxidant benefits of vitamin C along with skin-firming peptides. Fatty acids help to promote a hydrated, plumper appearance around each eye, while brightening agents derived from plants support a healthier-looking eye area. Paula's Choice Clinical Ceramide Eye Cream is highly concentrated and can be used sparingly. Apply gently using the fingertip to pat the product into place over the entire eye area. During the day, this can be followed with a sunscreen of SPF 30 or higher.",
+        "how" : "To help the rich texture of the eye cream apply more easily, first soften it between two fingertips. Then gently massage using a circular motion into the skin around your eyes. As always, avoid tugging or pulling at the skin and avoid direct contact with the eyes. For daytime, follow with a broad-spectrum mineral-based sunscreen rated SPF 30 or greater.",
+        "category": ["Drunk Elephant", "Eye care"],
+        "src": "./images/products/Clinical Ceramide Eye Cream by Paula's Choice.jpg"
+       },
+       {
+        "id": "440",
+        "name": "Resurgence Renewing Eye Cream",
+        "volume": "15ml",
+        "price": "70",
+        "brand": "Murad",
+        "type": "eye cream",
+        "info": "Diminish puffiness and dark circles with Murad Resurgence Renewing Eye Cream helping to firm and restore the delicate eye area. Swap medium-to-deep crow's feet and wrinkles for an illuminated, bright appearance! Let Murad Resurgence Renewing Eye Cream dramatically increase moisture, elasticity and firmness with wild yam and soybean, to leave your eye area looking healthy. The eye brightening complex reduces dark circles and illuminates the eye area to awaken tired eyes.",
+        "how" : "Apply every day after cleansing and toning. Pat a small amount onto the brow bone and beneath the eye and gently massage.",
+        "category": ["Murad", "Eye care"],
+        "src": "./images/products/Murad Resurgence Renewing Eye Cream 15ml.jpg"
+       },
+       {
+        "id": "441",
+        "name": "RE Pigment",
+        "volume": "30ml",
+        "price": "50",
+        "brand": "NIOD",
+        "type": "serum",
+        "info": "Utilising ultra-advanced active brightening technologies, NIOD’s RE: Pigment is your new secret weapon in the battle against uneven tone and hyperpigmentation. Highly saturated yet impressively lightweight, this emollient solution incorporates modern advances in biotechnology and peptide technology to counteract one of the most difficult to treat dermal concerns. The core active technologies include diglucosyl gallic acid (which is proven to be 60 more active than kojic acid in visibly brightening skin tone) and a redness reducing azelaic acid and glycine combination. Alongside these, white shiitake ferment – a purified bio-derivative that targets the appearance of dark spots within a week of use – and red evodia fruit derivatives, an ingredient used in Chinese medicine to encourage radiance and even tone.",
+        "how" : "Shake lightly. Apply serum to face AM and PM. If used as part of a NIOD regimen, apply after CAIS but before MMHC. Avoid unprotected UV exposure when using this formula.",
+        "category": ["NIOD", "Serums"],
+        "src": "./images/products/RE Pigment( 30ml ).jpg"
+       },
+       {
+        "id": "442",
+        "name": "Retinol Serum",
+        "volume": "30ml",
+        "price": "9",
+        "brand": "The INKEY List",
+        "type": "serum",
+        "info": "This multi-benefit serum speeds up cell turnover to give your skin a renewed appearance and improve clarity. The simple yet effective formula combines 1% stable retinol with a slightly stronger 0.5% granactive retinoid to kick-start your skin’s natural renewal process while Squalane soothes and moisturises to prevent drying. This potent skincare hero offers the perfect introduction to retinols, helping to reveal a brighter, clearer and more youthful-looking complexion.",
+        "how" : "Use in the evening after cleansing and toning. Apply a pea-sized amount of serum to the fingers and pat into the skin using tapping motions. Avoid the immediate eye area and ensure that you are using a daily sunscreen as retinols may increase sun sensitivity.",
+        "important" : "Some redness or flakiness may occur following the first uses of this product due to increased cell turnover. You can build your skin's tolerance by using the product a few times a week and gradually increasing to daily use.",
+        "category": ["The Inkey List", "Serums"],
+        "src": "./images/products/The INKEY List Retinol Serum 30ml.jpg"
+       },
+       {
+        "id": "443",
+        "name": "Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F",
+        "volume": "30ml",
+        "price": "14",
+        "brand": "The Ordinary",
+        "type": "serum",
+        "info": "Supercharged with an oil-soluble derivative of vitamin C (the Ascorbyl Tetraisopalmitate that gives this treatment its title) The Ordinary’s Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F offers unbelievable brightening benefits. The high potency (yet gentle) solution works to block pigment production and increase cell turnover and, as well as oil-format vitamin C, the formula is enhanced with vitamin F, known to provide the skin with essential fatty acids. A few drops of this light oil-textured treatment are enough – simply apply to the entire face morning and night.",
+        "how" : "Apply a few drops to the entire face in the morning and/or evening.",
+        "category": ["The Ordinary", "Serums"],
+        "src": "./images/products/The Ordinary Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F 30ml.jpg"
+       },
+       {
+        "id": "444",
+        "name": "Caffeine Solution 5% + EGCG",
+        "volume": "30ml",
+        "price": "14",
+        "brand": "The Ordinary",
+        "type": "serum",
+        "info": "Tired, puffy eyes after hours staring at a computer screen? Try this featherlight serum, which features an extremely high concentration of caffeine and EGCG (a potent polyphenol found in green tea). Basically, the equivalent of a really good night's sleep in a jar.",
+        "how" : "Massage a small amount onto the eye contour AM and PM.",
+        "category": ["The Ordinary", "Serums"],
+        "src": "./images/products/The Ordinary Caffeine Solution 5% + EGCG 30ml.jpg"
+       },
+       {
+        "id": "445",
+        "name": "Caffeine Eye Serum",
+        "volume": "15ml",
+        "price": "8",
+        "brand": "The INKEY List",
+        "type": "serum",
+        "info": "This revitalising serum boasts a Matrixyl 3000 peptide with Albizia Julibrissin Bark Extract to stimulate collagen production, helping to combat fine lines and wrinkles. This invigorating eye serum works like your morning coffee to re-awaken the complexion and leave you feeling ready to take on the day!",
+        "how" : "After cleansing apply a small amount of serum to the eye contour using a gentle patting motion. Follow with your regular serums and moisturisers.",
+        "category": ["The Inkey List", "Serums"],
+        "src": "./images/products/The INKEY List Caffeine Eye Serum 15ml.jpg"
+       },
+       {
+        "id": "446",
+        "name": "Eye Masks",
+        "volume": "(Pack of 5)",
+        "price": "18",
+        "brand": "KNC",
+        "type": "serum",
+        "info": "If you need to hide the evidence of a happy hour gone overboard, a good cry sesh, or the fact that you haven't slept a full eight hours in months, these eye patches are the answer (and they only take 15 minutes to work their magic). Keep mine it the fridge for extra cooling benefits and stick them on whenever you need some soothing, smoothing, and hydration (thank you, retinol and aloe vera extract).",
+        "category": ["KNC", "eye care"],
+        "src": "./images/products/The Eye Mask single.jpg"
+       },
+       {
+        "id": "447",
+        "name": "Glow Tonic",
+        "volume": "250ml",
+        "price": "18",
+        "brand": "PIXI",
+        "type": "serum",
+        "info": "Never has a beauty product been so aptly named. Packed with AHAs that dissolve and buff away dead cells on the skin's surface, one swipe reveals juicy, glowing skin underneath. A hero product for both the brand and a team Byrdie staple, this formula is lauded as much for the affordable price tag as it is for the effective-yet-gentle formula. Glycolic acid is balanced out with soothing aloe and ginseng, which increases circulation for further glow-enhancing effects. It leaves your complexion clear and radiant, without any unwanted redness or uncomfortable tingling sensation.",
+        "how" : "Use either in the AM and PM or when needed. Cleanse your face, then saturate a cotton pad with the Glow Tonic and sweep across face, neck and décolletage (avoiding the eye area). Follow with a serum or moisturiser.",
+        "category": ["PIXI", "toner"],
+        "src": "./images/products/PIXI Glow Tonic.jpg"
+       },
+       {
+        "id": "448",
+        "name": "Sub Zero De-Puffing Eye Mask",
+        "volume": "1 mask",
+        "price": "12",
+        "brand": "111SKIN",
+        "type": "eye mask",
+        "info": "The 111 Skin Sub-zero De-puffing Eye Mask is the secret weapon of A-listers and models during fashion month and awards season. Bella Hadid was spotted backstage at New York Fashion Week's Brandon Maxwell show with the clever masks on her eyes to pep up her skin ahead of her catwalk appearance, while Ashley Graham and Olivia Palermo are also staunch fans of the brand. Inspired by the invigorating effects of extreme cold on the skin, the £12 hydrogel mask works to tackle signs of fatigue by alleviating puffiness and improving skin resilience. A powerful tetrapeptide and marine complex works to restore contours and tighten stress lines to fortify the delicate eye area. With its effects intensified if kept in the fridge, the appearance of dark circles are apparently reduced, resulting in an uplifted, enlivened eye area - and who doesn't want that?",
+        "category": ["111SKIN", "Eye care"],
+        "src": "./images/products/Sub Zero De-Puffing Eye Mask by 111SKIN.jpg"
     }
 ]

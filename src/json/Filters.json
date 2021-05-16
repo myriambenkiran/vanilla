@@ -196,12 +196,20 @@
 		"label":"Moroccanoil"
 	},
 	{
+		"value":74,
+		"label":"Murad"
+	},
+	{
 		"value":43,
 		"label":"MZ Skin"
 	},
 	{
 		"value":44,
 		"label":"Neutrogena"
+	},
+	{
+		"value":73,
+		"label":"NIOD"
 	},
 	{
 		"value":45,
@@ -242,6 +250,10 @@
 	{
 		"value":53,
 		"label":"Philip Kingsley"
+	},
+	{
+		"value":72,
+		"label":"Pixi"
 	},
 	{
 		"value":54,
