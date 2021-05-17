@@ -2160,11 +2160,11 @@
     },
     {
         "id": "205",
-        "name": "Ascorbyl Tetraisopalmitate Solution 20%",
+        "name": "Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F",
         "volume": "30ml",
         "price": "14",
         "brand": "The Ordinary",
-        "type": "treatment in Vitamin F",
+        "type": "serum",
         "info": "Vitamin C is an effective antioxidant, brightens the skin tone and reduces signs of aging. In its pure form, Vitamin C is unstable in water. Ascorbyl Glucoside is a water-soluble derivative of Vitamin C. It is much more stable in water but it is less potent than direct L-Ascorbic Acid. Being more compatible with water allows for a very pleasant serum texture. It is considered a gold standard of Vitamin C derivatives due to its high stability and comfortable use, but it's impossible to achieve extremely high L-Ascorbic Acid potency with this solution. Aside from the general benefits of pure Vitamin C, Ascorbyl Glucoside has been shown to offer specific skin brightening benefits.",
         "how": "Apply a few drops to face AM and PM.",
         "important": "If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children.",
@@ -4722,18 +4722,6 @@
         "src": "./images/products/The INKEY List Retinol Serum 30ml.jpg"
        },
        {
-        "id": "443",
-        "name": "Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F",
-        "volume": "30ml",
-        "price": "14",
-        "brand": "The Ordinary",
-        "type": "serum",
-        "info": "Supercharged with an oil-soluble derivative of vitamin C (the Ascorbyl Tetraisopalmitate that gives this treatment its title) The Ordinary’s Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F offers unbelievable brightening benefits. The high potency (yet gentle) solution works to block pigment production and increase cell turnover and, as well as oil-format vitamin C, the formula is enhanced with vitamin F, known to provide the skin with essential fatty acids. A few drops of this light oil-textured treatment are enough – simply apply to the entire face morning and night.",
-        "how" : "Apply a few drops to the entire face in the morning and/or evening.",
-        "category": ["The Ordinary", "Serums"],
-        "src": "./images/products/The Ordinary Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F 30ml.jpg"
-       },
-       {
         "id": "444",
         "name": "Caffeine Solution 5% + EGCG",
         "volume": "30ml",
@@ -4743,7 +4731,7 @@
         "info": "Tired, puffy eyes after hours staring at a computer screen? Try this featherlight serum, which features an extremely high concentration of caffeine and EGCG (a potent polyphenol found in green tea). Basically, the equivalent of a really good night's sleep in a jar.",
         "how" : "Massage a small amount onto the eye contour AM and PM.",
         "category": ["The Ordinary", "Serums"],
-        "src": "./images/products/The Ordinary Caffeine Solution 5% + EGCG 30ml.jpg"
+        "src": "./images/products/The Ordinary Caffeine Solution EGCG 30ml.jpg"
        },
        {
         "id": "445",
