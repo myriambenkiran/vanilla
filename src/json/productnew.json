@@ -4673,18 +4673,6 @@
         "src": "./images/products/A-Passioni Retinol Cream( 30ml ).jpg"
        },
        {
-        "id": "439",
-        "name": "Clinical Ceramide Eye Cream",
-        "volume": "15ml",
-        "price": "43",
-        "brand": "Paula's Choice",
-        "type": "eye cream",
-        "info": "Revitalise the delicate eye area and fight signs of ageing with the Paula's Choice Clinical Ceramide Eye Cream, a skincare product enriched with antioxidants. Formulated with anti-ageing ceramides and retinol, this serum also contains the antioxidant benefits of vitamin C along with skin-firming peptides. Fatty acids help to promote a hydrated, plumper appearance around each eye, while brightening agents derived from plants support a healthier-looking eye area. Paula's Choice Clinical Ceramide Eye Cream is highly concentrated and can be used sparingly. Apply gently using the fingertip to pat the product into place over the entire eye area. During the day, this can be followed with a sunscreen of SPF 30 or higher.",
-        "how" : "To help the rich texture of the eye cream apply more easily, first soften it between two fingertips. Then gently massage using a circular motion into the skin around your eyes. As always, avoid tugging or pulling at the skin and avoid direct contact with the eyes. For daytime, follow with a broad-spectrum mineral-based sunscreen rated SPF 30 or greater.",
-        "category": ["Drunk Elephant", "Eye care"],
-        "src": "./images/products/Clinical Ceramide Eye Cream by Paula's Choice.jpg"
-       },
-       {
         "id": "440",
         "name": "Resurgence Renewing Eye Cream",
         "volume": "15ml",
@@ -4778,5 +4766,60 @@
         "info": "The 111 Skin Sub-zero De-puffing Eye Mask is the secret weapon of A-listers and models during fashion month and awards season. Bella Hadid was spotted backstage at New York Fashion Week's Brandon Maxwell show with the clever masks on her eyes to pep up her skin ahead of her catwalk appearance, while Ashley Graham and Olivia Palermo are also staunch fans of the brand. Inspired by the invigorating effects of extreme cold on the skin, the £12 hydrogel mask works to tackle signs of fatigue by alleviating puffiness and improving skin resilience. A powerful tetrapeptide and marine complex works to restore contours and tighten stress lines to fortify the delicate eye area. With its effects intensified if kept in the fridge, the appearance of dark circles are apparently reduced, resulting in an uplifted, enlivened eye area - and who doesn't want that?",
         "category": ["111SKIN", "Eye care"],
         "src": "./images/products/Sub Zero De-Puffing Eye Mask by 111SKIN.jpg"
+       },
+       {
+        "id": "449",
+        "name": "Black Tea Age-delay Body Cream",
+        "volume": "200ml",
+        "price": "54",
+        "brand": "Fresh",
+        "type": "body cream",
+        "info": "Treat your body like your face with Fresh’s lotion, which infuses age-fighting antioxidants with smoothing mango-seed butter into the skin for a non-greasy, glowing finish.",
+        "category": ["Fresh", "Body care"],
+        "src": "./images/products/Black Tea Age-delay Body Cream.jpg"
+       },
+       {
+        "id": "450",
+        "name": "Vinosculpt Lift & Firm Body Cream",
+        "volume": "250ml",
+        "price": "27",
+        "brand": "Caudalie",
+        "type": "body cream",
+        "info": "Caudalíe's French skincare offerings have an ultra-loyal following, and this firming body cream is at the top of reviewers' lists. Shea butter and iris extract work in tandem with the brand's signature hero ingredients—grape seed oil and grape polyphenols—to moisturize, firm, lift, and tighten the skin wherever you decide to apply. A review states: 'I had a baby about 10 months ago and had ripples on my stomach from weight loss and stretched skin. I just applied this cream for the first time a few hours ago, and I can't believe my eyes. The ripples are completely gone. It looks like they were never there. I am in complete shock. I will definitely continue using this cream. I do agree with other users, the smell is very potent, and I am sensitive to perfumes. The pros outweigh the cons though.'",
+        "category": ["Caudalie", "Body care"],
+        "src": "./images/products/Vinosculpt Lift & Firm Body Cream.jpg"
+       },
+       {
+        "id": "451",
+        "name": "Shea Butter Hand Cream",
+        "volume": "150ml",
+        "price": "21",
+        "brand": "L'Occitane",
+        "type": "hand cream",
+        "info": "A best-seller for a reason, this super-rich hand cream works miracles overnight. Keep it on your bedside to soothe dry, chapped hands while you sleep.",
+        "category": ["L'Occitane", "Hand care"],
+        "src": "./images/products/L'Occitane Shea Butter Hand Cream.jpg"
+       },
+       {
+        "id": "452",
+        "name": "Ultimate Strength hand salve",
+        "volume": "150ml",
+        "price": "22",
+        "brand": "Kiehls",
+        "type": "hand cream",
+        "info": "The blend of avocado, eucalyptus and sesame seed oil gives this formula a rich, soothing and hydrating base. This isn’t a light, quick application kind of hand cream as it’s super thick, but it makes the perfect treat after a long day of hand washing.",
+        "category": ["Kiehls", "Hand care"],
+        "src": "./images/products/KIEHL'S - Ultimate Strength hand salve.jpg"
+       },
+       {
+        "id": "453",
+        "name": "Hand Crème",
+        "volume": "89ml",
+        "price": "20",
+        "brand": "OUAI",
+        "type": "hand cream",
+        "info": "Ok, this hand cream is spenny but it smells like you have your life completely together, you do not suffer fools gladly and you have ticked off 7 things on your to-do before 10 am because you’re a boss. The scent is gardenia, ylang ylang, violet and white musk and the texture is rich and creamy but sinks in quickly (you’re a boss you have things to do!).",
+        "category": ["OUAI", "Hand care"],
+        "src": "./images/products/Hand Creme OUAI HAIRCARE.jpg"
     }
 ]
