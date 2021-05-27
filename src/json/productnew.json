@@ -4821,5 +4821,16 @@
         "info": "Ok, this hand cream is spenny but it smells like you have your life completely together, you do not suffer fools gladly and you have ticked off 7 things on your to-do before 10 am because you’re a boss. The scent is gardenia, ylang ylang, violet and white musk and the texture is rich and creamy but sinks in quickly (you’re a boss you have things to do!).",
         "category": ["OUAI", "Hand care"],
         "src": "./images/products/Hand Creme OUAI HAIRCARE.jpg"
+       },
+       {
+        "id": "454",
+        "name": "Buttermask for lips",
+        "volume": "10g",
+        "price": "19",
+        "brand": "Kiehl’s",
+        "type": "lip balm",
+        "info": "This rich mask contains fairly traded coconut oil and wild mango butter, which help refresh the lips before the morning arrives. It works to hydrate, nourish and condition dry and tired lips and promotes a softer, suppler smile.",
+        "category": ["Kiehls", "Lip care"],
+        "src": "./images/products/BUTTERMASK FOR LIPS.jpg"
     }
 ]
