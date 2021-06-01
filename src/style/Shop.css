@@ -116,6 +116,7 @@ a{
 .filters{
 	margin:3rem auto;
 	width: 50%;
+	text-transform: capitalize;
 }
 .filters a{
 	margin:1rem;

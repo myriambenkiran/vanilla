@@ -50,6 +50,10 @@ const mapDispatchToProps= (dispatch)=>{
 class Shop extends React.Component {
 
     render() {
+
+        let filter = this.props.match.params.filter;
+        console.log(filter);
+
         return (
         	<div className="Shop">
                 <h2>E-SHOP</h2>
@@ -61,7 +65,7 @@ class Shop extends React.Component {
                     <h4>Live in the SW3, SW5, SW7 and SW10.</h4>
                     
                 </div>
-        	   <Products addToCart={this.props.addToCart}/>
+        	   <Products addToCart={this.props.addToCart} history={this.props.history} filter={filter}/>
                {endPage.map(p => <Paragraph key={p.id} {...p} />)}
             </div>
        	);
@@ -87,25 +91,43 @@ class Products extends React.Component {
 
     constructor(props) {
         super(props);
-        this.state = {filter: ""};
+        this.state = {
+            filter: this.props.filter,
+            label: this.props.filter};
+    }
+
+    componentDidUpdate(prevProps) {
+        if (prevProps.filter !== this.props.filter) {
+            this.setState({filter: this.props.filter});
+        }
     }
 
     handleFilter = option => {
-        let filter = "";
+        let filter = "all";
+        let label = null;
         if (option.label.toLowerCase() != "all products") {
             filter = option.label.toLowerCase();
+            label = option.label;
         };
-        this.setState({ filter });
+        this.setState({ filter: filter });
+        this.setState({ label: label });
+        this.props.history.push(`/shop/${filter}`);
+        
     };
 
     //sorting by alphebetic order .sort((a, b) => a.brand > b.brand ? 1 : -1)
 
     render() {
+
+        let selectValue = (this.state.filter == "all") ? null : {value: this.state.filter, label: this.state.label};
+
         return (
             <div>
-                <Select className="filters" options={filters} onChange={this.handleFilter.bind(this)} placeholder={<div>Select a category or type a brand</div>}/>
+
+
+                <Select className="filters" options={filters} onChange={this.handleFilter.bind(this)} value={selectValue} placeholder={<div>Select a category or type a brand</div>}/>
                 <div className="Products">
-                {products.filter(f => !this.state.filter || f.category.join( "|" ).toLowerCase().includes(this.state.filter)).sort(() => .5 - Math.random()).map(b => <Product key={b.id} {...b} addToCart={this.props.addToCart}/>)}
+                {products.filter(f => (this.state.filter == "all") || f.category.join( "|" ).toLowerCase().includes(this.state.filter)).sort(() => .5 - Math.random()).map(b => <Product key={b.id} {...b} addToCart={this.props.addToCart} filter={this.state.filter}/>)}
                 </div>  
         </div>
         );
