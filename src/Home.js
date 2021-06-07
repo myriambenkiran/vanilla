@@ -107,9 +107,9 @@ class Comments extends React.Component {
         return (
             <div className="Review">
                 <h2>WHAT OUR USERS SAY ABOUT THEIR EXPERIENCE</h2>
-                <p>“I wanted to try a product straight away and your service made it possible. Loved it!”<br/>Maya - SW3, London</p>
-                <p>“First time using it after a friend’s recommendation. I wasn't expecting such a lovely experience!”<br/>Sarah - SW10, London</p>
-                <p>“I loved it! Especially the fact that the delivery was totally pollution-free and no additional packaging were used.”<br/>Emma - SW5, London</p>
+                <p>“I wanted to try a product straight away and your service made it possible. Loved it!”</p>
+                <p>“First time using it after a friend’s recommendation. I wasn't expecting such a lovely experience!”</p>
+                <p>“I loved it! Especially the fact that the delivery was totally pollution-free and no additional packaging were used.”</p>
                 <a href="/shop"><div className="buttonShop">Try it yourself</div></a>
             </div>
 

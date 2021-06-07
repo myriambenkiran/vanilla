@@ -59,7 +59,7 @@ class Shop extends React.Component {
                 <h2>E-SHOP</h2>
                 <div className="textShop">
                     <h4>Delivery options: Monday to Saturday</h4>
-                    <p>On demand: from 12pm to 7pm (order before 6pm)</p>
+                    <p>ASAP: from 12pm to 7pm (order before 6pm)</p>
                     <p>Scheduled: from 12pm to 12am (order before 6pm)</p>
                     <p>Scheduled: Next Day (order anytime)</p>
                     <h4>Live in the SW3, SW5, SW7 and SW10.</h4>

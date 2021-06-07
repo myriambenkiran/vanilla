@@ -90,21 +90,22 @@ p{
 	height: fit-content;
 }
 
-.Recipe .buttonShop{
+.Receipt .buttonShop{
 	margin:3rem auto;
 	margin-bottom: 0;
+	cursor: pointer;
 }
 
-.Recipe p{
+.Receipt p{
 	margin:0.2rem;
 }
 
-.Recipe h4{
+.Receipt h4{
 	font-weight: bold;
 	text-decoration: underline;
 }
 
-.Recipe h3{
+.Receipt h3{
 	font-size: 20px;
 	margin-bottom: 1.5rem;
 	padding: 0;
@@ -119,6 +120,89 @@ p{
 	text-align: center;
 	font-size: 15px;
 	margin:0.1rem;
+}
+
+.checkoutForm{
+	margin:3rem auto;
+	width: 50%;
+}
+
+.checkoutFormInput{
+	display: flex;
+	flex-direction: column;
+	margin:1rem auto;
+	text-align: left;
+	align-items: stretch;
+}
+
+.checkoutFormInput input{
+	height: 2rem;
+	font-size:16px;
+	font-family: 'Ibarra Real Nova', serif;
+
+}
+
+.checkoutFormInput p{
+	text-align: left;
+
+}
+
+.checkoutForm .buttonShop{
+	margin-top: 2rem;
+	margin-bottom: 0rem;
+	cursor: pointer;
+	font-family: 'Ibarra Real Nova', serif;
+	font-weight: normal;
+}
+
+.close_modal{
+	position: absolute;
+	right:1rem;
+	top: 1.5rem;
+	z-index: 1000;
+	border:none;
+	margin:0;
+	font-size: 16px;
+	background-color: none;
+}
+
+
+.modal {
+	position: absolute;
+    top: 40px;
+    left: 40px;
+    right: 40px;
+    bottom: 40px;
+    background-color: white;
+    outline: none;
+}
+
+.overlay {
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.2);
+}
+
+
+.order_details{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+.order_details h2{
+	margin:0.5rem;
+	text-align: center;
+}
+
+.order_details p{
+	margin:0.5rem;
 }
 
 
@@ -208,7 +292,7 @@ p{
 	height: fit-content;
 }
 
-.Recipe .buttonShop{
+.Receipt .buttonShop{
 	margin-bottom: 0;
 }
 
@@ -220,6 +304,22 @@ p{
 	text-align: center;
 	font-size: 15px;
 	margin:0.1rem;
+}
+
+.checkoutForm{
+	margin:1rem 0;
+	width: 100%;
+}
+
+.checkoutFormInput{
+	display: flex;
+	flex-direction: column;
+	margin:1rem 0;
+	text-align: left;
+}
+
+.checkoutFormInput input{
+	height: 2rem;
 }
 
 }

@@ -28,9 +28,10 @@ class Recipe extends Component{
                 <p>Delivery: £2</p>
                 <h4>Total: £{this.props.total+2} </h4>
 
+                <Checkout products={products}/>
 
                 <a className="quickBuy" href={`https://wa.me/+447737832909?text=Tap send to order! ${products}.`}><div className="buttonShop">Request a delivery</div></a>
-                <p>*You'll choose your delivery option after this step.</p>
+                <p>*A rider will contact you shortly to arrange your delivery.</p>
             
             </div>
         )
@@ -58,8 +59,7 @@ class Checkout extends Component{
         const templateId = 'template_test';
         const serviceID = 'zoho';
         alert("username: " + this.state.username + " phone: " + this.state.phone + " email: " + this.state.email);
-        //alert(this.props.products.addedItems);
-        //alert(this.props.products.total);
+        alert(this.props.products);
         //this.sendFeedback(serviceID, templateId, { user_name: this.state.username, user_phone: this.state.phone, user_email: this.state.email, message: this.state.products, total: this.props.total });
     }
 

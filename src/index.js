@@ -4,6 +4,8 @@ import './style/index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import cartReducer from './cartReducer.js';
+import { createContext, useEffect, useReducer } from "react";
+//import { cartReducer, initializer } from './cartReducer.js';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 
@@ -16,6 +18,20 @@ ReactDOM.render(
 		document.getElementById('root')
 );
 
+//import React from "react";
+//import ReactDOM from "react-dom";
+//import App from "./App";
+//import { CartProvider } from "./CartProvider/index.jsx";
+
+//const rootElement = document.getElementById("root");
+//ReactDOM.render(
+  //<React.StrictMode>
+    //<CartProvider>
+     // <App />
+    //</CartProvider>
+//  </React.StrictMode>,
+//  rootElement
+//);
 
 //ReactDOM.render(
   //<React.StrictMode>

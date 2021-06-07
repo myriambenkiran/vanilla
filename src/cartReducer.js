@@ -1,5 +1,5 @@
 import products from './json/productnew.json';
-import { ADD_TO_CART,REMOVE_ITEM,SUB_QUANTITY,ADD_QUANTITY } from './action-types.js'
+import { ADD_TO_CART,REMOVE_ITEM,SUB_QUANTITY,ADD_QUANTITY, CLEAR_CART } from './action-types.js'
 
 
 const initState = {
@@ -9,7 +9,21 @@ const initState = {
     total: 0
 
 }
-const cartReducer= (state = initState,action)=>{
+
+const initializer = (initialValue = initState) =>{
+  let value = initialValue;
+  //localStorage.clear();
+  if(localStorage.getItem("localCart")){
+    if(localStorage.getItem("localCart") !== 'undefined' ){
+      value = JSON.parse(localStorage.getItem("localCart")) || initialValue;
+    }
+  }
+  console.log(value);
+  return value;
+};
+
+const cartReducer= (state = initializer(),action)=>{
+
    
     //INSIDE HOME COMPONENT
     if(action.type === ADD_TO_CART){
@@ -19,8 +33,9 @@ const cartReducer= (state = initState,action)=>{
          let existed_item= state.addedItems.find(item=> action.id === item.id)
          if(existed_item)
          {
-            addedItem.quantity += 1 
-             return{
+            addedItem.quantity += 1
+            console.log(state); 
+             state = {
                 ...state,
                  total: state.total + parseFloat(addedItem.price),
                   totalQuantity: newQuantity,
@@ -30,8 +45,8 @@ const cartReducer= (state = initState,action)=>{
             addedItem.quantity = 1;
             //calculating the total
             let newTotal = state.total + parseFloat(addedItem.price)
-            
-            return{
+
+            state = {
                 ...state,
                 addedItems: [...state.addedItems, addedItem],
                 totalQuantity: newQuantity,
@@ -48,7 +63,7 @@ const cartReducer= (state = initState,action)=>{
         let newTotal = state.total - (parseFloat(itemToRemove.price) * itemToRemove.quantity )
         let newQuantity = state.totalQuantity - itemToRemove.quantity
         console.log(itemToRemove)
-        return{
+        state = {
             ...state,
             addedItems: new_items,
             totalQuantity: newQuantity,
@@ -57,24 +72,25 @@ const cartReducer= (state = initState,action)=>{
     }
     //INSIDE CART COMPONENT
     if(action.type=== ADD_QUANTITY){
-        let addedItem = state.items.find(item=> item.id === action.id)
+        let addedItem = state.addedItems.find(item=> item.id === action.id)
         let newQuantity = state.totalQuantity + 1
           addedItem.quantity += 1 
-          let newTotal = state.total + parseFloat(addedItem.price)
-          return{
+          let newTotal = state.total + parseFloat(addedItem.price);
+          console.log(state.addedItems); 
+          state = {
               ...state,
               total: newTotal,
               totalQuantity: newQuantity
           }
     }
     if(action.type=== SUB_QUANTITY){  
-        let addedItem = state.items.find(item=> item.id === action.id) 
+        let addedItem = state.addedItems.find(item=> item.id === action.id) 
         let newQuantity = state.totalQuantity - 1
         //if the qt == 0 then it should be removed
         if(addedItem.quantity === 1){
             let new_items = state.addedItems.filter(item=>item.id !== action.id)
             let newTotal = state.total - parseFloat(addedItem.price)
-            return{
+            state = {
                 ...state,
                 addedItems: new_items,
                 totalQuantity: newQuantity,
@@ -84,7 +100,7 @@ const cartReducer= (state = initState,action)=>{
         else {
             addedItem.quantity -= 1
             let newTotal = state.total - parseFloat(addedItem.price)
-            return{
+            state = {
                 ...state,
                 totalQuantity: newQuantity,
                 total: newTotal
@@ -92,6 +108,13 @@ const cartReducer= (state = initState,action)=>{
         }
         
     }
+
+    if(action.type === CLEAR_CART){
+        state = initState;
+    }
+
+    localStorage.setItem("localCart", JSON.stringify(state)); 
+
     return state
 }
 export default cartReducer;
