@@ -10,7 +10,8 @@
 }
 
 .DetailProductPage img{
-	width: 300px;
+	max-width: 300px;
+	max-height: 50vh;
 	padding: 5rem 2rem 5rem 10rem;
 }
 

@@ -244,7 +244,7 @@ class CheckoutForm extends React.Component{
                                     <input name="phone" type="phone" required onChange={this.handleInput}></input>
                                     <p>Your rider will contact you on this phone number, please double check it before checking out.</p>
                                 </div>
-                                <button className="buttonShop" type="submit">Arrange a delivery</button>
+                                <button className="buttonShop" type="submit">Arrange an eco-delivery</button>
                         </form>
                     </div>
 

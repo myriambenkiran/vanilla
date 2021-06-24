@@ -4832,5 +4832,60 @@
         "info": "This rich mask contains fairly traded coconut oil and wild mango butter, which help refresh the lips before the morning arrives. It works to hydrate, nourish and condition dry and tired lips and promotes a softer, suppler smile.",
         "category": ["Kiehls", "Lip care"],
         "src": "./images/products/BUTTERMASK FOR LIPS.jpg"
+       },
+       {
+        "id": "455",
+        "name": "Black Tea Kombucha Essence Treatment",
+        "volume": "250ml",
+        "price": "89",
+        "brand": "Fresh",
+        "type": "Toner",
+        "info": "Boost your skincare ritual with this powerhouse liquid prep step from Fresh. This facial treatment essence is a silky leave-on formula powered by kombucha -fermented sweet black tea that increases moisture and luminosity for a radiant, lustrous complexion. The highly concentrated age-delay treatment provides daily antioxidant and anti-pollution protection, which helps prevent premature signs of skin aging. The versatile, weightless essence also smoothes, softens the look of fine lines, and refines the appearance of skin, boosting its resilience and vitality.",
+        "category": ["Fresh", "Toners and Tonics"],
+        "src": "./images/products/Black Tea Kombucha Essence Treatment (250ml).jpg"
+       },
+       {
+        "id": "456",
+        "name": "Soy Face Cleanser",
+        "volume": "150ml",
+        "price": "30",
+        "brand": "Fresh",
+        "type": "cleanser",
+        "info": "Fresh Soy Face Cleanser is an extra-gentle gel cleanser that instantly whisks away everyday impurities and make-up - even mascara - without stripping the skin of essential moisture. The multi-tasking formula also works to tone, soothe, and soften the skin for a radiant, healthy-looking complexion.",
+        "category": ["Fresh", "Cleansers"],
+        "src": "./images/products/Soy Face Cleanser.jpg"
+       },
+       {
+        "id": "457",
+        "name": "Rose Day Cream Light",
+        "volume": "30ml",
+        "price": "30",
+        "brand": "Dr Hauschka",
+        "type": "moisturiser",
+        "info": "Dr. Hauschka Rose Day Cream Light offers all the nurturing and protecting properties of the classic Rose Day Cream, but in a lightweight formula that's ideal for sensitive skin or use in warmer weather. Enriched with an expert blend of natural ingredients, including rose water, rose wax and marshmallow, the cream hydrates and balances the skin to leave it feeling soothed, soft and supple.",
+        "category": ["Dr Hauschka", "Moisturisers"],
+        "src": "./images/products/Dr Hauschka Rose Day Cream Light30ml.jpg"
+       },
+       {
+        "id": "458",
+        "name": "Rose Day Cream",
+        "volume": "30ml",
+        "price": "30",
+        "brand": "Dr Hauschka",
+        "type": "moisturiser",
+        "info": "Particularly ideal for dry or sensitive skin that is prone to redness, irritation and couperose, Dr. Hauschka Rose Day Cream softens, strengthens and protects your skin whilst calming your complexion. Enriched with precious extracts of rose petals and wild rose hips to nurture and balance your skin, the cream also contains shea butter and rose petal to help your skin retain moisture, whilst marshmallow and St. John's wort hydrate and fortify your complexion. Your skin will be left comforted and harmonised.",
+        "category": ["Dr Hauschka", "Moisturisers"],
+        "src": "./images/products/Dr Hauschka Rose Day Cream30ml.jpg"
+       },
+       {
+        "id": "459",
+        "name": "VIT C Brightening cleanser",
+        "volume": "135ml",
+        "price": "39",
+        "brand": "Rodial",
+        "type": "cleanser",
+        "info": "Wake up skin with a vitamin C enhanced facial cleanser that delivers radiance and helps renew tired looking skin with Rodial Vit C Brightening Cleanser. Designed to brighten skin when it needs a pick-me-up, this gel-based cleanser can be used as part of a daily skincare routine and is formulated with radiance-boosting vitamin C and refreshing blood orange water as well as fruit AHAs that help to exfoliate and renew the skin while reducing the appearance of pores.",
+        "category": ["Rodial", "Cleansers"],
+        "src": "./images/products/VIT C BRIGHTENING CLEANSER.jpg"
     }
 ]
