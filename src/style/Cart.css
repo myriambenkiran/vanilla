@@ -152,7 +152,6 @@ p{
 	margin-bottom: 0rem;
 	cursor: pointer;
 	font-family: 'Ibarra Real Nova', serif;
-	font-weight: normal;
 }
 
 .close_modal{
@@ -294,6 +293,7 @@ p{
 
 .Receipt .buttonShop{
 	margin-bottom: 0;
+	!cursor: pointer;
 }
 
 .Cart .Paragraph{

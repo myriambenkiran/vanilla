@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { compose } from "redux";
-import {withRouter} from 'react-router';
-import { removeItem,addQuantity,subtractQuantity,clearCart} from './cartActions.js';
+import { withRouter } from 'react-router';
+import { removeItem, addQuantity, subtractQuantity, clearCart } from './cartActions.js';
 //import Receipt from './Receipt.js';
 import './style/Cart.css';
 import Modal from 'react-modal';
@@ -12,12 +12,12 @@ import Modal from 'react-modal';
 
 
 
-class Cart extends Component{
+class Cart extends Component {
 
-    constructor(props){
+    constructor(props) {
         super(props);
         this.state = {
-            showModal:false
+            showModal: false
         }
 
         this.closeModal = this.closeModal.bind(this);
@@ -25,53 +25,53 @@ class Cart extends Component{
     }
 
     closeModal = () => {
-        this.setState({showModal:false});
+        this.setState({ showModal: false });
     }
 
     openModal = () => {
-        this.setState({showModal:true});
+        this.setState({ showModal: true });
     }
 
     //to remove the item completely
-    handleRemove = (id)=>{
+    handleRemove = (id) => {
         this.props.removeItem(id);
     }
     //to add the quantity
-    handleAddQuantity = (id)=>{
+    handleAddQuantity = (id) => {
         this.props.addQuantity(id);
     }
     //to substruct from the quantity
-    handleSubtractQuantity = (id)=>{
+    handleSubtractQuantity = (id) => {
         this.props.subtractQuantity(id);
     }
 
-    render(){
-              
+    render() {
+
         let addedItems = this.props.addedItems.length ?
             <div>
                 <h4>YOUR PAYMENT IS SECURE</h4>
                 <p>Pay safely by debit card upon our eco-delivery.</p>
-                {this.props.addedItems.map(item=> <CartItem key={item.id} {...item} handleRemove={this.handleRemove} handleSubtractQuantity={this.handleSubtractQuantity} handleAddQuantity={this.handleAddQuantity}/>)}
-                <Receipt addedItems={this.props.addedItems} total={this.props.total} clearCart={this.props.clearCart} openModal={this.openModal}/>
+                {this.props.addedItems.map(item => <CartItem key={item.id} {...item} handleRemove={this.handleRemove} handleSubtractQuantity={this.handleSubtractQuantity} handleAddQuantity={this.handleAddQuantity} />)}
+                <Receipt addedItems={this.props.addedItems} total={this.props.total} clearCart={this.props.clearCart} openModal={this.openModal} />
             </div>
-            :<div className="NothingInBag">
+            : <div className="NothingInBag">
                 <h4>Nothing in your bag yet.</h4>
                 <Link to="./shop/all"><div className="buttonShop">Start shopping</div></Link>
             </div>
-             
-       return(
+
+        return (
             <div className="container">
                 <div className="Cart">
-                    <h2>CART {this.props.totalQuantity?`(${this.props.totalQuantity})`:""}</h2>
+                    <h2>CART {this.props.totalQuantity ? `(${this.props.totalQuantity})` : ""}</h2>
 
                     {addedItems}
 
                     {this.state.showModal && (
                         <Modal
-                        isOpen={true}
-                        onRequestClose={this.closeModal}
-                        className="modal"
-                        overlayClassName="overlay"
+                            isOpen={true}
+                            onRequestClose={this.closeModal}
+                            className="modal"
+                            overlayClassName="overlay"
                         >
                             <button className="close_modal" onClick={this.closeModal}>x</button>
                             <div className="order_details">
@@ -85,57 +85,57 @@ class Cart extends Component{
                         <p>Contact us to get personalised support</p>
                         <p>Email: support@vanilladelivery.com</p>
                         <p>Call: +447737832909</p>
-                 </div>
-                </div>  
+                    </div>
+                </div>
             </div>
-       );
+        );
     }
 }
 
-class CartItem extends Component{
+class CartItem extends Component {
 
-    render(){
+    render() {
 
         let product = this.props;
-                let volumeSlash;
+        let volumeSlash;
         let volumeText;
-        if(product.volume){
+        if (product.volume) {
             volumeSlash = <p>/</p>
             volumeText = `- ${product.volume} `
         }
 
 
-         return(
-         <div className="CartItem">
-             <div className="image">
-                <Link to={`./shop/${product.id}`}><img style={{width:"200px"}} src={require(`${product.src}`).default}/></Link>
-            </div>
-            <div className="productInfo">
-                <h3>{product.name}</h3>
-                <div className="priceAndVolume">
-                    <p>£{product.price}</p>
-                    {volumeSlash}
-                    <p>{product.volume}</p>
+        return (
+            <div className="CartItem">
+                <div className="image">
+                    <Link to={`./shop/${product.id}`}><img style={{ width: "200px" }} src={require(`${product.src}`).default} /></Link>
                 </div>
-                <p>{product.brand.toUpperCase()}</p>
-            
-                <div className="Quantity">
-                    <Link to="/cart"><button onClick={()=>{this.props.handleSubtractQuantity(product.id)}}>-</button></Link>
-                    <div>Quantity: {product.quantity}</div> 
-                    <Link to="/cart"><button onClick={()=>{this.props.handleAddQuantity(product.id)}}>+</button></Link>
+                <div className="productInfo">
+                    <h3>{product.name}</h3>
+                    <div className="priceAndVolume">
+                        <p>£{product.price}</p>
+                        {volumeSlash}
+                        <p>{product.volume}</p>
+                    </div>
+                    <p>{product.brand.toUpperCase()}</p>
+
+                    <div className="Quantity">
+                        <Link to="/cart"><button onClick={() => { this.props.handleSubtractQuantity(product.id) }}>-</button></Link>
+                        <div>Quantity: {product.quantity}</div>
+                        <Link to="/cart"><button onClick={() => { this.props.handleAddQuantity(product.id) }}>+</button></Link>
+                    </div>
+                    <div className="remove" onClick={() => { this.props.handleRemove(product.id) }} >Remove</div>
                 </div>
-                <div className="remove" onClick={()=>{this.props.handleRemove(product.id)}} >Remove</div>
             </div>
-         </div>
-                   
-         );
+
+        );
     }
 }
 
 
-class Receipt extends Component{
+class Receipt extends Component {
 
-    constructor(props){
+    constructor(props) {
         super(props);
         this.state = {
             showCheckoutForm: false
@@ -144,12 +144,12 @@ class Receipt extends Component{
         this.handleClick = this.handleClick.bind(this);
     }
 
-    handleClick = () =>{
-        this.setState({showCheckoutForm:true});
+    handleClick = () => {
+        this.setState({ showCheckoutForm: true });
         console.log(this.state.showCheckoutForm);
     }
 
-    render(){
+    render() {
 
         let productsWhat = "";
         let products = "";
@@ -164,19 +164,19 @@ class Receipt extends Component{
         products = products.slice(0, -6);
         productsWhat += `%0a`;
         productsWhat += `%0a`;
-        productsWhat += `Total (incl. £2 delivery): £${this.props.total+2}`;
-        
-        return(
+        productsWhat += `Total (incl. £2 delivery): £${this.props.total + 2}`;
+
+        return (
             <div className="Recipe">
                 <h3>Summary</h3>
                 <p>Subtotal: £{this.props.total} </p>
                 <p>Delivery: £2</p>
-                <h4>Total: £{this.props.total+2} </h4>
+                <h4>Total: £{this.props.total + 2} </h4>
 
-                
+
                 <div className="buttonShop" onClick={this.handleClick}>Go to checkout</div>
 
-                <CheckoutForm show={this.state.showCheckoutForm} addedItems={this.props.addedItems} total={this.props.total+2} products={products} clearCart={this.props.clearCart} openModal={this.props.openModal}/>
+                <CheckoutForm show={this.state.showCheckoutForm} addedItems={this.props.addedItems} total={this.props.total + 2} products={products} clearCart={this.props.clearCart} openModal={this.props.openModal} />
             </div>
         )
 
@@ -185,22 +185,22 @@ class Receipt extends Component{
 }
 
 
-class CheckoutForm extends React.Component{
+class CheckoutForm extends React.Component {
 
-    constructor(props){
+    constructor(props) {
         super(props);
         this.state = {
-            name:"",
-            phone:""
+            name: "",
+            phone: ""
         }
 
         this.handleInput = this.handleInput.bind(this);
         this.createOrder = this.createOrder.bind(this);
     }
 
-    handleInput = (e) =>{
-        this.setState({[e.target.name]:e.target.value})
-    } 
+    handleInput = (e) => {
+        this.setState({ [e.target.name]: e.target.value })
+    }
 
     createOrder = (e) => {
         e.preventDefault();
@@ -228,52 +228,52 @@ class CheckoutForm extends React.Component{
             .catch(err => console.error('There has been an error.  Here some thoughts on the error that occured:', err))
     }
 
-    render(){
+    render() {
 
-        return(
+        return (
             <div>
                 {this.props.show && (
                     <div>
-                        <form className ="checkoutForm" onSubmit={this.createOrder}>
-                                <div className="checkoutFormInput">
-                                    <label>Name:</label>
-                                    <input name="name" type="text" required onChange={this.handleInput}></input>
-                                </div>
-                                <div className="checkoutFormInput">
-                                    <label>Phone number:</label>
-                                    <input name="phone" type="phone" required onChange={this.handleInput}></input>
-                                    <p>Your rider will contact you on this phone number, please double check it before checking out.</p>
-                                </div>
-                                <button className="buttonShop" type="submit">Arrange an eco-delivery</button>
+                        <form className="checkoutForm" onSubmit={this.createOrder}>
+                            <div className="checkoutFormInput">
+                                <label>Name:</label>
+                                <input name="name" type="text" required onChange={this.handleInput}></input>
+                            </div>
+                            <div className="checkoutFormInput">
+                                <label>Phone number:</label>
+                                <input name="phone" type="phone" required onChange={this.handleInput}></input>
+                                <p>We will contact you on this phone number to arrange your delivery, please double check it before checking out.</p>
+                            </div>
+                            <button className="buttonShop" type="submit">Arrange an eco-delivery</button>
                         </form>
                     </div>
 
                 )}
-                
+
             </div>
         )
     }
 }
 
-const mapStateToProps = (state)=>{
-    return{
+const mapStateToProps = (state) => {
+    return {
         addedItems: state.addedItems,
         totalQuantity: state.totalQuantity,
         total: state.total
     }
 }
 
-const mapDispatchToProps = (dispatch)=>{
-    return{
-        removeItem: (id)=>{dispatch(removeItem(id))},
-        addQuantity: (id)=>{dispatch(addQuantity(id))},
-        subtractQuantity: (id)=>{dispatch(subtractQuantity(id))},
-        substractShipping: ()=>{dispatch({type: 'SUB_SHIPPING'})},
-        clearCart: () =>{dispatch({type: 'CLEAR_CART'})}
+const mapDispatchToProps = (dispatch) => {
+    return {
+        removeItem: (id) => { dispatch(removeItem(id)) },
+        addQuantity: (id) => { dispatch(addQuantity(id)) },
+        subtractQuantity: (id) => { dispatch(subtractQuantity(id)) },
+        substractShipping: () => { dispatch({ type: 'SUB_SHIPPING' }) },
+        clearCart: () => { dispatch({ type: 'CLEAR_CART' }) }
     }
 }
 
 export default compose(
-  withRouter,
-  connect(mapStateToProps, mapDispatchToProps)
+    withRouter,
+    connect(mapStateToProps, mapDispatchToProps)
 )(Cart);

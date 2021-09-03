@@ -14,7 +14,7 @@ class Header extends React.Component {
 			<div className="Header" id="HEADER">
 				<Link className="home" to="/"><h1>Vanilla</h1></Link>
 				<div className="Menu">
-					<NavLink exact activeClassName="current " to="/shop/all"> e-Shop </NavLink>
+					<NavLink exact activeClassName="current " to="/shop/all"> E-Shop </NavLink>
 					<NavLink exact activeClassName="current " to="/contact"> Help </NavLink>
 					<NavLink exact activeClassName="current " to="/cart"> Cart ({this.props.totalQuantity}) </NavLink>
 				</div>

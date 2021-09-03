@@ -1,10 +1,7 @@
-
-
 a{
 	text-decoration-color: #1b1b1b;
 	color:#1b1b1b;
 }
-
 
 .Shop{
 	margin:5rem 2% 10rem 2%;
@@ -18,12 +15,26 @@ a{
 }
 
 .Shop h4{
-	margin:1rem 0;
 	font-size:15px;
+	font-weight: 300;
+	margin: 3px;
 }
 
+.Shop .textShop{
+	padding: 0rem;
+}	
 .Shop .textShop p{
 	margin:0;
+}
+
+.Shop .textShop .h4{
+	margin:1rem 0rem;
+	padding: 0;
+}
+
+.Shop .textShop a{
+	text-decoration-color: black;
+	text-decoration: underline;
 }
 
 .Shop p{
@@ -168,7 +179,11 @@ a{
 }
 
 .Shop h4{
-	margin:3%;
+	margin: 3%px;
+}
+
+.Shop .textShop .h4 p{
+	margin:2rem 0rem;
 }
 
 .Shop .textShop p{

@@ -1,330 +1,70 @@
- [
+[
 	{
-		"value":1,
-		"label":"All products"
+		"value": 1,
+		"label": "All products"
 	},
 	{
-		"value":2,
-		"label":"Moisturisers"
+		"value": 2,
+		"label": "Moisturisers"
 	},
 	{
-		"value":3,
-		"label":"Serums"
+		"value": 3,
+		"label": "Serums"
 	},
 	{
-		"value":4,
-		"label":"Anti-ageing"
+		"value": 4,
+		"label": "Anti-ageing"
 	},
 	{
-		"value":5,
-		"label":"Cleansers"
+		"value": 5,
+		"label": "Cleansers"
 	},
 	{
-		"value":6,
-		"label":"Clean Skincare"
+		"value": 7,
+		"label": "Exfoliants"
 	},
 	{
-		"value":7,
-		"label":"Exfoliants"
+		"value": 9,
+		"label": "Eye care"
 	},
 	{
-		"value":8,
-		"label":"Toners and Tonics"
+		"value": 11,
+		"label": "Masks, Scrubs and Treatments"
 	},
 	{
-		"value":9,
-		"label":"Eye care"
+		"value": 13,
+		"label": "Body care"
 	},
 	{
-		"value":10,
-		"label":"Lip care"
+		"value": 14,
+		"label": "Hair and Scalp care"
 	},
 	{
-		"value":11,
-		"label":"Masks, Scrubs and Treatments"
+		"value": 74,
+		"label": "Briogeo"
 	},
 	{
-		"value":12,
-		"label":"Suncare and Self-Tanning"
+		"value": 34,
+		"label": "Indie Lee"
 	},
 	{
-		"value":13,
-		"label":"Body care"
+		"value": 47,
+		"label": "OLAPLEX"
 	},
 	{
-		"value":14,
-		"label":"Hair and Scalp care"
+		"value": 51,
+		"label": "OUAI"
 	},
 	{
-		"value":15,
-		"label":"Hand care"
+		"value": 58,
+		"label": "Sol de Janeiro"
 	},
 	{
-		"value":16,
-		"label":"Beauty tools"
+		"value": 59,
+		"label": "Sunday Riley"
 	},
 	{
-		"value":76,
-		"label":"111SKIN"
-	},
-	{
-		"value":17,
-		"label":"Alpha-H"
-	},
-	{
-		"value":18,
-		"label":"Amanda Harrington"
-	},
-	{
-		"value":19,
-		"label":"Ameliorate"
-	},
-	{
-		"value":67,
-		"label":"Augustinus Bader"
-	},
-	{
-		"value":20,
-		"label":"Avene"
-	},
-	{
-		"value":21,
-		"label":"BEAUTYBIO"
-	},
-	{
-		"value":74,
-		"label":"Briogeo"
-	},
-	{
-		"value":22,
-		"label":"Bumble and Bumble"
-	},
-	{
-		"value":78,
-		"label":"Caudalie"
-	},
-	{
-		"value":23,
-		"label":"CeraVe"
-	},
-	{
-		"value":68,
-		"label":"Cetaphil"
-	},
-	{
-		"value":24,
-		"label":"Christophe Robin"
-	},
-	{
-		"value":25,
-		"label":"Clarins"
-	},
-	{
-		"value":26,
-		"label":"Clinique"
-	},
-	{
-		"value":72,
-		"label":"Davines"
-	},
-	{
-		"value":27,
-		"label":"Dermalogica"
-	},
-	{
-		"value":68,
-		"label":"DHC"
-	},
-	{
-		"value":28,
-		"label":"Dr. Dennis Gross"
-	},
-	{
-		"value":79,
-		"label":"Dr Hauschka"
-	},
-	{
-		"value":29,
-		"label":"Drunk Elephant"
-	},
-	{
-		"value":30,
-		"label":"Erborian"
-	},
-	{
-		"value":31,
-		"label":"Embryolisse"
-	},
-	{
-		"value":32,
-		"label":"Foreo"
-	},
-	{
-		"value":33,
-		"label":"Fresh"
-	},
-	{
-		"value":34,
-		"label":"Indie Lee"
-	},
-	{
-		"value":65,
-		"label":"Kate Somerville"
-	},
-	{
-		"value":35,
-		"label":"Kerastase"
-	},
-	{
-		"value":36,
-		"label":"Kevin Murphy"
-	},
-	{
-		"value":37,
-		"label":"Kiehls"
-	},
-	{
-		"value":38,
-		"label":"KNC"
-	},
-	{
-		"value":66,
-		"label":"KYLIE SKIN"
-	},
-	{
-		"value":39,
-		"label":"Le lABO"
-	},
-	{
-		"value":40,
-		"label":"Leonor Greyl"
-	},
-	{
-		"value":41,
-		"label":"Living Proof"
-	},
-	{
-		"value":42,
-		"label":"Moroccanoil"
-	},
-	{
-		"value":75,
-		"label":"Murad"
-	},
-	{
-		"value":43,
-		"label":"MZ Skin"
-	},
-	{
-		"value":44,
-		"label":"Neutrogena"
-	},
-	{
-		"value":73,
-		"label":"NIOD"
-	},
-	{
-		"value":45,
-		"label":"NUFACE"
-	},
-	{
-		"value":46,
-		"label":"Nuxe"
-	},
-	{
-		"value":77,
-		"label":"L'Occitane"
-	},
-	{
-		"value":47,
-		"label":"OLAPLEX"
-	},
-	{
-		"value":48,
-		"label":"Ole Henriksen"
-	},
-	{
-		"value":49,
-		"label":"Oribe"
-	},
-	{
-		"value":50,
-		"label":"Oskia"
-	},
-	{
-		"value":51,
-		"label":"OUAI"
-	},
-	{
-		"value":51,
-		"label":"Paula's Choice"
-	},
-	{
-		"value":52,
-		"label":"Perricone MD"
-	},
-	{
-		"value":53,
-		"label":"Philip Kingsley"
-	},
-	{
-		"value":72,
-		"label":"Pixi"
-	},
-	{
-		"value":54,
-		"label":"La Roche-Posay"
-	},
-	{
-		"value":55,
-		"label":"Le Labo"
-	},
-	{
-		"value":56,
-		"label":"REN Clean Skincare"
-	},
-	{
-		"value":57,
-		"label":"Rodial"
-	},
-	{
-		"value":69,
-		"label":"Sarah Chapman"
-	},
-	{
-		"value":70,
-		"label":"Sisley-paris"
-	},
-	{
-		"value":58,
-		"label":"Sol de Janeiro"
-	},
-	{
-		"value":59,
-		"label":"Sunday Riley"
-	},
-	{
-		"value":60,
-		"label":"Tata Harper"
-	},
-	{
-		"value":61,
-		"label":"The Inkey List"
-	},
-	{
-		"value":62,
-		"label":"The Ordinary"
-	},
-	{
-		"value":63,
-		"label":"TONYMOLY"
-	},
-	{
-		"value":71,
-		"label":"Virtue"
-	},
-	{
-		"value":64,
-		"label":"Weleda"
+		"value": 61,
+		"label": "The Inkey List"
 	}
 ]

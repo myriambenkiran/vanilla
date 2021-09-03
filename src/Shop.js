@@ -26,13 +26,6 @@ const endPage = [
         "text": "Get your beauty products empties collected on-demand for £2 fee. Any size product from any beauty brand are welcomed. Even those not bought with us. Collection is free for products you ordered with us.",
         "buttonText": "Recycle",
         "link": "https://wa.me/+447737832909?text=Thanks for doing this. Tap send to start arranging a collection."
-    },
-    {
-        "id": 3,
-        "title": "Why Vanilla?",
-        "text": "We’re at the very beginning of our journey but already looking forward to having incredible people joining us as our users. If you want to support our project and be part of our success, just sign up.",
-        "buttonText": "Sign Up",
-        "link": "https://wa.me/+447737832909?text=So grateful to count you amongst us. Send us your name and email address to be added into our list of users."
     }]
 
 const mapStateToProps = (state) => {
@@ -56,12 +49,16 @@ class Shop extends React.Component {
 
         return (
             <div className="Shop">
-                <h2>E-SHOP</h2>
+                <h2>ETHICAL SHOP</h2>
                 <div className="textShop">
-                    <h4>Delivery options: Monday to Saturday</h4>
-                    <p>ASAP: from 12pm to 7pm (order before 6pm)</p>
-                    <p>Scheduled: from 12pm to 12am (order before 6pm)</p>
-                    <p>Scheduled: Next Day (order anytime)</p>
+                    <p>1. Find in minutes beauty brands really ethical.</p>
+                    <p>2. Order multiple products/brands from one place.</p>
+                    <p>3. Receive your order pollution and packaging free.</p>
+                    <div className="h4">
+                        <p>We partner with local shops from all over London to source our products.</p>
+                        <p>We deliver from Monday to Saturday across London.</p>
+                    </div>
+                    <a href={require(`./pdf/Criteria.pdf`).default} target="_blank" >What does "ethical" mean for us?</a>
                 </div>
                 <Products addToCart={this.props.addToCart} history={this.props.history} filter={filter} />
                 {endPage.map(p => <Paragraph key={p.id} {...p} />)}

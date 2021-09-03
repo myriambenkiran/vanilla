@@ -68,6 +68,8 @@
 	margin-top: 2rem;
 	font-weight: normal;
 	cursor: pointer;
+	border:1px solid #1B1B1B;
+	border-radius: 10px;
 }
 
 .DetailProductPage .buttonShop:active {
