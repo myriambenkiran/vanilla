@@ -23,7 +23,7 @@ const endPage = [
     {
         "id": 2,
         "title": "Need to recycle?",
-        "text": "Get your beauty products empties collected on-demand for £2 fee. Any size product from any beauty brand are welcomed. Even those not bought with us. Collection is free for products you ordered with us.",
+        "text": "Get your beauty products empties collected on-demand for free, wherever you live in London. Any size product from any beauty brand are welcomed. Even those not bought with us.",
         "buttonText": "Recycle",
         "link": "https://wa.me/+447737832909?text=Thanks for doing this. Tap send to start arranging a collection."
     }]
@@ -49,16 +49,17 @@ class Shop extends React.Component {
 
         return (
             <div className="Shop">
-                <h2>ETHICAL SHOP</h2>
+                <h2>LOCAL & ETHICAL BEAUTY e-SHOP</h2>
                 <div className="textShop">
                     <p>1. Find in minutes beauty brands really ethical.</p>
                     <p>2. Order multiple products/brands from one place.</p>
                     <p>3. Receive your order pollution and packaging free.</p>
                     <div className="h4">
-                        <p>We partner with local shops from all over London to source our products.</p>
+                        <p>We only select products that meet our set of real ethical criteria.</p>
+                        <p>We partner with ethical shops from all over London to source our products.</p>
                         <p>We deliver from Monday to Saturday across London.</p>
                     </div>
-                    <a href={require(`./pdf/Criteria.pdf`).default} target="_blank" >What does "ethical" mean for us?</a>
+                    <a href={require(`./pdf/Criteria.pdf`).default} target="_blank" >Click to see our set of ethical criteria</a>
                 </div>
                 <Products addToCart={this.props.addToCart} history={this.props.history} filter={filter} />
                 {endPage.map(p => <Paragraph key={p.id} {...p} />)}

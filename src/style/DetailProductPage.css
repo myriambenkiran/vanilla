@@ -52,8 +52,9 @@
 
 .DetailProductPage strong{
 	font-weight: bold;
-	font-size:18px;
+	font-size:15px;
 	text-align:left;
+	display: inline !important
 }
 
 .DetailProductPage .quickBuy{
@@ -149,6 +150,5 @@
 	height: 1.2rem;
 	margin-top: 2rem;
 }
-
 
 }

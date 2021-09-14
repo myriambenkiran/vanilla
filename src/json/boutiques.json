@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "name": "Neal's Yard",
+        "info": "Neal's Yard products are composed with the highest possible percentage of organic ingredients, using ethically sourced herbs, botanicals and essential oils.",
+        "address": "15 Neal's Yard, London WC2H 9DP",
+        "category": [
+            "Category 1",
+            "Category 2"
+        ],
+        "src": "./images/boutiques/nealsyardremedies.jpeg"
+    },
+    {
+        "id": "2",
+        "name": "House of Green Beauty",
+        "info": "When you walk into the House of Green Beauty you will walk into a world of true organic gorgeousness & leave feeling super passionate about the new knowledge & products you’ll have.",
+        "address": "Blue House Yard, 5 River Park Rd, London N22 7TB",
+        "category": [
+            "Category 1",
+            "Category 2"
+        ],
+        "src": "./images/boutiques/HouseofGreenBeautycroppedscaled.jpeg"
+    },
+    {
+        "id": "4",
+        "name": "Wolf and Badger",
+        "info": "Wolf & Badger is home of a collection of indie clean and cruelty-free beauty products. The King’s Cross store is the Wolf & Badger flagship store.",
+        "address": "Coal Drops Yard, London NC1 4DQ",
+        "category": [
+            "Category 1",
+            "Category 2"
+        ],
+        "src": "./images/boutiques/WolfBadger.jpeg"
+    }
+]
