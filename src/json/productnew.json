@@ -701,5 +701,47 @@
             "Serums"
         ],
         "src": "./images/products/The INKEY List Caffeine Eye Serum 15ml.jpg"
+    },
+    {
+        "id": "446",
+        "name": "Rosehip Bioregenerate",
+        "volume": "30ml",
+        "price": "16",
+        "brand": "PAI Skincare",
+        "type": "facial oil",
+        "info": "The ultimate multi-tasker for sensitive skin, Pai Skincare’s Rosehip Bioregenerate is one of the brand’s bestsellers, thanks to its extraordinary effects. Rosehip oil is renowned for its powerful skin healing, regenerative properties and Pai extracts the oil used in this formula via an ultra-advanced method. The oil can be used to address a catalogue of complexion complaints without irritation, including dry, flaky patches, blemishes, dull skin tone, fine lines, scars and sun damage. With regular use, it will condition skin, improve firmness and elasticity and promote and clear, even skin tone.",
+        "category": [
+            "PAI Skincare",
+            "Serums"
+        ],
+        "src": "./images/products/Rosehip Bioregenerate facial oil.jpg"
+    },
+    {
+        "id": "447",
+        "name": "Rosehip cleansing oil",
+        "volume": "100ml",
+        "price": "18",
+        "brand": "PAI Skincare",
+        "type": "cleansing oil",
+        "info": "Removing make up, excess sebum and impurities without irritating sensitive complexions and eyes, this Light Work oil cleanser is ideal for lifting away the day’s dirt without risk of a tantrum. Cruelty-free, certified organic and vegan, this do-gooder utilises only the kindest ingredients to work their magic on your face – the star of the show being the brand’s hero ingredient, rosehip oil.",
+        "category": [
+            "PAI Skincare",
+            "Cleansers"
+        ],
+        "src": "./images/products/Rosehip cleansing oil.jpg"
+    },
+    {
+        "id": "448",
+        "name": "The Anthemis, Chamomile and Rosehip Soothing moisturiser",
+        "volume": "50ml",
+        "price": "39",
+        "brand": "PAI Skincare",
+        "type": "moisturiser",
+        "info": "The perfect, soothing treat for very sensitive, reactive skin, Pai Skincare’s The Anthemis, Chamomile & Rosehip Soothing Moisturizer keeps complexions cool, calm and collected.",
+        "category": [
+            "PAI Skincare",
+            "Moisturisers"
+        ],
+        "src": "./images/products/The Anthemis, Chamomile and Rosehip Soothing moisturiser.jpg"
     }
 ]

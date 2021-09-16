@@ -35,6 +35,7 @@ a{
 .Shop .textShop a{
 	text-decoration-color: black;
 	text-decoration: underline;
+	font-weight: bold;
 }
 
 .Shop p{

@@ -59,7 +59,7 @@ class Shop extends React.Component {
                         <p>We partner with ethical shops from all over London to source our products.</p>
                         <p>We deliver from Monday to Saturday across London.</p>
                     </div>
-                    <a href={require(`./pdf/Criteria.pdf`).default} target="_blank" >Click to see our set of ethical criteria</a>
+                    <a href={require(`./pdf/Criteria.pdf`).default} target="_blank" >CLICK TO SEE OUR SET OF REAL ETHICAL CRITERIA</a>
                 </div>
                 <Products addToCart={this.props.addToCart} history={this.props.history} filter={filter} />
                 {endPage.map(p => <Paragraph key={p.id} {...p} />)}
