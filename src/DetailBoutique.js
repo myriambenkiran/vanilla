@@ -40,6 +40,7 @@ class DetailBoutique extends React.Component {
 
                     <p>{boutique.info}</p>
                     <p><strong>Address:</strong> {boutique.address}</p>
+                    <p><strong>Brands available:</strong> {boutique.brands}</p>
                 </div>
             </div>
         );

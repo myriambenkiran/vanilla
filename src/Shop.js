@@ -49,13 +49,13 @@ class Shop extends React.Component {
 
         return (
             <div className="Shop">
-                <h2>LOCAL & ETHICAL BEAUTY e-SHOP</h2>
+                <h2>FIND REAL ETHICAL BEAUTY IN MINUTES</h2>
                 <div className="textShop">
-                    <p>1. Find in minutes beauty brands really ethical.</p>
-                    <p>2. Order multiple products/brands from one place.</p>
+                    <p>1. Shop only beauty brands that are really ethical.</p>
+                    <p>2. Support the local and ethical shops of your city.</p>
                     <p>3. Receive your order pollution and packaging free.</p>
                     <div className="h4">
-                        <p>We only select products that meet our set of real ethical criteria.</p>
+                        <p>We only select products that meet our own set of real ethical criteria so you're sure your order is really ethical.</p>
                         <p>We partner with ethical shops from all over London to source our products.</p>
                         <p>We deliver from Monday to Saturday across London.</p>
                     </div>
