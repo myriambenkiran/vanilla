@@ -23,7 +23,7 @@ const endPage = [
     {
         "id": 2,
         "title": "Need to recycle?",
-        "text": "Get your beauty products empties collected on-demand for free, wherever you live in London. Any size product from any beauty brand are welcomed. Even those not bought with us.",
+        "text": "Get your beauty products empties collected on-demand for £2, wherever you live in London. Any size product from any beauty brand are welcomed. Even those not bought with us.",
         "buttonText": "Recycle",
         "link": "https://wa.me/+447737832909?text=Thanks for doing this. Tap send to start arranging a collection."
     }]
@@ -50,14 +50,12 @@ class Shop extends React.Component {
         return (
             <div className="Shop">
                 <h2>FIND REAL ETHICAL BEAUTY IN MINUTES</h2>
+                <h2>SHOP FROM YOUR LOCAL BOUTIQUES</h2>
                 <div className="textShop">
-                    <p>1. Shop only beauty brands that are really ethical.</p>
-                    <p>2. Support the local and ethical shops of your city.</p>
-                    <p>3. Receive your order pollution and packaging free.</p>
                     <div className="h4">
                         <p>We only select products that meet our own set of real ethical criteria so you're sure your order is really ethical.</p>
                         <p>We partner with ethical shops from all over London to source our products.</p>
-                        <p>We deliver from Monday to Saturday across London.</p>
+                        <p>We deliver on-demand from Monday to Saturday across London.</p>
                     </div>
                     <a href={require(`./pdf/Criteria.pdf`).default} target="_blank" >CLICK TO SEE OUR SET OF REAL ETHICAL CRITERIA</a>
                 </div>

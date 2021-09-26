@@ -5,20 +5,8 @@ import './style/DetailProductPage.css';
 import './style/Home.css';
 import { connect } from 'react-redux';
 import { compose } from "redux";
-import { addToCart } from './cartActions.js'
 
 
-const mapStateToProps = (state) => {
-    return {
-        addedItems: state.addedItems
-    }
-}
-
-const mapDispatchToProps = (dispatch) => {
-    return {
-        addToCart: (id) => { dispatch(addToCart(id)) }
-    }
-}
 
 class DetailBoutique extends React.Component {
 
@@ -50,7 +38,4 @@ class DetailBoutique extends React.Component {
 
 
 
-export default compose(
-    withRouter,
-    connect(mapStateToProps, mapDispatchToProps)
-)(DetailBoutique);
+export default withRouter(DetailBoutique);

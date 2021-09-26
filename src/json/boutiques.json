@@ -16,7 +16,7 @@
         "name": "House of Green Beauty",
         "info": "When you walk into the House of Green Beauty you will walk into a world of true organic gorgeousness & leave feeling super passionate about the new knowledge & products you’ll have.",
         "address": "Blue House Yard, 5 River Park Rd, London N22 7TB",
-        "brands": "Niniorganics, Innersense, Hynt Beauty, ...",
+        "brands": "Niniorganics, Innersense, and more.",
         "category": [
             "Category 1",
             "Category 2"
@@ -28,11 +28,59 @@
         "name": "Wolf and Badger",
         "info": "Wolf & Badger is home of a collection of indie clean and cruelty-free beauty products. The King’s Cross store is the Wolf & Badger flagship store.",
         "address": "Coal Drops Yard, London NC1 4DQ",
-        "brands": "Gherane, Frank's remedies, ...",
+        "brands": "Gherane, Frank's remedies, and more.",
         "category": [
             "Category 1",
             "Category 2"
         ],
         "src": "./images/boutiques/WolfBadger.jpeg"
+    },
+    {
+        "id": "5",
+        "name": "The Bright Store",
+        "info": "The Bright Store has a selection of curated skincare from independent makers and small businesses. They’re making it easier to shop small, ethical & slowly homewares, clothings, and more. The BRIGHT Store is located in the heart of Hoxton which is also a coffee shop with an indulgent range of vegan pastries and filled croissants, go vist their store located downstairs the coffee shop (store opened on weekends only).",
+        "address": "THE BRIGHT STORE, 268 HACKNEY ROAD, LONDON, E2 7SJ",
+        "brands": "Farryn Amber, Suneeta London, and more.",
+        "category": [
+            "Category 1",
+            "Category 2"
+        ],
+        "src": "./images/boutiques/brightstore.jpeg"
+    },
+    {
+        "id": "6",
+        "name": "AIDA Shoreditch",
+        "info": "Situated in Shoreditch, AIDA is a concept store with a deep sense of community at its core.",
+        "address": "133 Shoreditch High Street, Shoreditch, East London, E1 6JE",
+        "brands": "Salt & Stone, Soap, and more.",
+        "category": [
+            "Category 1",
+            "Category 2"
+        ],
+        "src": "./images/boutiques/aida.jpeg"
+    },
+    {
+        "id": "7",
+        "name": "Lowie",
+        "info": "Situated in Brixton, Lowie is a bright and spacious store that sells products as ethical as possible.",
+        "address": "Lowie, 25 Westow Street se19 3RY",
+        "brands": "Upcircle, Malako, and more.",
+        "category": [
+            "Category 1",
+            "Category 2"
+        ],
+        "src": "./images/boutiques/lowie.jpeg"
+    },
+    {
+        "id": "9",
+        "name": "Selfridges",
+        "info": "Selfridges is working to transition to more sustainable and ethical shopping by 2025 and already range an interesting range of ethical beauty.",
+        "address": "400 Oxford St, London W1C 1JS",
+        "brands": "Aesop, Pai Skincare, and more.",
+        "category": [
+            "Category 1",
+            "Category 2"
+        ],
+        "src": "./images/boutiques/selfridges.jpeg"
     }
 ]

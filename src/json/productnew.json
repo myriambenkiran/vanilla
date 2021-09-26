@@ -743,5 +743,252 @@
             "Moisturisers"
         ],
         "src": "./images/products/The Anthemis, Chamomile and Rosehip Soothing moisturiser.jpg"
+    },
+    {
+        "id": "449",
+        "name": "Creme De Rosto Miracle Face Cream",
+        "volume": "50ml",
+        "price": "19",
+        "brand": "Benamor",
+        "type": "face cream",
+        "info": "Créme de Rosto is one of Wolf & Badger customer's favorite since 1925. This unique and timeless face cream was born from mixing anti-blemish actives to purify and rose extracts to tone, giving skin an instant rosy glow. Adorable!",
+        "category": [
+            "Benamor",
+            "Moisturisers"
+        ],
+        "src": "./images/products/CremeDeRostoMiracleFaceCream.jpeg"
+    },
+    {
+        "id": "450",
+        "name": "Hydrating Serum",
+        "volume": "50ml",
+        "price": "45",
+        "brand": "Gherane",
+        "type": "face serum",
+        "info": "A lightweight, rapidly absorbed serum that boosts hydration levels to deliver instant comfort. It is packed with powerful antioxidants to protect against pollution and oxidative stress. Perfect for a natural look or as a priming base underneath makeup.",
+        "category": [
+            "Gherane",
+            "Serums"
+        ],
+        "src": "./images/products/hydratingserumgherane.jpeg"
+    },
+    {
+        "id": "451",
+        "name": "Reset Facial Oil",
+        "volume": "30ml",
+        "price": "42",
+        "brand": "Gherane",
+        "type": "face serum",
+        "info": "Gherane’s Reset Face Oil has been formulated to provide relief to skin stressed out by everyday life, and is perfect for when your complexion just needs to press reset. It utilises a powerful blend of natural plant extracts and oils to restore skin to its former glory, and to boost natural glow; while geranium and centella soothe the skin, tuberose firms and brightens. In addition, the product works to clear the skin, using watermelon oil to regulate sebum production, and peony to mattify. Suitable for normal, oily, combination and sensitive skin types.",
+        "category": [
+            "Gherane",
+            "Serums"
+        ],
+        "src": "./images/products/resetoilgherane.jpeg"
+    },
+    {
+        "id": "452",
+        "name": "Clearing Face Cream",
+        "volume": "60ml",
+        "price": "26",
+        "brand": "Frank's remedies",
+        "type": "cleanser",
+        "info": "The ultimate face cream for those with spot-prone or oily and combination skin types, this potent moisturiser contains balancing ingredients such as Jojoba, Juniper berry and Ylang Ylang to regulate oil production. Plus, rose quartz extract promotes self-healing for those who have stressed or inflamed skin. Skin is left feeling soothed, hydrated and fresh.",
+        "category": [
+            "Frank's remedies",
+            "Cleansers"
+        ],
+        "src": "./images/products/clearingfacecreamfrank.jpeg"
+    },
+    {
+        "id": "453",
+        "name": "The Ultimate Detox Face Mask",
+        "volume": "200g",
+        "price": "32",
+        "brand": "Frank's remedies",
+        "type": "face mask",
+        "info": "Treat your skin with this complexion-boosting, glow-inducing face mask that uses Amazonian kaolin clay, Moroccan Lava clay and activated charcoal powder to decongest blocked pores, draw out any impurities and improve the skin tone and texture. You’ll be left with noticeably smoother, cleaner, more radiant and mattified skin. Vegan + raw.",
+        "category": [
+            "Frank's remedies",
+            "Masks, Scrubs and Treatments"
+        ],
+        "src": "./images/products/theultimatedetoxmaskfrank.jpeg"
+    },
+    {
+        "id": "454",
+        "name": "Miracle Waters Face Wash",
+        "volume": "150ml",
+        "price": "24",
+        "brand": "Frank's remedies",
+        "type": "cleanser",
+        "info": "This potent gel cleanser contains sap from Benzoin trees to soothe and heal cracked and inflamed skin. Created specifically for stressed skin, the calming aloe vera and chamomile work together with organic tea tree and eucalyptus to create the ultimate antiseptic and anti-inflammatory face wash. Vegan + organic. Your skin will be left feeling super silky, clean and glowing without striping it of vital moisture..",
+        "category": [
+            "Frank's remedies",
+            "Cleansers"
+        ],
+        "src": "./images/products/miraclewatersfacewashfrank.jpeg"
+    },
+    {
+        "id": "455",
+        "name": "Natura Detox Oil",
+        "volume": "30ml",
+        "price": "45",
+        "brand": "Nini Organics",
+        "type": "Balancing treatment oil",
+        "info": "This specially formulated detoxifying facial oil is high in Linoleic acid that helps target overactive sebaceous glands to help regulate oil production & a potent herbal blend to soothe inflammation and tackle blemishes.",
+        "category": [
+            "Nini Organics"
+        ],
+        "src": "./images/products/Natura Detox Oil.jpeg"
+    },
+    {
+        "id": "456",
+        "name": "Halo Cleansing Elixir",
+        "volume": "100ml",
+        "price": "39",
+        "brand": "Nini Organics",
+        "type": "Oil cleanser",
+        "info": "Halo Cleansing Elixir is a true skincare treat, an everyday cleansing oil to help regulate oil production, soothe inflamed skin and brighten the complexion for a fresh dewy finish. Organic cold pressed Passionfruit oil is an exceptionally light oil that helps soothe irritation and treats dry skin.",
+        "category": [
+            "Nini Organics",
+            "Cleansers"
+        ],
+        "src": "./images/products/Halo Cleansing Elixir.jpeg"
+    },
+    {
+        "id": "457",
+        "name": "Crimson Beauty",
+        "volume": "50ml",
+        "price": "69",
+        "brand": "Nini Organics",
+        "type": "Hyaluronic acid serum",
+        "info": "Crimson Beauty is NINI's very first water-based serum to help boost your moisture levels, balance your skin's flora, and flood it with a burst of vitamins from Hibiscus extract. Crimson Beauty contains two green Biotech ingredients which make this our most active rich product.",
+        "category": [
+            "Nini Organics",
+            "Serums"
+        ],
+        "src": "./images/products/Crimson Beauty.jpeg"
+    },
+    {
+        "id": "458",
+        "name": "Infinity Beauty Balm",
+        "volume": "30ml",
+        "price": "39",
+        "brand": "Nini Organics",
+        "type": "Reparative treatment balm",
+        "info": "Our multi-purpose beauty concentrate is the only balm you will ever need. Boosting some of natures most potent plant oils, herbs and flowers. Infinity Beauty Balm helps to lock in moisture allowing your skin to stay plump and dewy. This incredibly nourishing balm instantly melts on contact. Infinity Beauty Balm is a beautiful skin duvet ready to cocoon and protect your skin. Let's dive into this pot of magic.",
+        "category": [
+            "Nini Organics",
+            "Moisturisers"
+        ],
+        "src": "./images/products/Infinity Beauty Balm.jpeg"
+    },
+    {
+        "id": "459",
+        "name": "Natura Detox Foam",
+        "volume": "100g",
+        "price": "42",
+        "brand": "Nini Organics",
+        "type": "Enzymatic cleanser",
+        "info": "Natura Detox Foam is a unique water-free foaming cleanser supercharged with detoxifying dried vegetables and super antioxidants. Ideal as your 2/3 times a week cleanser perfect for acne prone/ combination & normal skin types. Give your skin a cleanser that is gentle, effective, and all natural.",
+        "category": [
+            "Nini Organics",
+            "Cleanser"
+        ],
+        "src": "./images/products/Natura Detox Foam.jpeg"
+    },
+    {
+        "id": "460",
+        "name": "Moonlight Nectar Oil",
+        "volume": "30ml",
+        "price": "49",
+        "brand": "Nini Organics",
+        "type": "Nourishing treatment oil",
+        "info": "Moonlight Nectar is made up of a decadent blend of antioxidant-rich super fruit extracts & Nourishing Oleic rich oils to help promote healthy cellular turnover whilst deeply hydrating and protecting your delicate skin. Perfect for dehydrated/ mature skin as a nighttime treatment oil.",
+        "category": [
+            "Nini Organics"
+        ],
+        "src": "./images/products/Moonlight Nectar Oil.jpeg"
+    },
+    {
+        "id": "461",
+        "name": "Natura Miracle Mask",
+        "volume": "100g",
+        "price": "35",
+        "brand": "Nini Organics",
+        "type": "Treatment mask",
+        "info": "A deep green fusion of Antioxidant rich cacao, activated coconut powder, Australian pink clay, hibiscus & a powerful blend of herbs and superfoods like neem & spirulina makes the Natura Miracle Mask the ultimate skin solution. Created to help heal & treat Acne-prone skin the holistic way. Results driven without the compromise of your own skin health.",
+        "category": [
+            "Nini Organics",
+            "Masks, Scrubs and Treatments"
+        ],
+        "src": "./images/products/Natura Miracle Mask.jpeg"
+    },
+    {
+        "id": "462",
+        "name": "Rain Hydrating Essence",
+        "volume": "50ml",
+        "price": "35",
+        "brand": "Nini Organics",
+        "type": "Protective face mist",
+        "info": "RAIN is a gorgeous hydrating skin essence that's packed full of antioxidant-rich Cucumber Water & Butterfly Pea Extract. Together they provide the skin with a nutrient-dense matrix of flavonoids which help to fight against environmental stressors and free radicals. Lactic Acid gently exfoliates promoting a healthy glow, whilst Hyaluronic acids plumps and hydrates.",
+        "category": [
+            "Nini Organics"
+        ],
+        "src": "./images/products/Rain Hydrating Essence.jpeg"
+    },
+    {
+        "id": "463",
+        "name": "Glow Illuminator",
+        "volume": "15ml",
+        "price": "29",
+        "brand": "Nini Organics",
+        "type": "Highlighting infused oil",
+        "info": "This Face Illuminator is made using non-comedogenic oils which will not block your pores, these oils have been infused with our unique sensitive blend which has been specially formulated to nourish and heal. With added ethically sourced Mica you can now treat your skin to summer all year round.",
+        "category": [
+            "Nini Organics",
+            "Moisturisers"
+        ],
+        "src": "./images/products/Glow Illuminator.jpeg"
+    },
+    {
+        "id": "464",
+        "name": "Coffee & Cacao Face Scrub",
+        "volume": "100g",
+        "price": "30",
+        "brand": "Nini Organics",
+        "type": "Exfoliator",
+        "info": "A decadent blend of natural cleansing clays and organic coffee to lift impurities and help even blemishes. With a boost of Vitamin C which enhances your skin’s cellular turnover. Protecting your skin from harmful toxins, leaving it bright and luminous.",
+        "category": [
+            "Nini Organics",
+            "Exfoliants"
+        ],
+        "src": "./images/products/Coffee & Cacao Face Scrub.jpeg"
+    },
+    {
+        "id": "465",
+        "name": "Siempre Viva Body Elixir",
+        "volume": "100g",
+        "price": "75",
+        "brand": "Nini Organics",
+        "type": "Vitamin A rich treatment body oil",
+        "info": "Siempre Viva has been designed to deeply nourish your skin flooding it with omega-rich oils and Beta Carotene to help kick start a more youthful complexion. The seductive aroma will have you falling into a deep state of self-love with its earth tones followed by swirls of floral absolutes.",
+        "category": [
+            "Nini Organics"
+        ],
+        "src": "./images/products/Siempre Viva Body Elixir.jpeg"
+    },
+    {
+        "id": "466",
+        "name": "Coco Melt 2.0",
+        "volume": "100g",
+        "price": "29",
+        "brand": "Nini Organics",
+        "type": "Protective body balm",
+        "info": "The super seductive Coco Melt is made with 100% organic & unrefined shea and cacao butter to create this truly delectable body butter. Delicately scented with our unique NINI aroma, Whipped to a fluffy texture you'll want to constantly dive into this Devine pot of organic magic. The whipped texture melts instantly into your skin, you only need the smallest amount.",
+        "category": [
+            "Nini Organics"
+        ],
+        "src": "./images/products/Coco Melt 2.0.jpeg"
     }
 ]

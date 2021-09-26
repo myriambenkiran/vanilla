@@ -33,7 +33,7 @@ class Boutique extends React.Component {
 
         return (
             <div className="Shop">
-                <h2>ETHICAL BEAUTY SHOPS IN LONDON</h2>
+                <h2>SHOPS IN LONDON TO BUY ETHICAL BEAUTY</h2>
                 <div className="textShop">
                     <p>Discover and visit the best shops in London to buy ethical beauty products. We're continuously looking for more incredible shops, please tell us if you know of any other ethical shops so we can add them.</p>
                 </div>
