@@ -1,6 +1,6 @@
 [
     {
-        "id": "186",
+        "id": "1",
         "name": "CEO Glow Vitamin C + Turmeric Face Oil",
         "volume": "15ml",
         "price": "68",
@@ -14,7 +14,7 @@
         "src": "./images/products/CEO Glow Vitamin C + Turmeric Face Oil by Sunday Riley.jpg"
     },
     {
-        "id": "188",
+        "id": "2",
         "name": "Ceramic Slip Cleanser",
         "volume": "150ml",
         "price": "28",
@@ -28,7 +28,7 @@
         "src": "./images/products/Ceramic Slip Cleanser by Sunday Riley.jpg"
     },
     {
-        "id": "190",
+        "id": "3",
         "name": "Charcoal Smoothie Body Scrub",
         "volume": "200g",
         "price": "32",
@@ -43,7 +43,7 @@
         "src": "./images/products/Charcoal Smoothie Body Scrub by Sunday Riley.jpg"
     },
     {
-        "id": "191",
+        "id": "4",
         "name": "Clean Rinse Scalp Serum",
         "volume": "120ml",
         "price": "42",
@@ -58,7 +58,7 @@
         "src": "./images/products/Clean Rinse Scalp Serum by Sunday Riley.jpg"
     },
     {
-        "id": "192",
+        "id": "5",
         "name": "Good Genes Glycolic Acid Treatment",
         "volume": "30ml",
         "price": "85",
@@ -72,7 +72,7 @@
         "src": "./images/products/Good Genes Glycolic Acid Treatment by Sunday Riley.jpg"
     },
     {
-        "id": "194",
+        "id": "6",
         "name": "Juno Antioxidant + Superfood Face Oil",
         "volume": "15ml",
         "price": "54",
@@ -86,7 +86,7 @@
         "src": "./images/products/Juno Antioxidant + Superfood Face Oil by Sunday Riley.jpg"
     },
     {
-        "id": "195",
+        "id": "7",
         "name": "Luna Sleeping Night Oil",
         "volume": "15ml",
         "price": "85",
@@ -102,7 +102,7 @@
         "src": "./images/products/Luna Sleeping Night Oil by Sunday Riley.jpg"
     },
     {
-        "id": "196",
+        "id": "8",
         "name": "Saturn Sulfur Spot Treatment",
         "volume": "15ml",
         "price": "20",
@@ -116,7 +116,7 @@
         "src": "./images/products/Saturn Sulfur Spot Treatment by Sunday Riley.jpg"
     },
     {
-        "id": "197",
+        "id": "9",
         "name": "Tidal Brightening Enzyme Water Cream",
         "volume": "50g",
         "price": "20",
@@ -130,7 +130,7 @@
         "src": "./images/products/Tidal Brightening Enzyme Water Cream by Sunday Riley.jpg"
     },
     {
-        "id": "248",
+        "id": "10",
         "name": "Brazilian Joia Strengthening Smoothing Conditioner",
         "volume": "295ml",
         "price": "22",
@@ -144,7 +144,7 @@
         "src": "./images/products/SOL DE JANEIRO Brazilian Joia Strengthening & Smoothing Conditioner.jpg"
     },
     {
-        "id": "249",
+        "id": "11",
         "name": "Brazilian Joia Strengthening Smoothing Shampoo",
         "volume": "295ml",
         "price": "22",
@@ -158,7 +158,7 @@
         "src": "./images/products/SOL DE JANEIRO Brazilian Joia Strengthening & Smoothing Shampoo.jpg"
     },
     {
-        "id": "250",
+        "id": "12",
         "name": "Bum Bum Body Scrub",
         "volume": "220g",
         "price": "39",
@@ -173,7 +173,7 @@
         "src": "./images/products/SOL DE JANEIRO Bum Bum Body Scrub.jpg"
     },
     {
-        "id": "251",
+        "id": "13",
         "name": "Coco Cabana Cream",
         "volume": "240ml",
         "price": "44",
@@ -188,7 +188,7 @@
         "src": "./images/products/Sol de Janeiro coco cabana cream.jpg"
     },
     {
-        "id": "252",
+        "id": "14",
         "name": "Coco Cabana Cream",
         "volume": "75ml",
         "price": "18",
@@ -203,7 +203,7 @@
         "src": "./images/products/Sol de Janeiro coco cabana cream.jpg"
     },
     {
-        "id": "253",
+        "id": "15",
         "name": "Bum Bum Cream",
         "volume": "240nl",
         "price": "44",
@@ -218,7 +218,7 @@
         "src": "./images/products/Sol de Janeiro bum bum cream.jpg"
     },
     {
-        "id": "254",
+        "id": "16",
         "name": "Bum Bum Cream",
         "volume": "75ml",
         "price": "18",
@@ -233,7 +233,7 @@
         "src": "./images/products/Sol de Janeiro bum bum cream.jpg"
     },
     {
-        "id": "255",
+        "id": "17",
         "name": "Coco Cabana body cleanser",
         "volume": "385ml",
         "price": "22",
@@ -248,7 +248,7 @@
         "src": "./images/products/SOL DE JANEIRO coco cabana moisturizing body cream cleanser.jpg"
     },
     {
-        "id": "278",
+        "id": "18",
         "name": "Body Creme",
         "volume": "212g",
         "price": "32",
@@ -262,7 +262,7 @@
         "src": "./images/products/Body Creme.jpg"
     },
     {
-        "id": "283",
+        "id": "19",
         "name": "Hair Oil",
         "volume": "45ml",
         "price": "24",
@@ -276,7 +276,7 @@
         "src": "./images/products/Hair Oil( 45ml ).jpg"
     },
     {
-        "id": "292",
+        "id": "20",
         "name": "Scalp and Body Scrub",
         "volume": "250g",
         "price": "22",
@@ -291,7 +291,7 @@
         "src": "./images/products/Scalp and Body Scrub (250g).jpg"
     },
     {
-        "id": "321",
+        "id": "21",
         "name": "Avocado + Kiwi Mega Moisture Superfood Mask",
         "volume": "237ml",
         "price": "28",
@@ -306,7 +306,7 @@
         "src": "./images/products/Avocado Kiwi Mega Moisture Superfood Mask by Briogeo.jpg"
     },
     {
-        "id": "322",
+        "id": "22",
         "name": "Banana + Coconut Nourishing Superfood Conditioner",
         "volume": "369ml",
         "price": "24",
@@ -321,7 +321,7 @@
         "src": "./images/products/Coconut Nourishing Superfood Conditioner by Briogeo.jpg"
     },
     {
-        "id": "323",
+        "id": "23",
         "name": "Kale + Apple Replenishing Superfood Conditioner",
         "volume": "369ml",
         "price": "24",
@@ -336,7 +336,7 @@
         "src": "./images/products/Kale Apple Replenishing Superfood Conditioner by Briogeo.jpg"
     },
     {
-        "id": "324",
+        "id": "24",
         "name": "Matcha Apple Replenishing Superfood Shampoo",
         "volume": "369ml",
         "price": "24",
@@ -351,7 +351,7 @@
         "src": "./images/products/Matcha Apple Replenishing Superfood Shampoo by Briogeo.jpg"
     },
     {
-        "id": "325",
+        "id": "25",
         "name": "Ginseng Biotin Volumizing Conditioner",
         "volume": "236ml",
         "price": "21.50",
@@ -366,7 +366,7 @@
         "src": "./images/products/Blossom & Bloo Ginseng Biotin Volumizing Conditioner by Briogeo.jpg"
     },
     {
-        "id": "326",
+        "id": "26",
         "name": "Deep Conditioning Hair Mask",
         "volume": "236ml",
         "price": "30.00",
@@ -381,7 +381,7 @@
         "src": "./images/products/Deep Conditioning Hair Mask by Briogeo.jpg"
     },
     {
-        "id": "327",
+        "id": "27",
         "name": "Strengthening Treatment Hair Oil",
         "volume": "30ml",
         "price": "28.00",
@@ -396,7 +396,7 @@
         "src": "./images/products/Strengthening Treatment Hair Oil by Briogeo.jpg"
     },
     {
-        "id": "328",
+        "id": "28",
         "name": "Charcoal Biotin Dry Shampoo",
         "volume": "50ml",
         "price": "21.50",
@@ -411,7 +411,7 @@
         "src": "./images/products/Scalp Revival Charcoal Biotin Dry Shampoo.jpg"
     },
     {
-        "id": "329",
+        "id": "29",
         "name": "Scalp Revival Charcoal Tea Tree Scalp Treatment",
         "volume": "30ml",
         "price": "21.50",
@@ -426,7 +426,7 @@
         "src": "./images/products/Scalp Revival Charcoal Tea Tree Scalp Treatment by Briogeo.jpg"
     },
     {
-        "id": "330",
+        "id": "30",
         "name": "Charcoal Coconut Oil Micro-exfoliating Shampoo",
         "volume": "236ml",
         "price": "36",
@@ -441,7 +441,7 @@
         "src": "./images/products/Scalp Revival Charcoal Coconut Oil Micro-exfoliating Shampoo by Briogeo.jpg"
     },
     {
-        "id": "331",
+        "id": "31",
         "name": "Banish Stick",
         "volume": "4.5ml",
         "price": "26",
@@ -456,7 +456,7 @@
         "src": "./images/products/BANISH STICK.jpg"
     },
     {
-        "id": "332",
+        "id": "32",
         "name": "Clearing mask",
         "volume": "50g",
         "price": "49",
@@ -472,7 +472,7 @@
         "src": "./images/products/CLEARING MASK.jpg"
     },
     {
-        "id": "333",
+        "id": "33",
         "name": "Overnight Banish Gel",
         "volume": "15ml",
         "price": "18",
@@ -488,7 +488,7 @@
         "src": "./images/products/OVERNIGHT BANISH GEL.jpg"
     },
     {
-        "id": "334",
+        "id": "34",
         "name": "Purifying Face Wash",
         "volume": "125ml",
         "price": "32",
@@ -503,7 +503,7 @@
         "src": "./images/products/PURIFYING FACE WASH.jpg"
     },
     {
-        "id": "335",
+        "id": "35",
         "name": "Radiance Renewal Peel",
         "volume": "125ml",
         "price": "60 treatments",
@@ -518,7 +518,7 @@
         "src": "./images/products/RADIANCE RENEWAL PEEL.jpg"
     },
     {
-        "id": "336",
+        "id": "36",
         "name": "Restorative eye cream",
         "volume": "15ml",
         "price": "63",
@@ -533,7 +533,7 @@
         "src": "./images/products/RESTORATIVE EYE CREAM.jpg"
     },
     {
-        "id": "337",
+        "id": "37",
         "name": "Squalane Facial Oil",
         "volume": "30ml",
         "price": "32",
@@ -548,7 +548,7 @@
         "src": "./images/products/SQUALANE FACIAL OIL.jpg"
     },
     {
-        "id": "338",
+        "id": "38",
         "name": "Stem Cell Serum",
         "volume": "30ml",
         "price": "27",
@@ -563,7 +563,7 @@
         "src": "./images/products/STEM CELL SERUM.jpg"
     },
     {
-        "id": "339",
+        "id": "39",
         "name": "No.0 Intensive Bond Building Treatment",
         "volume": "155ml",
         "price": "25",
@@ -577,7 +577,7 @@
         "src": "./images/products/No.0 Intensive Bond Building Treatment.jpg"
     },
     {
-        "id": "340",
+        "id": "40",
         "name": "No 3 Hair Perfector",
         "volume": "100ml",
         "price": "25",
@@ -591,7 +591,7 @@
         "src": "./images/products/No 3 Hair Perfector.jpg"
     },
     {
-        "id": "341",
+        "id": "41",
         "name": "No.4 Bond Maintenance Shampoo",
         "volume": "250ml",
         "price": "25",
@@ -605,7 +605,7 @@
         "src": "./images/products/No.4 Bond Maintenance Shampoo.jpg"
     },
     {
-        "id": "342",
+        "id": "42",
         "name": "No.5 Bond Maintenance Conditioner",
         "volume": "250ml",
         "price": "25",
@@ -619,7 +619,7 @@
         "src": "./images/products/No.5 Bond Maintenance Conditioner.jpg"
     },
     {
-        "id": "343",
+        "id": "43",
         "name": "No.6 Bond Smoother",
         "volume": "100ml",
         "price": "25",
@@ -633,7 +633,7 @@
         "src": "./images/products/No.6 Bond Smoother.jpg"
     },
     {
-        "id": "344",
+        "id": "44",
         "name": "No.7 Bonding Oil",
         "volume": "30ml",
         "price": "25",
@@ -647,7 +647,7 @@
         "src": "./images/products/No.7 Bonding Oil.jpg"
     },
     {
-        "id": "371",
+        "id": "45",
         "name": "The Inkey List Salicylic Acid Cleanser",
         "volume": "150ml",
         "price": "13",
@@ -661,7 +661,7 @@
         "src": "./images/products/The Inkey List Salicylic Acid Cleanser 150ml.jpg"
     },
     {
-        "id": "372",
+        "id": "46",
         "name": "The Inkey List Oat Cleansing Balm",
         "volume": "150ml",
         "price": "13",
@@ -675,7 +675,7 @@
         "src": "./images/products/The Inkey List Oat Cleansing Balm 150ml.jpg"
     },
     {
-        "id": "442",
+        "id": "47",
         "name": "Retinol Serum",
         "volume": "30ml",
         "price": "9",
@@ -689,7 +689,7 @@
         "src": "./images/products/The INKEY List Retinol Serum 30ml.jpg"
     },
     {
-        "id": "445",
+        "id": "48",
         "name": "Caffeine Eye Serum",
         "volume": "15ml",
         "price": "8",
@@ -703,7 +703,7 @@
         "src": "./images/products/The INKEY List Caffeine Eye Serum 15ml.jpg"
     },
     {
-        "id": "446",
+        "id": "49",
         "name": "Rosehip Bioregenerate",
         "volume": "30ml",
         "price": "16",
@@ -717,7 +717,7 @@
         "src": "./images/products/Rosehip Bioregenerate facial oil.jpg"
     },
     {
-        "id": "447",
+        "id": "50",
         "name": "Rosehip cleansing oil",
         "volume": "100ml",
         "price": "18",
@@ -731,7 +731,7 @@
         "src": "./images/products/Rosehip cleansing oil.jpg"
     },
     {
-        "id": "448",
+        "id": "51",
         "name": "The Anthemis, Chamomile and Rosehip Soothing moisturiser",
         "volume": "50ml",
         "price": "39",
@@ -745,7 +745,7 @@
         "src": "./images/products/The Anthemis, Chamomile and Rosehip Soothing moisturiser.jpg"
     },
     {
-        "id": "449",
+        "id": "52",
         "name": "Creme De Rosto Miracle Face Cream",
         "volume": "50ml",
         "price": "19",
@@ -759,7 +759,7 @@
         "src": "./images/products/CremeDeRostoMiracleFaceCream.jpeg"
     },
     {
-        "id": "450",
+        "id": "53",
         "name": "Hydrating Serum",
         "volume": "50ml",
         "price": "45",
@@ -773,7 +773,7 @@
         "src": "./images/products/hydratingserumgherane.jpeg"
     },
     {
-        "id": "451",
+        "id": "54",
         "name": "Reset Facial Oil",
         "volume": "30ml",
         "price": "42",
@@ -787,7 +787,7 @@
         "src": "./images/products/resetoilgherane.jpeg"
     },
     {
-        "id": "452",
+        "id": "55",
         "name": "Clearing Face Cream",
         "volume": "60ml",
         "price": "26",
@@ -801,7 +801,7 @@
         "src": "./images/products/clearingfacecreamfrank.jpeg"
     },
     {
-        "id": "453",
+        "id": "56",
         "name": "The Ultimate Detox Face Mask",
         "volume": "200g",
         "price": "32",
@@ -815,7 +815,7 @@
         "src": "./images/products/theultimatedetoxmaskfrank.jpeg"
     },
     {
-        "id": "454",
+        "id": "57",
         "name": "Miracle Waters Face Wash",
         "volume": "150ml",
         "price": "24",
@@ -829,7 +829,7 @@
         "src": "./images/products/miraclewatersfacewashfrank.jpeg"
     },
     {
-        "id": "455",
+        "id": "58",
         "name": "Natura Detox Oil",
         "volume": "30ml",
         "price": "45",
@@ -842,7 +842,7 @@
         "src": "./images/products/Natura Detox Oil.jpeg"
     },
     {
-        "id": "456",
+        "id": "59",
         "name": "Halo Cleansing Elixir",
         "volume": "100ml",
         "price": "39",
@@ -856,7 +856,7 @@
         "src": "./images/products/Halo Cleansing Elixir.jpeg"
     },
     {
-        "id": "457",
+        "id": "60",
         "name": "Crimson Beauty",
         "volume": "50ml",
         "price": "69",
@@ -870,7 +870,7 @@
         "src": "./images/products/Crimson Beauty.jpeg"
     },
     {
-        "id": "458",
+        "id": "61",
         "name": "Infinity Beauty Balm",
         "volume": "30ml",
         "price": "39",
@@ -884,7 +884,7 @@
         "src": "./images/products/Infinity Beauty Balm.jpeg"
     },
     {
-        "id": "459",
+        "id": "62",
         "name": "Natura Detox Foam",
         "volume": "100g",
         "price": "42",
@@ -898,7 +898,7 @@
         "src": "./images/products/Natura Detox Foam.jpeg"
     },
     {
-        "id": "460",
+        "id": "63",
         "name": "Moonlight Nectar Oil",
         "volume": "30ml",
         "price": "49",
@@ -911,7 +911,7 @@
         "src": "./images/products/Moonlight Nectar Oil.jpeg"
     },
     {
-        "id": "461",
+        "id": "64",
         "name": "Natura Miracle Mask",
         "volume": "100g",
         "price": "35",
@@ -925,7 +925,7 @@
         "src": "./images/products/Natura Miracle Mask.jpeg"
     },
     {
-        "id": "462",
+        "id": "65",
         "name": "Rain Hydrating Essence",
         "volume": "50ml",
         "price": "35",
@@ -938,7 +938,7 @@
         "src": "./images/products/Rain Hydrating Essence.jpeg"
     },
     {
-        "id": "463",
+        "id": "66",
         "name": "Glow Illuminator",
         "volume": "15ml",
         "price": "29",
@@ -952,7 +952,7 @@
         "src": "./images/products/Glow Illuminator.jpeg"
     },
     {
-        "id": "464",
+        "id": "67",
         "name": "Coffee & Cacao Face Scrub",
         "volume": "100g",
         "price": "30",
@@ -966,7 +966,7 @@
         "src": "./images/products/Coffee & Cacao Face Scrub.jpeg"
     },
     {
-        "id": "465",
+        "id": "68",
         "name": "Siempre Viva Body Elixir",
         "volume": "100g",
         "price": "75",
@@ -979,7 +979,7 @@
         "src": "./images/products/Siempre Viva Body Elixir.jpeg"
     },
     {
-        "id": "466",
+        "id": "69",
         "name": "Coco Melt 2.0",
         "volume": "100g",
         "price": "29",
@@ -990,5 +990,95 @@
             "Nini Organics"
         ],
         "src": "./images/products/Coco Melt 2.0.jpeg"
+    },
+    {
+        "id": "70",
+        "name": "Hard Working Hand Cream – Orange, Ginger & Sandalwood",
+        "volume": "30ml",
+        "price": "9.50",
+        "brand": "Soothe-me",
+        "type": "handcream",
+        "info": "Luxury and concentrated this hard working hand cream is for hard working hands, with Ginger, Orange & Sandalwood. Organic and natural cream in a handy handbag sized pot. Powerfully moisturising so you only need to use a small amount each time.",
+        "category": [
+            "Soothe-me",
+            "Moisturisers"
+        ],
+        "src": "./images/products/hardworkinghandcream.jpg",
+        "boutiqueId": "9"
+    },
+    {
+        "id": "71",
+        "name": "Refresh! Hand Cream – Frankincense & Grapefruit, rejuvenating",
+        "volume": "30ml",
+        "price": "9.50",
+        "brand": "Soothe-me",
+        "type": "handcream",
+        "info": "Rich concentrated aromatherapy hand cream for everyday, with mind focusing Frankincense, zesty Grapefruit and refreshing Garden Mint. This plant based natural hand cream is perfectly nourishing so you only need a small amount each time and comes in a handy handbag sized pot.",
+        "category": [
+            "Soothe-me",
+            "Moisturisers"
+        ],
+        "src": "./images/products/Refreshhandcream.jpg",
+        "boutiqueId": "9"
+    },
+    {
+        "id": "72",
+        "name": "Sensitive Hand Cream – Lavender & Geranium, calming",
+        "volume": "30ml",
+        "price": "9.50",
+        "brand": "Soothe-me",
+        "type": "handcream",
+        "info": "AWARD WINNING HAND CREAM! This concentrated deluxe hand cream is hand blended from Almond oil, fairtrade Shea butter with Geranium, Lavender, Patchouli & Benzoin – 30ml jar is small but POWERFUL against dry skin.",
+        "category": [
+            "Soothe-me",
+            "Moisturisers"
+        ],
+        "src": "./images/products/Sensitivehandcream.jpg",
+        "boutiqueId": "9"
+    },
+    {
+        "id": "73",
+        "name": "‘Gorgeous Cream’ – Rose & Frankincense, rejuvenate & plump skin",
+        "volume": "60ml",
+        "price": "30",
+        "brand": "Soothe-me",
+        "type": "face cream",
+        "info": "‘Gorgeous’ face cream with Rose and Frankincense oils. A truly gorgeous cream with luxurious organic oil of Rosehip, known for its antioxidant action, helping ease fine lines and prevent premature ageing of the skin. Leaving skin feeling silky and naturally hydrated, suitable for both sensitive and combination skin types.",
+        "category": [
+            "Soothe-me",
+            "Moisturisers"
+        ],
+        "src": "./images/products/Sensitivehandcream.jpg",
+        "boutiqueId": "9"
+    },
+    {
+        "id": "74",
+        "name": "‘‘Happy Skin Cream’ with calming Calendula",
+        "volume": "60ml",
+        "price": "30",
+        "brand": "Soothe-me",
+        "type": "face cream",
+        "info": "‘The Happy Skin Cream is suitable for sensitive skin, that maybe slightly dry. With soothing Calendula, Rose, Chamomile & Lavender waters that are soothing, balancing Evening Primrose and liquorice extract to help reduce inflammation. This skin creams natural ingredients can help ease mild eczema on the face, it is a soothing gentle light cream that can help mild acne too..",
+        "category": [
+            "Soothe-me",
+            "Moisturisers"
+        ],
+        "src": "./images/products/Happyskincreamsensitiveskin.jpg",
+        "boutiqueId": "9"
+    },
+    {
+        "id": "75",
+        "name": "‘Skin Calm Cream’ ease redness like Rosacea",
+        "volume": "60ml",
+        "price": "30",
+        "brand": "Soothe-me",
+        "type": "face cream",
+        "info": "Skin calm cream for sensitive skin on the face, with herbal tinctures that may help reduce inflammation conditions like Rosacea. Packed with calming herbal extracts of Yarrow, Horse Chestnut and gentle Organic wild farmed Which hazel, all rich in anti-inflammatory properties to help reduce redness and inflammation. A thick treatment cream, use a small amount twice daily on affected area for calming and soothing effect.",
+        "category": [
+            "Soothe-me",
+            "Moisturisers"
+        ],
+        "src": "./images/products/Skincalmcream.jpg",
+        "boutiqueId": "9"
     }
 ]

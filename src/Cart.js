@@ -108,7 +108,7 @@ class CartItem extends Component {
         return (
             <div className="CartItem">
                 <div className="image">
-                    <Link to={`./shop/${product.id}`}><img style={{ width: "200px" }} src={require(`${product.src}`).default} /></Link>
+                    <Link to={`/shop/products/${product.id}`}><img style={{ width: "200px" }} src={require(`${product.src}`).default} /></Link>
                 </div>
                 <div className="productInfo">
                     <h3>{product.name}</h3>

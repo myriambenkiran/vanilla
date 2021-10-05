@@ -12,10 +12,10 @@ const initState = {
 
 const initializer = (initialValue = initState) => {
     let value = initialValue;
-    //localStorage.clear();
     if (localStorage.getItem("localCart")) {
         if (localStorage.getItem("localCart") !== 'undefined') {
             value = JSON.parse(localStorage.getItem("localCart")) || initialValue;
+            value.items = initialValue.items;
         }
     }
     return value;

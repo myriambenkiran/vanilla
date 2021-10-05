@@ -3,6 +3,21 @@ a{
 	color:#1b1b1b;
 }
 
+.linkToBoutique{
+	text-decoration: underline;
+	text-decoration-color: #1b1b1b;
+	color:#1b1b1b;
+	margin: 1rem 0;
+}
+
+.linkToProducts{
+	text-decoration: underline;
+	text-decoration-color: #1b1b1b;
+	color:#1b1b1b;
+	margin: 1rem 0;
+	float: left;
+}
+
 .Shop{
 	margin:5rem 2% 10rem 2%;
 	padding:0;

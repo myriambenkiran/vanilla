@@ -29,7 +29,7 @@ class Boutique extends React.Component {
 
     render() {
 
-        let filter = this.props.match.params.filter;
+        let filter = "all";
 
         return (
             <div className="Shop">

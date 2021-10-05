@@ -5,7 +5,8 @@ import './style/DetailProductPage.css';
 import './style/Home.css';
 import { connect } from 'react-redux';
 import { compose } from "redux";
-import { addToCart } from './cartActions.js'
+import { addToCart } from './cartActions.js';
+import { Link } from 'react-router-dom';
 
 
 const mapStateToProps = (state) => {
@@ -29,12 +30,15 @@ class DetailProductPage extends React.Component {
     render() {
 
         const productId = this.props.match.params.productId;
+        console.log(productId);
+        console.log(products);
         const product = products.filter(p => p.id === productId)[0];
 
         let how;
         let important;
         let volumeSlash;
         let volumeText;
+        let linkToBoutique;
 
         if (product.how) {
             how = <p><strong>How to use: </strong>{product.how}</p>
@@ -48,6 +52,13 @@ class DetailProductPage extends React.Component {
             volumeSlash = <h4>/</h4>
             volumeText = `- ${product.volume} `
         }
+
+        if(product.boutiqueId){
+            linkToBoutique = <Link to={`/boutique/${product.boutiqueId}`} className="linkToBoutique">Discover the boutique</Link>
+        }
+
+        const path = require('path')
+        console.log(path.dirname())
 
         return (
             <div className="DetailProductPage">
@@ -63,7 +74,9 @@ class DetailProductPage extends React.Component {
                     <p>{product.info}</p>
                     {how}
                     {important}
+                    {linkToBoutique}
                     <div className="buttonShop" onClick={() => { this.handleClick(product.id) }}>Add to Cart</div>
+                    
                 </div>
             </div>
         );

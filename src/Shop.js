@@ -55,7 +55,7 @@ class Shop extends React.Component {
                     <div className="h4">
                         <p>We only select products that meet our own set of real ethical criteria so you're sure your order is really ethical.</p>
                         <p>We partner with ethical shops from all over London to source our products.</p>
-                        <p>We deliver on-demand from Monday to Saturday across London.</p>
+                        <p>We deliver on-demand from Monday to Saturday across London, pollution and packaging-free.</p>
                     </div>
                     <a href={require(`./pdf/Criteria.pdf`).default} target="_blank" >CLICK TO SEE OUR SET OF REAL ETHICAL CRITERIA</a>
                 </div>
@@ -180,7 +180,7 @@ class Product extends React.Component {
         return (
             <div className="Product" >
                 <div className="productImage">
-                    <Link to={`./shop/${product.id}`}><img src={require(`${product.src}`).default} /></Link>
+                    <Link to={`./products/${product.id}`}><img src={require(`${product.src}`).default} /></Link>
                 </div>
                 <div className="productInfo">
                     <h3>{product.name}</h3>

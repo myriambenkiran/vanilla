@@ -3,7 +3,7 @@
         "id": "1",
         "name": "Neal's Yard",
         "info": "Neal's Yard products are composed with the highest possible percentage of organic ingredients, using ethically sourced herbs, botanicals and essential oils.",
-        "address": "15 Neal's Yard, London WC2H 9DP",
+        "location": "15 Neal's Yard, London WC2H 9DP",
         "brands": "Neal's Yard",
         "category": [
             "Category 1",
@@ -15,7 +15,7 @@
         "id": "2",
         "name": "House of Green Beauty",
         "info": "When you walk into the House of Green Beauty you will walk into a world of true organic gorgeousness & leave feeling super passionate about the new knowledge & products you’ll have.",
-        "address": "Blue House Yard, 5 River Park Rd, London N22 7TB",
+        "location": "Blue House Yard, 5 River Park Rd, London N22 7TB",
         "brands": "Niniorganics, Innersense, and more.",
         "category": [
             "Category 1",
@@ -27,7 +27,7 @@
         "id": "4",
         "name": "Wolf and Badger",
         "info": "Wolf & Badger is home of a collection of indie clean and cruelty-free beauty products. The King’s Cross store is the Wolf & Badger flagship store.",
-        "address": "Coal Drops Yard, London NC1 4DQ",
+        "location": "Coal Drops Yard, London NC1 4DQ",
         "brands": "Gherane, Frank's remedies, and more.",
         "category": [
             "Category 1",
@@ -39,7 +39,7 @@
         "id": "5",
         "name": "The Bright Store",
         "info": "The Bright Store has a selection of curated skincare from independent makers and small businesses. They’re making it easier to shop small, ethical & slowly homewares, clothings, and more. The BRIGHT Store is located in the heart of Hoxton which is also a coffee shop with an indulgent range of vegan pastries and filled croissants, go vist their store located downstairs the coffee shop (store opened on weekends only).",
-        "address": "THE BRIGHT STORE, 268 HACKNEY ROAD, LONDON, E2 7SJ",
+        "location": "THE BRIGHT STORE, 268 HACKNEY ROAD, LONDON, E2 7SJ",
         "brands": "Farryn Amber, Suneeta London, and more.",
         "category": [
             "Category 1",
@@ -51,7 +51,7 @@
         "id": "6",
         "name": "AIDA Shoreditch",
         "info": "Situated in Shoreditch, AIDA is a concept store with a deep sense of community at its core.",
-        "address": "133 Shoreditch High Street, Shoreditch, East London, E1 6JE",
+        "location": "133 Shoreditch High Street, Shoreditch, East London, E1 6JE",
         "brands": "Salt & Stone, Soap, and more.",
         "category": [
             "Category 1",
@@ -63,7 +63,7 @@
         "id": "7",
         "name": "Lowie",
         "info": "Situated in Brixton, Lowie is a bright and spacious store that sells products as ethical as possible.",
-        "address": "Lowie, 25 Westow Street se19 3RY",
+        "location": "Lowie, 25 Westow Street se19 3RY",
         "brands": "Upcircle, Malako, and more.",
         "category": [
             "Category 1",
@@ -72,15 +72,28 @@
         "src": "./images/boutiques/lowie.jpeg"
     },
     {
-        "id": "9",
+        "id": "8",
         "name": "Selfridges",
         "info": "Selfridges is working to transition to more sustainable and ethical shopping by 2025 and already range an interesting range of ethical beauty.",
-        "address": "400 Oxford St, London W1C 1JS",
+        "location": "400 Oxford St, London W1C 1JS",
         "brands": "Aesop, Pai Skincare, and more.",
         "category": [
             "Category 1",
             "Category 2"
         ],
         "src": "./images/boutiques/selfridges.jpeg"
+    },
+    {
+        "id": "9",
+        "name": "Soothe-me",
+        "info": "Soothe-me is an award winning sustainable skincare company based in London and a resource for wellbeing – a place to discover and learn about skin wellness and ‘green’ skincare. All products are handmade by the amazing founder Suzie with plant-based ingredients only. Suzie believes that by learning how natural skincare benefits the skin, the body and the planet we can help to create conscious skincare ambassadors, who make more educated ‘clean & green’ beauty choices and who (hopefully) encourage others to do the same. We highly advice you to visit her Instagram account to not miss her next skin workshops!",
+        "location": "East London",
+        "brands": "Soothe-me (handmade artisan skincare)",
+        "category": [
+            "Category 1",
+            "Category 2"
+        ],
+        "src": "./images/boutiques/sootheme.png",
+        "products": "yes"
     }
 ]

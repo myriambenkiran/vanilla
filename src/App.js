@@ -23,10 +23,9 @@ function App() {
           <Route exact path="/" component={Shop} ><Redirect to="/shop/all" /></Route>
           <Route exact path="/shop" component={Shop} />
           <Route exact path="/shop/:filter" component={Shop} />
-          <Route exact path="/shop/:filter/:productId" component={DetailProductPage} />
+          <Route exact path="/shop/products/:productId" component={DetailProductPage} />
           <Route exact path="/boutique" component={Boutique} />
-          <Route exact path="/boutique/:filter" component={Boutique} />
-          <Route exact path="/boutique/:filter/:boutiqueId" component={DetailBoutique} />
+          <Route exact path="/boutique/:boutiqueId" component={DetailBoutique} />
           <Route exact path="/cart" component={Cart} />
           <Route exact path="/about" component={About} />
           <Route exact path="/contact" component={Contact} />

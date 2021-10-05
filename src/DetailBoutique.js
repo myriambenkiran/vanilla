@@ -5,6 +5,7 @@ import './style/DetailProductPage.css';
 import './style/Home.css';
 import { connect } from 'react-redux';
 import { compose } from "redux";
+import { Link } from 'react-router-dom';
 
 
 
@@ -19,6 +20,11 @@ class DetailBoutique extends React.Component {
         const boutiqueId = this.props.match.params.boutiqueId;
         const boutique = boutiques.filter(p => p.id === boutiqueId)[0];
 
+        let linkToProducts;
+        if(boutique.products){
+            linkToProducts = <Link to={`/shop/${boutique.name.toLowerCase()}`} className="linkToProducts">Discover the products</Link>
+        };
+
 
         return (
             <div className="DetailProductPage">
@@ -27,8 +33,9 @@ class DetailBoutique extends React.Component {
                     <h3>{boutique.name}</h3>
 
                     <p>{boutique.info}</p>
-                    <p><strong>Address:</strong> {boutique.address}</p>
+                    <p><strong>Location:</strong> {boutique.location}</p>
                     <p><strong>Brands available:</strong> {boutique.brands}</p>
+                    {linkToProducts}
                 </div>
             </div>
         );
